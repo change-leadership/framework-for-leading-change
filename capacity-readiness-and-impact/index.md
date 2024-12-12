@@ -11,15 +11,15 @@ Here we will:
 
 - [Examine organizational change maturity](/capacity-readiness-and-impact/organizational-change-maturity/)
 
-- [Analyze our change saturation and fatigue](https://articles.alpha.canada.ca/framework-for-leading-change/change-saturation-and-fatigue/)
+- [Analyze our change saturation and fatigue](/change-saturation-and-fatigue/)
 
-- [Assess how ready we are to implement the change](https://articles.alpha.canada.ca/framework-for-leading-change/assess-how-ready-we-are-to-implement-the-change/)
+- [Assess how ready we are to implement the change](/assess-how-ready-we-are-to-implement-the-change/)
 
-- [Assess leadership capacity for change](https://articles.alpha.canada.ca/framework-for-leading-change/assess-our-leaderships-capacity-for-change/)
+- [Assess leadership capacity for change](/assess-our-leaderships-capacity-for-change/)
 
-- [Assess the impact of the change](https://articles.alpha.canada.ca/framework-for-leading-change/assessing-the-impact/)
+- [Assess the impact of the change](/assessing-the-impact/)
 
-- [Conduct a risk assessment](https://articles.alpha.canada.ca/framework-for-leading-change/understanding-our-risks/)
+- [Conduct a risk assessment](/understanding-our-risks/)
 
 * * *
 
