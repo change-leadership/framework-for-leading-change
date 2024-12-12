@@ -9,7 +9,7 @@ In this section we get a better sense of how solid the foundation for change is 
 
 Here we will:
 
-- [Examine organizational change maturity](https://articles.alpha.canada.ca/framework-for-leading-change/capacity-readiness-and-impact/organizational-change-maturity/)
+- [Examine organizational change maturity](/capacity-readiness-and-impact/organizational-change-maturity/)
 
 - [Analyze our change saturation and fatigue](https://articles.alpha.canada.ca/framework-for-leading-change/change-saturation-and-fatigue/)
 
