@@ -3,7 +3,7 @@ title: "Capacity, readiness and impact"
 date: "2023-01-27"
 ---
 
-![](images/Strategizing.png)
+![](images/FLC-Strategizing.png)
 
 In this section we get a better sense of how solid the foundation for change is in our organization, the level of change saturation, and how ready we are for change.
 
