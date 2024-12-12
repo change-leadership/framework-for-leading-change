@@ -1,0 +1,24 @@
+Our engagement plan can include (we can refer back to ''[https://articles.alpha.canada.ca/framework-for-leading-change/?page_id=311 Section 4: Capacity, readiness and impact / Stakeholder impact assessment]'' and ''[https://articles.alpha.canada.ca/framework-for-leading-change/?page_id=339 Section 5: Getting people on board / Engaging with key stakeholders]''):
+
+* The analysis of our stakeholders
+* The level and type of engagement with stakeholders
+* Our engagement objectives
+* Our engagement activities
+
+There are a variety of templates we can use if we choose to do so.
+
+One example is based on an [https://articles.alpha.canada.ca/uploads/sites/46/2022/11/Engagement-plan-template.doc engagement plan] developed at the Department of National Defence.
+
+A second example is the [https://wiki.gccollab.ca/images/b/b7/003_WCM_Engagement_Plan_Template.docx engagement plan template] (must be on an internal Government of Canada server to access) developed by the Change Management National Centre of Expertise in Accommodation Management and Workplace Solutions at Public Services and Procurement Canada.
+
+'''''*Note'''''_: the engagement plan template is specific to workplace modernization in the public service but can be adapted to suit other changes. Further, this template is based on the ADKAR model from the Prosci methodology and provides space to include content related to this. Because our approach may not be based on Prosci, we can just remove these sections in the template._
+
+
+-----
+
+[https://articles.alpha.canada.ca/framework-for-leading-change/risk-plan/ Next: Risk management plan]
+
+[https://articles.alpha.canada.ca/framework-for-leading-change/developing-our-plans/ Back to beginning of section]
+
+
+-----
