@@ -39,8 +39,8 @@ Each of these elements may need to be updated as the initiative progress. It is 
 
 * * *
 
-[Next: Engagement plan](https://articles.alpha.canada.ca/framework-for-leading-change/engagement-plan/)
+[Next: Engagement plan](/engagement-plan/)
 
-[Back to beginning of section](https://articles.alpha.canada.ca/framework-for-leading-change/developing-our-plans/)
+[Back to beginning of section](/developing-our-plans/)
 
 * * *
