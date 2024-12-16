@@ -23,9 +23,9 @@ There are four parts to the framework. Divided among the four parts are eight se
 
 <img src="images/FLC-Deepening.png" width="150">
 
-**1.** [Navigating the world of change](https://articles.alpha.canada.ca/framework-for-leading-change/?page_id=116) provides us with essential concepts that will help us to develop our strategy and implement our plan.
+**1.** [Navigating the world of change](/navigating-the-world-of-change/) provides us with essential concepts that will help us to develop our strategy and implement our plan.
 
-**2.** [Laying our foundation for successful change](https://articles.alpha.canada.ca/framework-for-leading-change/?page_id=201) covers the “why” of the change, the conditions that need to be fulfilled for us to succeed, and some of the ways we can bring it about. In this phase we set the stage for the strategy we will use to navigate our change.
+**2.** [Laying our foundation for successful change](/laying-our-foundation-for-successful-change) covers the “why” of the change, the conditions that need to be fulfilled for us to succeed, and some of the ways we can bring it about. In this phase we set the stage for the strategy we will use to navigate our change.
 
 ### How can this section help us?
 
@@ -37,13 +37,13 @@ Our knowledge of how to navigate (for our purposes, our knowledge of the latest 
 
 <img src="images/FLC-Strategizing.png" width="150">
 
-**3.** [Understanding our context](https://articles.alpha.canada.ca/framework-for-leading-change/?page_id=255) involves assessing our environment and culture, both to see where our change fits within the broader organization, and so we can determine the best approach to support it.
+**3.** [Understanding our context](/understanding-our-context) involves assessing our environment and culture, both to see where our change fits within the broader organization, and so we can determine the best approach to support it.
 
-**4.** [Capacity, readiness and impact](https://articles.alpha.canada.ca/framework-for-leading-change/?page_id=282) provides an opportunity for us to refine our understanding of how ready we are for change, the impact it will have on key players, and how we will work with them throughout the change.
+**4.** [Capacity, readiness and impact](capacity-readiness-and-impact/) provides an opportunity for us to refine our understanding of how ready we are for change, the impact it will have on key players, and how we will work with them throughout the change.
 
-**5.** [Getting people on board](https://articles.alpha.canada.ca/framework-for-leading-change/?page_id=322) includes the engagement activities necessary to ensure the change is successful, depending on the type of change we are leading and who is taking part in it.
+**5.** [Getting people on board](getting-people-on-board) includes the engagement activities necessary to ensure the change is successful, depending on the type of change we are leading and who is taking part in it.
 
-**6\.** [Developing our plans](https://articles.alpha.canada.ca/framework-for-leading-change/?page_id=347) involves creating and integrating the various plans (e.g., engagement, communications) that will guide us when rolling out the change.
+**6\.** [Developing our plans](/developing-our-plans) involves creating and integrating the various plans (e.g., engagement, communications) that will guide us when rolling out the change.
 
 ### How can this section help us?
 
