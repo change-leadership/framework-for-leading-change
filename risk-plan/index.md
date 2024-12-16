@@ -15,7 +15,7 @@ Here we want to include:
 
 - Our risk monitoring activities
 
-For more information on risks, we can consult _[Section 4: Capacity, readiness and impact / Understanding our risks](https://articles.alpha.canada.ca/framework-for-leading-change/?page_id=315)_.
+For more information on risks, we can consult _[Section 4: Capacity, readiness and impact / Understanding our risks](/capacity-readiness-and-impact)_.
 
 There are a variety of templates we can use if we choose to do so. One example is based on a [risk management plan](https://articles.alpha.canada.ca/uploads/sites/46/2022/11/Risk-plan-template.doc) developed at the Department of National Defence.
 
