@@ -33,8 +33,8 @@ At this point we’ve developed a sense of our type of change (incremental, tran
 
 * * *
 
-[Next: Leading change in government](https://articles.alpha.canada.ca/framework-for-leading-change/?page_id=164)
+[Next: Leading change in government](/leading-change-in-government)
 
-[Back to beginning of section](https://articles.alpha.canada.ca/framework-for-leading-change/navigating-the-world-of-change/)
+[Back to beginning of section](/navigating-the-world-of-change/)
 
 * * *
