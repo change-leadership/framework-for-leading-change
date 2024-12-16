@@ -59,8 +59,8 @@ Il est essentiel de comprendre les défis particuliers liés à la direction du 
 
 * * *
 
-[****Prochain : Rôles liés au changement****](https://articles.alpha.canada.ca/framework-for-leading-change/fr/roles-lies-au-changement/)
+[****Prochain : Rôles liés au changement****](/roles-lies-au-changement/)
 
-[**Retour au début de la section**](https://articles.alpha.canada.ca/framework-for-leading-change/fr/naviguer-dans-le-monde-du-changement/)
+[**Retour au début de la section**](/naviguer-dans-le-monde-du-changement/)
 
 * * *
