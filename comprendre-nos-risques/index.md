@@ -43,7 +43,7 @@ Voici un exemple de la façon dont nous pourrions représenter visuellement nos 
 
 <figure>
 
-![](images/Heat-map-FR.jpg)
+![](/images/FLC-Heat-map-FR.jpg)
 
 <figcaption>
 
@@ -106,8 +106,8 @@ Les risques sont susceptibles d’évoluer au fil du temps. Il est donc importan
 
 * * *
 
-[****Prochain : **Rallier les gens au changement******](https://articles.alpha.canada.ca/framework-for-leading-change/fr/rallier-les-gens-au-changement/)
+[****Prochain : **Rallier les gens au changement******](/rallier-les-gens-au-changement/)
 
-[**Retour au début de la section**](https://articles.alpha.canada.ca/framework-for-leading-change/fr/capacite-etat-de-preparation-et-incidence/)
+[**Retour au début de la section**](/capacite-etat-de-preparation-et-incidence/)
 
 * * *
