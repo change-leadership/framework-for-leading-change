@@ -23,7 +23,7 @@ When setting up our governance for change, there are several areas we likely wan
 
 When deciding on roles for our governance structure, one best practice is to ensure there is vertical, horizontal and diagonal integration. By creating an integrated structure like this, we are well-placed to ensure cross-pollination across disciplines and levels, without overcommitting resources, and allowing the best flow of information, generation of ideas, action-taking, and decision-making. An additional benefit to this type of structure is that it allows us to expand or collapse our governance when necessary, while ensuring continuity, depending on where in the process the change initiative is at.
 
-Our stakeholder list (see sections _[Section 2: Laying our foundation for successful change / Stakeholders and change](https://articles.alpha.canada.ca/framework-for-leading-change/stakeholders-and-change/)_ and _[Section 4: Capacity, readiness and impact / Stakeholder impact assessment](https://articles.alpha.canada.ca/framework-for-leading-change/stakeholders-and-change/)_) can provide great inspiration to determine who (e.g., from which discipline or stakeholder group) should be involved in our governance for change and at what level (e.g., executive, manager, employee, or other stakeholders).
+Our stakeholder list (see sections _[Section 2: Laying our foundation for successful change / Stakeholders and change](/stakeholders-and-change/)_ and _[Section 4: Capacity, readiness and impact / Stakeholder impact assessment](/stakeholders-and-change/)_) can provide great inspiration to determine who (e.g., from which discipline or stakeholder group) should be involved in our governance for change and at what level (e.g., executive, manager, employee, or other stakeholders).
 
 If the list of stakeholders has not been developed before we begin defining our governance for change, we can consider including stakeholders mentioned in the next paragraphs below, as appropriate. We can always fine-tune the governance once we have a full list of our stakeholders, and during the process as things evolve.
 
@@ -67,8 +67,8 @@ This may be a good place for change leadership training and thought-provoking di
 
 * * *
 
-[Next: Leading change in a hybrid environment](https://articles.alpha.canada.ca/framework-for-leading-change/?page_id=168)
+[Next: Leading change in a hybrid environment](/leading-change-in-a-hybrid-environment/)
 
-[Back to beginning of section](https://articles.alpha.canada.ca/framework-for-leading-change/navigating-the-world-of-change/)
+[Back to beginning of section](/navigating-the-world-of-change/)
 
 * * *
