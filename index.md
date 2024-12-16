@@ -21,7 +21,7 @@ There are four parts to the framework. Divided among the four parts are eight se
 
 **Deepening our understanding of how to navigate change**
 
-![](images/Deepening.png)
+<img src="images/FLC-Deepening.png" width="150">
 
 **1.** [Navigating the world of change](https://articles.alpha.canada.ca/framework-for-leading-change/?page_id=116) provides us with essential concepts that will help us to develop our strategy and implement our plan.
 
@@ -35,7 +35,7 @@ Our knowledge of how to navigate (for our purposes, our knowledge of the latest 
 
 ****Strategizing** and **Planning** our route**
 
-![](images/Strategizing.png)
+<img src="images/FLC-Strategizing.png" width="150">
 
 **3.** [Understanding our context](https://articles.alpha.canada.ca/framework-for-leading-change/?page_id=255) involves assessing our environment and culture, both to see where our change fits within the broader organization, and so we can determine the best approach to support it.
 
@@ -53,7 +53,7 @@ Planning is an essential phase when exploring, but we need to be ready and capab
 
 ****Navigating** our change**
 
-![](images/Navigating.png)
+<img src="images/FLC-Navigating.png" width="150">
 
 **7.** [Implementing the change](https://articles.alpha.canada.ca/framework-for-leading-change/?page_id=386) involves carrying out the activities developed in the first sections, including being flexible, soliciting feedback, and adapting as we go.
 
@@ -65,7 +65,7 @@ Deep engagement and collaboration is essential to be able to get to our waypoint
 
 **Reaching our waypoint**
 
-![](images/Waypoint.png)
+<img src="images/FLC-Waypoint.png" width="150">
 
 **8.** [Living with the change](https://articles.alpha.canada.ca/framework-for-leading-change/?page_id=412) is about ensuring the change is sustainable and that we can continue to build on our successful outcome, which will help strengthen the organization in facing future change.
 
