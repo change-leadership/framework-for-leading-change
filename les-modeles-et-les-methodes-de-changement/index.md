@@ -33,8 +33,8 @@ Chaque modèle a une valeur particulière, et il est souvent préférable de s�
 
 * * *
 
-[****Prochain: La direction du changement au sein du gouvernement****](https://articles.alpha.canada.ca/framework-for-leading-change/fr/la-direction-du-changement-au-sein-du-gouvernement/)
+[****Prochain: La direction du changement au sein du gouvernement****](/la-direction-du-changement-au-sein-du-gouvernement/)
 
-[**Retour au début de la section**](https://articles.alpha.canada.ca/framework-for-leading-change/fr/naviguer-dans-le-monde-du-changement/)
+[**Retour au début de la section**](/naviguer-dans-le-monde-du-changement/)
 
 * * *
