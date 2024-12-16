@@ -37,7 +37,7 @@ En bas à gauche - faible influence, faible intérêt - informer. Intervenants q
 <div></div>
 En bas à droite - intérêt élevé, faible influence - impliquer. Les intervenants que nous devons considérer/impliquer pour des domaines particuliers de notre travail. Cultiver leur intérêt pour nous. établir des relations. Investissement sélectif de ressources / niveau d’effort modéré.]
 
-(images/FLC-Determining-the-level-of-mobilization-needed-FR.png)
+(/images/FLC-Determining-the-level-of-mobilization-needed-FR.png)
 
 **Prochaines étapes**
 
