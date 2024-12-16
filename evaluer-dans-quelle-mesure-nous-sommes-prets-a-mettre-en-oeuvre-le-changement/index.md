@@ -61,15 +61,15 @@ Au terme de nos discussions avec un large éventail d’intervenants sur l’ét
 
 **Intégration de tous les éléments**
 
-Maintenant que nous avons une meilleure appréciation de notre niveau de préparation organisationnel, nous pouvons l’examiner par rapport au type de changement que nous souhaitons diriger (sur ce sujet, reportez-vous à [la section 1 – Le type de changement que nous dirigeons](https://articles.alpha.canada.ca/framework-for-leading-change/fr/naviguer-dans-le-monde-du-changement/le-type-de-changement-que-nous-dirigeons/)).
+Maintenant que nous avons une meilleure appréciation de notre niveau de préparation organisationnel, nous pouvons l’examiner par rapport au type de changement que nous souhaitons diriger (sur ce sujet, reportez-vous à [la section 1 – Le type de changement que nous dirigeons](/naviguer-dans-le-monde-du-changement/le-type-de-changement-que-nous-dirigeons/)).
 
-En examinant notre état de préparation et le type de changement, nous pouvons déterminer le niveau de risque associé à notre changement (sur ce sujet, reportez-vous à [la section 6 – Élaborer nos plans : Plan de gestion des risques](https://articles.alpha.canada.ca/framework-for-leading-change/fr/plan-de-gestion-des-risques/)).
+En examinant notre état de préparation et le type de changement, nous pouvons déterminer le niveau de risque associé à notre changement (sur ce sujet, reportez-vous à [la section 6 – Élaborer nos plans : Plan de gestion des risques](/plan-de-gestion-des-risques/)).
 
 Le tableau suivant illustre le risque global que représente le changement pour notre organisation. Il peut nous aider à déterminer l’état de préparation global de notre organisation et, par conséquent, à quel point nous devons investir davantage d’efforts pour renforcer notre capacité de changement. Il peut aussi s’avérer utile pour les séances d’information à l’intention des leaders et des intervenants.
 
 <figure>
 
-![Préparation au changement et risque. L’axe des y illustre les attributs organisationnels qui les distinguent du changement prêt à changer. L’axe des x illustre les caractéristiques du changement, de petit/progressif à grand/perturbateur. Il y a quatre quadrants au centre. En bas à gauche, le risque est faible. En haut à gauche et en bas à droite, le risque est moyen. En haut à droite, le risque est élevé.](images/Change-readiness-and-risk-FR.png)
+![Préparation au changement et risque. L’axe des y illustre les attributs organisationnels qui les distinguent du changement prêt à changer. L’axe des x illustre les caractéristiques du changement, de petit/progressif à grand/perturbateur. Il y a quatre quadrants au centre. En bas à gauche, le risque est faible. En haut à gauche et en bas à droite, le risque est moyen. En haut à droite, le risque est élevé.](images/FLC-Change-readiness-and-risk-FR.png)
 
 <figcaption>
 
@@ -79,7 +79,7 @@ Adapté de Prosci, [_Before You Act, Consider These Keys to Preparing for Change
 
 </figure>
 
-De nombreuses évaluations attribuent un rang aux divers aspects de l’état de préparation au changement. Par exemple, en utilisant une échelle de 1 à 5, nous pouvons accorder plus de poids à certains aspects de l’état de préparation qu’à d’autres. Pour en savoir plus à ce sujet, reportez-vous à [la section 2 – Moteurs et obstacles : Déterminer l’incidence globale de chaque force](https://articles.alpha.canada.ca/framework-for-leading-change/fr/nos-moteurs-et-obstacles-du-changement/).
+De nombreuses évaluations attribuent un rang aux divers aspects de l’état de préparation au changement. Par exemple, en utilisant une échelle de 1 à 5, nous pouvons accorder plus de poids à certains aspects de l’état de préparation qu’à d’autres. Pour en savoir plus à ce sujet, reportez-vous à [la section 2 – Moteurs et obstacles : Déterminer l’incidence globale de chaque force](/nos-moteurs-et-obstacles-du-changement/).
 
 En fin de compte, une telle échelle peut nous aider à obtenir une certaine précision quant aux domaines sur lesquels nous devons nous concentrer. Cela dit, ce sont nos discussions elles-mêmes et les données qualitatives que nous recevons qui nous aideront réellement à comprendre notre état de préparation au changement.
 
@@ -89,8 +89,8 @@ Maintenant que nous comprenons mieux notre niveau de préparation, nous pouvons 
 
 * * *
 
-[****Prochain :** Évaluer la capacité de la direction à adopter le changement**](https://articles.alpha.canada.ca/framework-for-leading-change/fr/evaluer-la-capacite-de-la-direction-a-adopter-le-changement/)
+[****Prochain :** Évaluer la capacité de la direction à adopter le changement**](/evaluer-la-capacite-de-la-direction-a-adopter-le-changement/)
 
-[**Retour au début de la section**](https://articles.alpha.canada.ca/framework-for-leading-change/fr/capacite-etat-de-preparation-et-incidence/)
+[**Retour au début de la section**](/capacite-etat-de-preparation-et-incidence/)
 
 * * *
