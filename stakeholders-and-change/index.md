@@ -91,8 +91,8 @@ With our understanding of the importance of trust and dialogue, we can begin to 
 
 * * *
 
-[Next: Building our change team](https://articles.alpha.canada.ca/framework-for-leading-change/building-our-change-team/)
+[Next: Building our change team](/building-our-change-team/)
 
-[Back to beginning of section](https://articles.alpha.canada.ca/framework-for-leading-change/laying-our-foundation-for-successful-change/)
+[Back to beginning of section](/laying-our-foundation-for-successful-change/)
 
 * * *
