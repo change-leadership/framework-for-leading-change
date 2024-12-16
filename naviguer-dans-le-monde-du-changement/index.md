@@ -3,7 +3,7 @@ title: "Naviguer dans le monde du changement"
 date: "2023-01-30"
 ---
 
-![](images/Deepening.png)
+![](images/FLC-Deepening.png)
 
 Les connaissances dans le domaine du changement ont considérablement augmenté au cours des dernières décennies en raison de la recherche et de l’expérience acquise au sein de l’industrie, du gouvernement et du milieu universitaire.
 
