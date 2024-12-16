@@ -39,8 +39,8 @@ Maintenant que nous comprenons l’importance de la confiance et du dialogue, no
 
 * * *
 
-[****Prochain :** Jeter les bases d’un changement réussi**](https://articles.alpha.canada.ca/framework-for-leading-change/fr/jeter-les-bases-dun-changement-reussi/)
+[****Prochain :** Jeter les bases d’un changement réussi**](/jeter-les-bases-dun-changement-reussi/)
 
-[**Retour au début de la section**](https://articles.alpha.canada.ca/framework-for-leading-change/fr/naviguer-dans-le-monde-du-changement/)
+[**Retour au début de la section**](/naviguer-dans-le-monde-du-changement/)
 
 * * *
