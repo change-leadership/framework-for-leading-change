@@ -21,7 +21,7 @@ There are four parts to the framework. Divided among the four parts are eight se
 
 **Deepening our understanding of how to navigate change**
 
-![](images/FLC-Deepening.png =250x250)
+<img src="images/FLC-Deepening.png" width="100" height="100">
 
 **1.** [Navigating the world of change](https://articles.alpha.canada.ca/framework-for-leading-change/?page_id=116) provides us with essential concepts that will help us to develop our strategy and implement our plan.
 
