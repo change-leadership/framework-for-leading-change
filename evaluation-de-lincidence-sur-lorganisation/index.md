@@ -29,7 +29,7 @@ Une façon d’évaluer l’incidence sur l’organisation est d’utiliser le [
 
 Chacun de ces éléments est interconnecté plutôt que linéaire et hiérarchique.
 
-![](images/Mckinsey-7S-FR-1024x600.png)
+![](images/FLC-Mckinsey-7S-FR-1024x600.png)
 
 _Le mettre sur papier_
 
@@ -45,8 +45,8 @@ Maintenant que nous comprenons mieux les incidences du changement sur notre orga
 
 * * *
 
-[****Prochain : **Évaluation de l’incidence sur les intervenants******](https://articles.alpha.canada.ca/framework-for-leading-change/fr/evaluation-de-lincidence-sur-les-intervenants/)
+[****Prochain : **Évaluation de l’incidence sur les intervenants******](/evaluation-de-lincidence-sur-les-intervenants/)
 
-[**Retour au début de la section**](https://articles.alpha.canada.ca/framework-for-leading-change/fr/capacite-etat-de-preparation-et-incidence/)
+[**Retour au début de la section**](/capacite-etat-de-preparation-et-incidence/)
 
 * * *
