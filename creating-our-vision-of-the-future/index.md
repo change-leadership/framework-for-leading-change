@@ -101,8 +101,8 @@ Now that we have understood our drivers of change and created our vision (and en
 
 * * *
 
-[******Next: Setting out our conditions for success******](https://articles.alpha.canada.ca/framework-for-leading-change/setting-out-our-conditions-for-success)
+[******Next: Setting out our conditions for success******](/setting-out-our-conditions-for-success)
 
-[Back to beginning of section](https://articles.alpha.canada.ca/framework-for-leading-change/laying-our-foundation-for-successful-change/)
+[Back to beginning of section](/laying-our-foundation-for-successful-change/)
 
 * * *
