@@ -5,7 +5,7 @@ date: "2023-02-01"
 
 Notre évaluation des incidences sur les intervenants s’appuie sur la liste des intervenants que nous avons dressée plus tôt dans le processus. Si nous avons fait participer les intervenants tout au long de cette étape, nous aurons probablement recueilli suffisamment d’information pour effectuer une analyse plus approfondie des incidences.
 
-Si ce n’est pas le cas, voici maintenant le moment le plus approprié pour dresser notre liste initiale des intervenants et commencer à communiquer avec eux (pour en savoir plus à ce sujet, consultez [la section 2 – Jeter les bases d’un changement réussi : Intervenants et changement](https://articles.alpha.canada.ca/framework-for-leading-change/fr/jeter-les-bases-dun-changement-reussi/)).
+Si ce n’est pas le cas, voici maintenant le moment le plus approprié pour dresser notre liste initiale des intervenants et commencer à communiquer avec eux (pour en savoir plus à ce sujet, consultez [la section 2 – Jeter les bases d’un changement réussi : Intervenants et changement](/jeter-les-bases-dun-changement-reussi/)).
 
 L’une des meilleures façons de mettre à l’essai nos hypothèses quant aux incidences du changement sur chacun des intervenants est d’en discuter directement avec eux. Même si nous savons qui sont nos intervenants, notre examen des incidences du changement nous donne une bien meilleure idée de ce que le changement implique réellement du point de vue des intervenants. Le fait d’omettre une telle analyse approfondie des intervenants entraînera probablement l’échec de tout processus de changement.
 
@@ -71,8 +71,8 @@ Les besoins et les préoccupations des intervenants, ainsi que les incidences su
 
 * * *
 
-[****Prochain : **Comprendre nos risques******](https://articles.alpha.canada.ca/framework-for-leading-change/fr/comprendre-nos-risques/)
+[****Prochain : **Comprendre nos risques******](/comprendre-nos-risques/)
 
-[**Retour au début de la section**](https://articles.alpha.canada.ca/framework-for-leading-change/fr/capacite-etat-de-preparation-et-incidence/)
+[**Retour au début de la section**](/capacite-etat-de-preparation-et-incidence/)
 
 * * *
