@@ -69,8 +69,8 @@ At this point we have a good understanding of our change and the impact on our o
 
 * * *
 
-[Next: Understanding our risks](https://articles.alpha.canada.ca/framework-for-leading-change/understanding-our-risks/)
+[Next: Understanding our risks](/understanding-our-risks/)
 
-[Back to beginning of section](https://articles.alpha.canada.ca/framework-for-leading-change/capacity-readiness-and-impact/)
+[Back to beginning of section](/capacity-readiness-and-impact/)
 
 * * *
