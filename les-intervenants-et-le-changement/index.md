@@ -87,8 +87,8 @@ Nous pouvons commencer par appliquer la formule pour un changement réussi et d�
 
 * * *
 
-[******Prochain : Mettre sur pied notre équipe du changement******](https://articles.alpha.canada.ca/framework-for-leading-change/fr/mettre-sur-pied-notre-equipe-du-changement/)
+[******Prochain : Mettre sur pied notre équipe du changement******](/mettre-sur-pied-notre-equipe-du-changement/)
 
-[**Retour au début de la section**](https://articles.alpha.canada.ca/framework-for-leading-change/fr/jeter-les-bases-dun-changement-reussi/)
+[**Retour au début de la section**](/jeter-les-bases-dun-changement-reussi/)
 
 * * *
