@@ -35,8 +35,8 @@ With our understanding of the importance of trust and dialogue, we can begin to 
 
 * * *
 
-[Next: Laying our foundation for successful change](https://articles.alpha.canada.ca/framework-for-leading-change/?page_id=201)
+[Next: Laying our foundation for successful change](/laying-our-foundation-for-successful-change/)
 
-[Back to beginning of section](https://articles.alpha.canada.ca/framework-for-leading-change/navigating-the-world-of-change/)
+[Back to beginning of section](/navigating-the-world-of-change/)
 
 * * *
