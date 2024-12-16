@@ -19,7 +19,7 @@ _Internal forces_ are the main factors influencing the need to change coming fro
 
 One way to identify drivers and barriers is by using a force field analysis (a technique developed by Kurt Lewin). A force field analysis template typically looks like this:
 
-![A square box with the text "proposed change" in the middle. On the left are arrows depicting the pressure that the drivers of change are putting on us to go through with the change. On the right are arrows depicting the pressure or inertia against the change.](images/drivers-and-barriers-2.png)
+![A square box with the text "proposed change" in the middle. On the left are arrows depicting the pressure that the drivers of change are putting on us to go through with the change. On the right are arrows depicting the pressure or inertia against the change.](images/FLC-drivers-and-barriers-2.png)
 
 In this example the drivers are on the left and the barriers are on the right. The longer the arrow, the more impactful the force of the driver or barrier is. The overall weight of all the drivers and barriers is summed at the bottom, which can give us a good sense of the current practicality of the proposed change.
 
@@ -77,8 +77,8 @@ Based on what we have discovered is driving the change, we now have a better und
 
 * * *
 
-[****Next: Building our case for change****](https://articles.alpha.canada.ca/framework-for-leading-change/building-our-case-for-change/)
+[****Next: Building our case for change****](/building-our-case-for-change/)
 
-[Back to beginning of section](https://articles.alpha.canada.ca/framework-for-leading-change/laying-our-foundation-for-successful-change/)
+[Back to beginning of section](/laying-our-foundation-for-successful-change/)
 
 * * *
