@@ -3,7 +3,7 @@ title: "Élaborer nos plans"
 date: "2023-02-01"
 ---
 
-![](images/Strategizing.png)
+![](images/FLC-Strategizing.png)
 
 Nos plans constituent essentiellement notre plan de match, lequel s’appuie sur les connaissances qualitatives et quantitatives que nous avons acquises lors des discussions avec les intervenants. Ils servent à encadrer la façon dont nous mettons en œuvre le changement de façon concrète.
 
@@ -19,24 +19,24 @@ Le point à retenir est qu’il est possible d’adapter nos différents plans e
 
 À cette étape, nous allons élaborer les plans suivants :
 
-- [Plan de changement](https://articles.alpha.canada.ca/framework-for-leading-change/fr/plan-de-changement/)
+- [Plan de changement](/plan-de-changement/)
 
-- [Plan de mobilisation](https://articles.alpha.canada.ca/framework-for-leading-change/fr/plan-de-mobilisation/)
+- [Plan de mobilisation](/plan-de-mobilisation/)
 
-- [Plan de gestion des risques](https://articles.alpha.canada.ca/framework-for-leading-change/fr/plan-de-gestion-des-risques/)
+- [Plan de gestion des risques](/plan-de-gestion-des-risques/)
 
-- [Plan de communications](https://articles.alpha.canada.ca/framework-for-leading-change/fr/plan-de-communication/)
+- [Plan de communications](/plan-de-communication/)
 
-- [Plan relatif aux ressources humaines](https://articles.alpha.canada.ca/framework-for-leading-change/fr/plan-relatif-aux-ressources-humaines/)
+- [Plan relatif aux ressources humaines](/plan-relatif-aux-ressources-humaines/)
 
-- [Plan de formation/d’apprentissage](https://articles.alpha.canada.ca/framework-for-leading-change/fr/plan-de-formation-dapprentissage/)
+- [Plan de formation/d’apprentissage](/plan-de-formation-dapprentissage/)
 
-- [Plan de consolidation / pérennité](https://articles.alpha.canada.ca/framework-for-leading-change/fr/plan-de-consolidation-perennite/)
+- [Plan de consolidation / pérennité](/plan-de-consolidation-perennite/)
 
 * * *
 
-[**Prochain : Plan de changement**](https://articles.alpha.canada.ca/tpsgc-pwgsc-framework-for-leading-change/fr/plan-de-changement/)
+[**Prochain : Plan de changement**](/plan-de-changement/)
 
-[**Retour à l’aperçu du cadre**](https://articles.alpha.canada.ca/framework-for-leading-change/fr/un-cadre-pour-diriger-le-changement/)
+[**Retour à l’aperçu du cadre**](/un-cadre-pour-diriger-le-changement/)
 
 * * *
