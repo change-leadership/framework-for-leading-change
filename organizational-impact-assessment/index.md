@@ -29,7 +29,7 @@ One way we can assess organizational impact is by using the lens of the [McKinse
 
 Each of these is interconnected, rather than linear and hierarchical.
 
-![](images/McKinsey-1024x600.png)
+![](images/FLC-McKinsey-1024x600.png)
 
 _Getting it down on paper_
 
@@ -45,8 +45,8 @@ Now that we better understand the impacts of the change on our organization, we 
 
 * * *
 
-[Next: Stakeholder impact assessment](https://articles.alpha.canada.ca/framework-for-leading-change/stakeholder-impact-assessment/)
+[Next: Stakeholder impact assessment](/stakeholder-impact-assessment/)
 
-[Back to beginning of section](https://articles.alpha.canada.ca/framework-for-leading-change/capacity-readiness-and-impact/)
+[Back to beginning of section](/capacity-readiness-and-impact/)
 
 * * *
