@@ -3,7 +3,7 @@ title: "Rôles liés au changement"
 date: "2023-01-31"
 ---
 
-_Notre chef de projet (ou parrain)_ est la plus haute autorité responsable du changement. Le chef de projet donne l’exemple des comportements et de la mentalité de leadership du changement qui mèneront au succès du projet (voir [la section 1 : Comment adopter une mentalité de leadership du changement](https://articles.alpha.canada.ca/framework-for-leading-change/fr/la-gestion-du-changement-et-le-leadership-du-changement/) et la feuille de travail du leader du changement, ci-dessous). Le chef de projet a le pouvoir d’autoriser (ou demander) du financement, de résoudre les problèmes, d’approuver les principaux livrables et de fournir une orientation générale. Les responsabilités communes, qui peuvent être accomplies avec l’aide des membres de l’équipe de leadership du changement et des intervenants clés, comprennent :
+_Notre chef de projet (ou parrain)_ est la plus haute autorité responsable du changement. Le chef de projet donne l’exemple des comportements et de la mentalité de leadership du changement qui mèneront au succès du projet (voir [la section 1 : Comment adopter une mentalité de leadership du changement](/la-gestion-du-changement-et-le-leadership-du-changement/) et la feuille de travail du leader du changement, ci-dessous). Le chef de projet a le pouvoir d’autoriser (ou demander) du financement, de résoudre les problèmes, d’approuver les principaux livrables et de fournir une orientation générale. Les responsabilités communes, qui peuvent être accomplies avec l’aide des membres de l’équipe de leadership du changement et des intervenants clés, comprennent :
 
 - Déterminer les objectifs et les résultats mesurables du changement;
 
@@ -15,7 +15,7 @@ _Notre chef de projet (ou parrain)_ est la plus haute autorité responsable du c
 
 **Être un parrain du changement**
 
-Il existe un certain nombre de pratiques que peut suivre le parrain du changement pour mieux préparer et diriger le changement. Ces mesures sont éclairées par une mentalité de leadership du changement (de plus amples détails à ce sujet sont  fournis dans la section [Comment adopter une mentalité  de leadership du changement à la section 1](https://articles.alpha.canada.ca/framework-for-leading-change/fr/la-gestion-du-changement-et-le-leadership-du-changement/)).
+Il existe un certain nombre de pratiques que peut suivre le parrain du changement pour mieux préparer et diriger le changement. Ces mesures sont éclairées par une mentalité de leadership du changement (de plus amples détails à ce sujet sont  fournis dans la section [Comment adopter une mentalité  de leadership du changement à la section 1](/la-gestion-du-changement-et-le-leadership-du-changement/)).
 
 Vous trouverez ci-dessous une feuille de travail qui peut nous aider à déterminer si nous remplissons notre rôle de parrain du changement. Ces pratiques devront également être revues tout au long du processus.
 
@@ -53,8 +53,8 @@ Il est bien de garder à l’esprit que nous pourrions devoir harmoniser nos rô
 
 * * *
 
-[****Prochain : **Gouvernance du changement******](https://articles.alpha.canada.ca/framework-for-leading-change/fr/naviguer-dans-le-monde-du-changement/gouvernance-du-changement/)
+[****Prochain : **Gouvernance du changement******](/naviguer-dans-le-monde-du-changement/gouvernance-du-changement/)
 
-[**Retour au début de la section**](https://articles.alpha.canada.ca/framework-for-leading-change/fr/naviguer-dans-le-monde-du-changement/)
+[**Retour au début de la section**](/naviguer-dans-le-monde-du-changement/)
 
 * * *
