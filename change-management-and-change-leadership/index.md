@@ -43,8 +43,8 @@ There are a lot out there, but we don’t need to fully understand or know them 
 
 * * *
 
-[Next: Change models and methodologies](https://articles.alpha.canada.ca/framework-for-leading-change/change-models-and-methodologies/)
+[Next: Change models and methodologies](/change-models-and-methodologies/)
 
-[Back to beginning of section](https://articles.alpha.canada.ca/framework-for-leading-change/navigating-the-world-of-change/)
+[Back to beginning of section](/navigating-the-world-of-change/)
 
 * * *
