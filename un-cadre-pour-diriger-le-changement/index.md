@@ -23,11 +23,11 @@ Dans le cadre d’un processus de direction du changement, il arrive souvent que
 
 Approfondir notre **compréhension** de la façon de naviguer à travers le changement
 
-![](images/Deepening.png)
+![](images/FLC-Deepening.png)
 
-**1.** [**Naviguer à travers le monde du changement**](https://articles.alpha.canada.ca/framework-for-leading-change/fr/?page_id=449) permet  de recueillir des concepts essentiels qui nous aideront à élaborer notre stratégie et à mettre en œuvre notre plan.
+**1.** [**Naviguer à travers le monde du changement**](/naviguer-dans-le-monde-du-changement/) permet  de recueillir des concepts essentiels qui nous aideront à élaborer notre stratégie et à mettre en œuvre notre plan.
 
-**2.** [Jeter les bases d’un changement réussi](https://articles.alpha.canada.ca/framework-for-leading-change/fr/?page_id=467) permet de définir le « pourquoi » du changement, les conditions à remplir pour la réussite du projet, et les façons dont nous pouvons concrétiser le changement voulu. À cette étape, nous préparons le terrain pour l’élaboration de notre stratégie de navigation en vue du changement à apporter.
+**2.** [Jeter les bases d’un changement réussi](/jeter-les-bases-dun-changement-reussi/) permet de définir le « pourquoi » du changement, les conditions à remplir pour la réussite du projet, et les façons dont nous pouvons concrétiser le changement voulu. À cette étape, nous préparons le terrain pour l’élaboration de notre stratégie de navigation en vue du changement à apporter.
 
 ### Elle nous aide également à garder quelques points à l’esprit
 
@@ -37,15 +37,15 @@ Notre connaissance de la façon de naviguer (c’est-à-dire, dans ce cas-ci, no
 
 Établir des ******stratégies****** et ******planifier****** notre itinéraire
 
-![](images/Strategizing.png)
+![](images/FLC-Strategizing.png)
 
-**3.** [Comprendre notre contexte](https://articles.alpha.canada.ca/framework-for-leading-change/fr/?page_id=747) consiste à évaluer notre environnement et notre culture, à la fois pour déterminer où s’inscrit notre changement dans l’ensemble de l’organisation et pour déterminer la meilleure approche afin de soutenir ce changement.
+**3.** [Comprendre notre contexte](/comprendre-notre-contexte/) consiste à évaluer notre environnement et notre culture, à la fois pour déterminer où s’inscrit notre changement dans l’ensemble de l’organisation et pour déterminer la meilleure approche afin de soutenir ce changement.
 
-**4.** [La capacité, l’état de préparation et l’incidence](https://articles.alpha.canada.ca/framework-for-leading-change/fr/?page_id=580) nous donnent l’occasion de renforcer la compréhension de notre préparation à l’égard du changement, de l’incidence qu’il aura sur les principaux intervenants, et de la façon dont nous travaillerons avec eux tout au long du changement.
+**4.** [La capacité, l’état de préparation et l’incidence](/capacite-etat-de-preparation-et-incidence/) nous donnent l’occasion de renforcer la compréhension de notre préparation à l’égard du changement, de l’incidence qu’il aura sur les principaux intervenants, et de la façon dont nous travaillerons avec eux tout au long du changement.
 
-**5.** [Rallier les gens au changement](https://articles.alpha.canada.ca/framework-for-leading-change/fr/?page_id=635) comprend les activités de mobilisation nécessaires pour assurer la réussite du changement, selon le type de changement que nous dirigeons et les personnes qui y participent.
+**5.** [Rallier les gens au changement](/rallier-les-gens-au-changement/) comprend les activités de mobilisation nécessaires pour assurer la réussite du changement, selon le type de changement que nous dirigeons et les personnes qui y participent.
 
-**6\.** [Élaborer nos plans](https://articles.alpha.canada.ca/framework-for-leading-change/fr/?page_id=623) implique la création et l’intégration des différents plans (p. ex. mobilisation et communications) qui orienteront notre mise en œuvre du changement.
+**6\.** [Élaborer nos plans](/elaborer-nos-plans/) implique la création et l’intégration des différents plans (p. ex. mobilisation et communications) qui orienteront notre mise en œuvre du changement.
 
 ### Elle nous aide également à garder quelques points à l’esprit
 
@@ -55,9 +55,9 @@ La planification est une étape fondamentale de l’exploration, mais nous devon
 
 ******Naviguer****** à travers notre changement
 
-![](images/Navigating.png)
+![](images/FLC-Navigating.png)
 
-**7.** [La mise en œuvre du changement](https://articles.alpha.canada.ca/framework-for-leading-change/fr/?page_id=664) implique la réalisation des activités élaborées dans les premières sections, y compris faire preuve de souplesse, solliciter des commentaires et s’adapter au fur et à mesure.
+**7.** [La mise en œuvre du changement](/mise-en-oeuvre-nos-activites-de-changement/) implique la réalisation des activités élaborées dans les premières sections, y compris faire preuve de souplesse, solliciter des commentaires et s’adapter au fur et à mesure.
 
 ### Elle nous aide également à garder quelques points à l’esprit
 
@@ -67,9 +67,9 @@ Une mobilisation et une collaboration approfondies sont essentielles à l’atte
 
 Atteindre notre ****point de cheminement****
 
-![](images/Waypoint.png)
+![](images/FLC-Waypoint.png)
 
-**8.** [Vivre avec le changement](https://articles.alpha.canada.ca/framework-for-leading-change/fr/?page_id=704) consiste à s’assurer que le changement est durable et que les résultats positifs pourront servir de levier pour aider l’organisation à aborder les futurs changements.
+**8.** [Vivre avec le changement](/atteindre-notre-point-de-cheminement/) consiste à s’assurer que le changement est durable et que les résultats positifs pourront servir de levier pour aider l’organisation à aborder les futurs changements.
 
 ### Elle nous aide également à garder quelques points à l’esprit
 
@@ -77,8 +77,8 @@ Bien que notre objectif soit d’atteindre le point de cheminement, ce point ne 
 
 * * *
 
-[Quel devrait être le point de départ de ce cadre?](https://articles.alpha.canada.ca/framework-for-leading-change/fr/un-cadre-pour-diriger-le-changement/quel-devrait-etre-le-point-de-depart-de-ce-cadre/)
+[Quel devrait être le point de départ de ce cadre?](/quel-devrait-etre-le-point-de-depart-de-ce-cadre/)
 
-[Débuter](https://articles.alpha.canada.ca/framework-for-leading-change/fr/naviguer-dans-le-monde-du-changement/)
+[Débuter](/naviguer-dans-le-monde-du-changement/)
 
 * * *
