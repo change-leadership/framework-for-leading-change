@@ -9,14 +9,14 @@ We also know the environment relatively well, including interdependencies and ch
 
 Here we will conduct:
 
-- [An organizational impact assessment](https://articles.alpha.canada.ca/framework-for-leading-change/organizational-impact-assessment/)
+- [An organizational impact assessment](/organizational-impact-assessment/)
 
-- [A stakeholder impact assessment](https://articles.alpha.canada.ca/framework-for-leading-change/stakeholder-impact-assessment/)
+- [A stakeholder impact assessment](/stakeholder-impact-assessment/)
 
 * * *
 
-[Next: Organizational impact assessment](https://articles.alpha.canada.ca/framework-for-leading-change/organizational-impact-assessment/)
+[Next: Organizational impact assessment](/organizational-impact-assessment/)
 
-[Back to beginning of section](https://articles.alpha.canada.ca/framework-for-leading-change/capacity-readiness-and-impact/)
+[Back to beginning of section](/capacity-readiness-and-impact/)
 
 * * *
