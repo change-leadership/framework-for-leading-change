@@ -5,7 +5,7 @@ date: "2023-01-31"
 
 Absolutely essential to any successful change are positive, productive relationships among the leadership team and staff. A key role of the change leader is to help foster these positive relationships. For that the change leader needs to gain credibility and trust by modelling appropriate behaviour (“walking the talk”, or sending “signals” congruent with the change), and encouraging the leadership team to do so as well.
 
-It cannot be stressed enough: **the success of our entire change effort rests on credibility, trust, and the development and maintenance of positive relationships.**
+It cannot be stressed enough: **the success of our change effort rests on credibility, trust, and the development and maintenance of positive relationships.**
 
 **How can leaders build trust?**
 
@@ -27,8 +27,8 @@ By applying what we know about modelling behaviours, we can continue to build tr
 
 * * *
 
-[Next: Foster productive dialogue about the change](https://articles.alpha.canada.ca/framework-for-leading-change/?page_id=174)
+[Next: Foster productive dialogue about the change](/fostering-a-dialogue)
 
-[Back to beginning of section](https://articles.alpha.canada.ca/framework-for-leading-change/navigating-the-world-of-change/)
+[Back to beginning of section](/navigating-the-world-of-change/)
 
 * * *
