@@ -60,8 +60,8 @@ Maintenant que nous avons élaboré notre formule du changement réussi, nous ex
 
 * * *
 
-[******Prochain : Nos moteurs (et obstacles) du changement******](https://articles.alpha.canada.ca/framework-for-leading-change/fr/nos-moteurs-et-obstacles-du-changement/)
+[******Prochain : Nos moteurs (et obstacles) du changement******](/nos-moteurs-et-obstacles-du-changement/)
 
-[**Retour au début de la section**](https://articles.alpha.canada.ca/framework-for-leading-change/fr/jeter-les-bases-dun-changement-reussi/)
+[**Retour au début de la section**](/jeter-les-bases-dun-changement-reussi/)
 
 * * *
