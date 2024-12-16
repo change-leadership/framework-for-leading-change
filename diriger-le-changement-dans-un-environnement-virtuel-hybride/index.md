@@ -53,8 +53,8 @@ Grâce à notre compréhension de la façon de diriger le changement au sein de 
 
 * * *
 
-[****Prochain :** Bâtir la confiance et adopter un comportement exemplaire**](https://articles.alpha.canada.ca/framework-for-leading-change/fr/batir-la-confiance-et-adopter-un-comportement-exemplaire/)
+[****Prochain :** Bâtir la confiance et adopter un comportement exemplaire**](/batir-la-confiance-et-adopter-un-comportement-exemplaire/)
 
-[**Retour au début de la section**](https://articles.alpha.canada.ca/framework-for-leading-change/fr/naviguer-dans-le-monde-du-changement/)
+[**Retour au début de la section**](/naviguer-dans-le-monde-du-changement/)
 
 * * *
