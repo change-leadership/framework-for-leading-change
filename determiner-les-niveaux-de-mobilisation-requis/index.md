@@ -27,7 +27,7 @@ En effet, lorsque nous choisissons de cocréer, nous allons plus loin que la sim
 
 Pour atteindre ce niveau de collaboration, le degré de confiance doit être élevé et le dialogue doit être fréquent. Pour en savoir plus sur la façon de susciter la confiance et de favoriser le dialogue, consultez [la section 1 – Approfondir notre compréhension de la façon de naviguer à travers le changement : Bâtir la confiance et adopter un comportement exemplaire; et Favoriser le dialogue](/batir-la-confiance-et-adopter-un-comportement-exemplaire/).
 
-![]le niveau d’intérêt et d’influence potentiel dans quatre catégories. Il y a une flèche à gauche (axe y) pointant vers le haut indiquant le niveau potentiel d’influence. Il y a une flèche en bas (axe des x) indiquant le niveau d’intérêt potentiel. Nos intervenants sont représentés dans l’un des quatre quadrants.
+![le niveau d’intérêt et d’influence potentiel dans quatre catégories. Il y a une flèche à gauche (axe y) pointant vers le haut indiquant le niveau potentiel d’influence. Il y a une flèche en bas (axe des x) indiquant le niveau d’intérêt potentiel. Nos intervenants sont représentés dans l’un des quatre quadrants.
 <div></div>
 En haut à gauche - influence élevée, faible intérêt - consultation. Intervenants qui doivent participer ou être consultés pour la décision et le soutien concernant notre travail. Essayez de les tenir informés et satisfaits. Utilisez un investissement sélectif de ressources / un niveau d’effort modéré.
 <div></div>
@@ -35,9 +35,9 @@ Haut à droite - influence élevée, intérêt élevé - collaboration. Les inte
 <div></div>
 En bas à gauche - faible influence, faible intérêt - informer. Intervenants qui doivent être au courant de notre travail et tenu au courant des principaux développements. Viser à accroître leur niveau d’intérêt. Faible investissement des ressources / faible niveau d’effort.
 <div></div>
-En bas à droite - intérêt élevé, faible influence - impliquer. Les intervenants que nous devons considérer/impliquer pour des domaines particuliers de notre travail. Cultiver leur intérêt pour nous. établir des relations. Investissement sélectif de ressources / niveau d’effort modéré.
+En bas à droite - intérêt élevé, faible influence - impliquer. Les intervenants que nous devons considérer/impliquer pour des domaines particuliers de notre travail. Cultiver leur intérêt pour nous. établir des relations. Investissement sélectif de ressources / niveau d’effort modéré. (/images/FLC-Determining-the-level-of-mobilization-needed-FR.png)]
 
-(/images/FLC-Determining-the-level-of-mobilization-needed-FR.png)
+
 
 **Prochaines étapes**
 
