@@ -39,7 +39,7 @@ We can then determine the exposure (which is the product of the probability and 
 
 Below is an example of how we might chart our risks visually.
 
-![](images/Risk-1024x709.png)
+![](images/FLC-Risk-1024x709.png)
 
 **_\*Note_**: _Some risks may have a low probability of occurrence but a serious impact to the project should they occur. For this reason we may need to use our judgement to put them in a category that helps us keep them on our radar._
 
@@ -89,8 +89,8 @@ At this point we have a deep understanding of our change, our stakeholders, and 
 
 * * *
 
-[Next: Getting people on board](https://articles.alpha.canada.ca/framework-for-leading-change/getting-people-on-board/)
+[Next: Getting people on board](/getting-people-on-board/)
 
-[Back to beginning of section](https://articles.alpha.canada.ca/framework-for-leading-change/capacity-readiness-and-impact/)
+[Back to beginning of section](/capacity-readiness-and-impact/)
 
 * * *
