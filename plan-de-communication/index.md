@@ -41,8 +41,8 @@ Un deuxieme exemple est le [modèle de plan de communication](https://wiki.gccol
 
 * * *
 
-[****Prochain : **Plan relatif aux ressources humaines******](https://articles.alpha.canada.ca/framework-for-leading-change/fr/plan-relatif-aux-ressources-humaines/)
+[****Prochain : **Plan relatif aux ressources humaines******](/plan-relatif-aux-ressources-humaines/)
 
-[**Retour au début de la section**](https://articles.alpha.canada.ca/framework-for-leading-change/fr/elaborer-nos-plans/)
+[**Retour au début de la section**](/elaborer-nos-plans/)
 
 * * *
