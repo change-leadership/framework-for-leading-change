@@ -37,8 +37,8 @@ Now that we better understand our capacity to lead change and our level of readi
 
 * * *
 
-[Next: Assess the impact](https://articles.alpha.canada.ca/framework-for-leading-change/assessing-the-impact/)
+[Next: Assess the impact](/assessing-the-impact/)
 
-[Back to beginning of section](https://articles.alpha.canada.ca/framework-for-leading-change/capacity-readiness-and-impact/)
+[Back to beginning of section](/capacity-readiness-and-impact/)
 
 * * *
