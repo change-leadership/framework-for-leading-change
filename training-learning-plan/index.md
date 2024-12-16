@@ -5,7 +5,7 @@ date: "2023-02-01"
 
 Training and learning is a major part of change. Individuals learn in different ways and at different paces. We gain by providing a variety of training, and ensuring it is timely and relevant. One model we can use to help with this is ADKAR (e.g., to help us determine what type of training is needed and when).
 
-The earlier we establish concrete plans around re-skilling and development opportunities for our people, the more likely we can reduce fear and uncertainty about the change. The SCARF model (see _[Section 5: Getting people on board / Engaging with key stakeholders / SCARF](https://articles.alpha.canada.ca/framework-for-leading-change/engaging-with-key-stakeholders/)_) is a good tool to help validate how we meet people’s various needs through training (e.g., personalizing our training to individual needs).
+The earlier we establish concrete plans around re-skilling and development opportunities for our people, the more likely we can reduce fear and uncertainty about the change. The SCARF model (see _[Section 5: Getting people on board / Engaging with key stakeholders / SCARF](/engaging-with-key-stakeholders/)_) is a good tool to help validate how we meet people’s various needs through training (e.g., personalizing our training to individual needs).
 
 The training needs will be specific to the change and to each stakeholder/group. That being said, a combination of more conceptual developmental opportunities, such as coaching, change leadership, transition, and resilience training for managers and staff, as well as whatever technical training is required, offers a holistic approach.
 
@@ -17,8 +17,8 @@ A second example is the [training plan template](https://wiki.gccollab.ca/images
 
 * * *
 
-[Next: Reinforcement/sustainability plan](https://articles.alpha.canada.ca/framework-for-leading-change/reinforcement-sustainability-plan/)
+[Next: Reinforcement/sustainability plan](/reinforcement-sustainability-plan/)
 
-[Back to beginning of section](https://articles.alpha.canada.ca/framework-for-leading-change/developing-our-plans/)
+[Back to beginning of section](/developing-our-plans/)
 
 * * *
