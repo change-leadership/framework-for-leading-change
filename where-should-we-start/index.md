@@ -15,7 +15,7 @@ _Questions on fundamentals and approach_
 
 - Do the behaviours of our leadership team and stakeholders indicate they have mindsets primed for leading change (this includes behaviours such as leading by example, developing relationships, and fostering an ongoing dialogue)?
 
-If yes to all three of these, we can go to section 2 ([Laying our foundation for successful change](https://articles.alpha.canada.ca/framework-for-leading-change/?page_id=201)). If no to any of these, we should begin in section 1 ([Navigating the world of change](https://articles.alpha.canada.ca/framework-for-leading-change/?page_id=116)). The knowledge in section 1 is crucial when we develop our strategy.
+If yes to all three of these, we can go to section 2 ([Laying our foundation for successful change](/laying-our-foundation-for-successful-change/)). If no to any of these, we should begin in section 1 ([Navigating the world of change](/navigating-the-world-of-change/)). The knowledge in section 1 is crucial when we develop our strategy.
 
 _Questions on the drivers and vision_
 
@@ -61,4 +61,4 @@ If the answer to any of these is no, or unclear, it’s important to go back thr
 
 * * *
 
-[Back to main menu](https://articles.alpha.canada.ca/framework-for-leading-change/?page_id=3)
+[Back to main menu](/home/)
