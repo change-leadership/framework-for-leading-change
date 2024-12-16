@@ -105,8 +105,8 @@ Maintenant que nous avons compris nos moteurs de changement et créé notre visi
 
 * * *
 
-[******Prochain: Définir nos conditions de réussite******](https://articles.alpha.canada.ca/framework-for-leading-change/fr/definir-nos-conditions-de-reussite/)
+[******Prochain: Définir nos conditions de réussite******](/definir-nos-conditions-de-reussite/)
 
-[**Retour au début de la section**](https://articles.alpha.canada.ca/framework-for-leading-change/fr/jeter-les-bases-dun-changement-reussi/)
+[**Retour au début de la section**](/jeter-les-bases-dun-changement-reussi/)
 
 * * *
