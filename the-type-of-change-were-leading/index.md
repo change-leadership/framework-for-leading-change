@@ -61,8 +61,8 @@ It is important to understand how we can harness both aspects in order to help o
 
 * * *
 
-[Next: Change management and change leadership](https://articles.alpha.canada.ca/framework-for-leading-change/change-management-and-change-leadership/)
+[Next: Change management and change leadership](/change-management-and-change-leadership/)
 
-[Back to beginning of section](https://articles.alpha.canada.ca/framework-for-leading-change/navigating-the-world-of-change/)
+[Back to beginning of section](/navigating-the-world-of-change/)
 
 * * *
