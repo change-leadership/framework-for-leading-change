@@ -19,12 +19,12 @@ For more on how to build trust, see _[Section 1: Navigating the world of change 
 
 There’s no particular formula for effectively changing the direction of our change. Rather, with the right mindset, we can recognize the need to pivot based on our engagement with stakeholders and our measurement of progress. Then, with trust and credibility we can make adjustments to our plans, involving stakeholders as appropriate.
 
-This greatly increases the chances of a successful outcome no matter the direction the change ends up going in. For more on change leadership mindsets, see [_Section 1: Navigating the world of change / Building trust and modelling behaviour_ of this Framework](https://articles.alpha.canada.ca/framework-for-leading-change/?page_id=171).
+This greatly increases the chances of a successful outcome no matter the direction the change ends up going in. For more on change leadership mindsets, see [_Section 1: Navigating the world of change / Building trust and modelling behaviour_ of this Framework](/building-trust-and-modelling-behaviour).
 
 * * *
 
-[Next: Reaching our waypoint](https://articles.alpha.canada.ca/framework-for-leading-change/reaching-our-waypoint/)
+[Next: Reaching our waypoint](/framework-for-leading-change/reaching-our-waypoint/)
 
-[Back to beginning of section](https://articles.alpha.canada.ca/framework-for-leading-change/implementing-the-change/)
+[Back to beginning of section](/implementing-the-change/)
 
 * * *
