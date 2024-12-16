@@ -27,7 +27,7 @@ _Droit d’auteur_ [_istockphoto.com_](/Users/ferrarar/AppData/Roaming/OpenText/
 
 **Notre organisation selon une perspective traditionnelle**
 
-![un organigramme général comprenant le sous-ministre au sommet, par l’entremise du sous-ministre adjoint, des directeurs généraux, des directeurs, des gestionnaires et des postes au niveau du personnel.](images/organigramme-traditionelle-1024x426.png)
+![un organigramme général comprenant le sous-ministre au sommet, par l’entremise du sous-ministre adjoint, des directeurs généraux, des directeurs, des gestionnaires et des postes au niveau du personnel.](images/FLC-organigramme-traditionelle-1024x426.png)
 
 Au moment d’analyser notre « réaction », nous voulons en tenir compte à la fois dans l’ensemble du système (p. ex. les interdépendances entre les fonctions gouvernementales) et au fil du temps (p. ex. quelle est l’histoire de l’organisation en matière de changement pour ce qui concerne tel ou tel élément).
 
@@ -55,8 +55,8 @@ Maintenant que nous avons une meilleure compréhension du système au sein duque
 
 * * *
 
-[****Prochain: Comprendre nos interdépendances****](https://articles.alpha.canada.ca/framework-for-leading-change/fr/comprendre-nos-interdependances/)
+[****Prochain: Comprendre nos interdépendances****](/comprendre-nos-interdependances/)
 
-[**Retour au début de la section**](https://articles.alpha.canada.ca/framework-for-leading-change/fr/comprendre-notre-contexte/)
+[**Retour au début de la section**](/comprendre-notre-contexte/)
 
 * * *
