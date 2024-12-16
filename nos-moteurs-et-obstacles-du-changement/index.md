@@ -19,7 +19,7 @@ Les _forces internes_ désignent les principaux facteurs qui influencent le beso
 
 L’une des façons de cerner les moteurs et les obstacles est de recourir à une analyse des forces en jeu (une technique élaborée par Kurt Lewin). Voici le modèle d’une analyse des forces en jeu :
 
-![Un carré avec le texte "modification proposée" au milieu. Sur la gauche se trouvent des flèches illustrant la pression que les moteurs du changement exercent sur nous pour qu’on procède au changement. Sur la droite se trouvent des flèches représentant la pression ou l’inertie contre le changement.](images/Drivers-and-barriers-FR-3.png)
+![Un carré avec le texte "modification proposée" au milieu. Sur la gauche se trouvent des flèches illustrant la pression que les moteurs du changement exercent sur nous pour qu’on procède au changement. Sur la droite se trouvent des flèches représentant la pression ou l’inertie contre le changement.](images/FLC-Drivers-and-barriers-FR-3.png)
 
 Dans cet exemple, les moteurs sont énumérés à gauche et les obstacles à droite. Plus la flèche est longue, plus le moteur ou l’obstacle a une incidence sur le changement. Le poids global de tous les moteurs et obstacles est résumé en bas, ce qui peut nous donner une bonne idée de la praticité actuelle du changement proposé.
 
@@ -75,8 +75,8 @@ Grâce à ce que nous avons découvert concernant ce qui alimentait le changemen
 
 * * *
 
-[******Prochain : Développer notre argumentaire en faveur du changement******](https://articles.alpha.canada.ca/framework-for-leading-change/fr/developper-notre-argumentaire-en-faveur-du-changement/)
+[******Prochain : Développer notre argumentaire en faveur du changement******](/developper-notre-argumentaire-en-faveur-du-changement/)
 
-[**Retour au début de la section**](https://articles.alpha.canada.ca/framework-for-leading-change/fr/jeter-les-bases-dun-changement-reussi/)
+[**Retour au début de la section**](/jeter-les-bases-dun-changement-reussi/)
 
 * * *
