@@ -51,8 +51,8 @@ With our understanding of how to lead change in the public service and in a virt
 
 * * *
 
-[Next: Build trust among the leadership team and staff](https://articles.alpha.canada.ca/framework-for-leading-change/?page_id=171)
+[Next: Build trust among the leadership team and staff](/building-trust-and-modelling-behaviour/)
 
-[Back to beginning of section](https://articles.alpha.canada.ca/framework-for-leading-change/navigating-the-world-of-change/)
+[Back to beginning of section](/navigating-the-world-of-change/)
 
 * * *
