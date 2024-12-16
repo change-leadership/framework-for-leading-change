@@ -92,8 +92,8 @@ Maintenant que nous comprenons notre niveau de maturité à l’égard du change
 
 * * *
 
-[****Prochain : Saturation au changement et fatigue****](https://articles.alpha.canada.ca/framework-for-leading-change/fr/saturation-au-changement-et-fatigue/)
+[****Prochain : Saturation au changement et fatigue****](/saturation-au-changement-et-fatigue/)
 
-[**Retour au début de la section**](https://articles.alpha.canada.ca/framework-for-leading-change/fr/capacite-etat-de-preparation-et-incidence/)
+[**Retour au début de la section**](/capacite-etat-de-preparation-et-incidence/)
 
 * * *
