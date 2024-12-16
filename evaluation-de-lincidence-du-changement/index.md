@@ -9,14 +9,14 @@ Nous connaissons aussi relativement bien notre environnement, y compris les inte
 
 Ici, nous effectuerons :
 
-- [Une évaluation de l’incidence sur l’organisation](https://articles.alpha.canada.ca/framework-for-leading-change/fr/evaluation-de-lincidence-sur-lorganisation/)
+- [Une évaluation de l’incidence sur l’organisation](/evaluation-de-lincidence-sur-lorganisation/)
 
-- [Une évaluation de l’incidence sur les intervenants](https://articles.alpha.canada.ca/framework-for-leading-change/fr/evaluation-de-lincidence-sur-les-intervenants/)
+- [Une évaluation de l’incidence sur les intervenants](/evaluation-de-lincidence-sur-les-intervenants/)
 
 * * *
 
-[****Prochain : Une évaluation de l’incidence sur l’organisation****](https://articles.alpha.canada.ca/framework-for-leading-change/fr/evaluation-de-lincidence-sur-lorganisation/)
+[****Prochain : Une évaluation de l’incidence sur l’organisation****](/evaluation-de-lincidence-sur-lorganisation/)
 
-[**Retour au début de la section**](https://articles.alpha.canada.ca/framework-for-leading-change/fr/capacite-etat-de-preparation-et-incidence/)
+[**Retour au début de la section**](/capacite-etat-de-preparation-et-incidence/)
 
 * * *
