@@ -51,8 +51,8 @@ Maintenant que nous avons une meilleure compréhension des forces qui soutiennen
 
 * * *
 
-[****Prochain : Déterminer où s’inscrit notre changement****](https://articles.alpha.canada.ca/framework-for-leading-change/fr/determiner-ou-sinscrit-notre-changement/)
+[****Prochain : Déterminer où s’inscrit notre changement****](/determiner-ou-sinscrit-notre-changement/)
 
-[**Retour au début de la section**](https://articles.alpha.canada.ca/framework-for-leading-change/fr/comprendre-notre-contexte/)
+[**Retour au début de la section**](/comprendre-notre-contexte/)
 
 * * *
