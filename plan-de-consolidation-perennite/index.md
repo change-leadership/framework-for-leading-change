@@ -33,8 +33,8 @@ Une fois nos plans préparés, nous sommes prêts à mettre en œuvre notre chan
 
 * * *
 
-[****Prochain : **Mise en œuvre du changement******](https://articles.alpha.canada.ca/framework-for-leading-change/fr/mise-en-oeuvre-du-changement/)
+[****Prochain : **Mise en œuvre du changement******](/mise-en-oeuvre-du-changement/)
 
-[**Retour au début de la section**](https://articles.alpha.canada.ca/framework-for-leading-change/fr/elaborer-nos-plans/)
+[**Retour au début de la section**](/elaborer-nos-plans/)
 
 * * *
