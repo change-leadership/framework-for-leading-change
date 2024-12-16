@@ -39,9 +39,9 @@ Our knowledge of how to navigate (for our purposes, our knowledge of the latest 
 
 **3.** [Understanding our context](/understanding-our-context) involves assessing our environment and culture, both to see where our change fits within the broader organization, and so we can determine the best approach to support it.
 
-**4.** [Capacity, readiness and impact](capacity-readiness-and-impact/) provides an opportunity for us to refine our understanding of how ready we are for change, the impact it will have on key players, and how we will work with them throughout the change.
+**4.** [Capacity, readiness and impact](/capacity-readiness-and-impact/) provides an opportunity for us to refine our understanding of how ready we are for change, the impact it will have on key players, and how we will work with them throughout the change.
 
-**5.** [Getting people on board](getting-people-on-board) includes the engagement activities necessary to ensure the change is successful, depending on the type of change we are leading and who is taking part in it.
+**5.** [Getting people on board](/getting-people-on-board) includes the engagement activities necessary to ensure the change is successful, depending on the type of change we are leading and who is taking part in it.
 
 **6\.** [Developing our plans](/developing-our-plans) involves creating and integrating the various plans (e.g., engagement, communications) that will guide us when rolling out the change.
 
@@ -55,7 +55,7 @@ Planning is an essential phase when exploring, but we need to be ready and capab
 
 <img src="images/FLC-Navigating.png" width="150">
 
-**7.** [Implementing the change](https://articles.alpha.canada.ca/framework-for-leading-change/?page_id=386) involves carrying out the activities developed in the first sections, including being flexible, soliciting feedback, and adapting as we go.
+**7.** [Implementing the change](/implementing-the-change/) involves carrying out the activities developed in the first sections, including being flexible, soliciting feedback, and adapting as we go.
 
 ### How can this section help us?
 
@@ -67,7 +67,7 @@ Deep engagement and collaboration is essential to be able to get to our waypoint
 
 <img src="images/FLC-Waypoint.png" width="150">
 
-**8.** [Living with the change](https://articles.alpha.canada.ca/framework-for-leading-change/?page_id=412) is about ensuring the change is sustainable and that we can continue to build on our successful outcome, which will help strengthen the organization in facing future change.
+**8.** [Living with the change](/living-with-the-change/) is about ensuring the change is sustainable and that we can continue to build on our successful outcome, which will help strengthen the organization in facing future change.
 
 ### How can this section help us?
 
@@ -75,8 +75,8 @@ While reaching the waypoint is the goal, it is not the end of our journey. As ex
 
 * * *
 
-[Where should we start in the Framework?](https://articles.alpha.canada.ca/framework-for-leading-change/home/where-should-we-start/)
+[Where should we start in the Framework?](/where-should-we-start/)
 
-[Get started](https://articles.alpha.canada.ca/framework-for-leading-change/navigating-the-world-of-change/)
+[Get started](/navigating-the-world-of-change/)
 
 * * *
