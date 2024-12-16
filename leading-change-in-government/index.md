@@ -47,8 +47,8 @@ Understanding the specific challenges of leading change in the federal governmen
 
 * * *
 
-[Next: Understanding change roles](https://articles.alpha.canada.ca/framework-for-leading-change/change-roles/)
+[Next: Understanding change roles](/change-roles/)
 
-[Back to beginning of section](https://articles.alpha.canada.ca/framework-for-leading-change/navigating-the-world-of-change/)
+[Back to beginning of section](/navigating-the-world-of-change/)
 
 * * *
