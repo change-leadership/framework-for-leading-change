@@ -33,7 +33,7 @@ Our knowledge of how to navigate (for our purposes, our knowledge of the latest 
 
 * * *
 
-****Strategizing** and **Planning** our route**
+**Strategizing and Planning our route**
 
 <img src="images/FLC-Strategizing.png" width="150">
 
@@ -43,7 +43,7 @@ Our knowledge of how to navigate (for our purposes, our knowledge of the latest 
 
 **5.** [Getting people on board](https://articles.alpha.canada.ca/framework-for-leading-change/?page_id=322) includes the engagement activities necessary to ensure the change is successful, depending on the type of change we are leading and who is taking part in it.
 
-**6\.** [Developing our plans](https://articles.alpha.canada.ca/framework-for-leading-change/?page_id=347) involves creating and integrating the various plans (e.g., engagement, communications) that will guide us when rolling out the change.
+**6.** [Developing our plans](https://articles.alpha.canada.ca/framework-for-leading-change/?page_id=347) involves creating and integrating the various plans (e.g., engagement, communications) that will guide us when rolling out the change.
 
 ### How can this section help us?
 
@@ -51,7 +51,7 @@ Planning is an essential phase when exploring, but we need to be ready and capab
 
 * * *
 
-****Navigating** our change**
+**Navigating our change**
 
 <img src="images/FLC-Navigating.png" width="150">
 
@@ -75,8 +75,8 @@ While reaching the waypoint is the goal, it is not the end of our journey. As ex
 
 * * *
 
-[Where should we start in the Framework?](https://articles.alpha.canada.ca/framework-for-leading-change/home/where-should-we-start/)
+[Where should we start in the Framework?](/framework-for-leading-change/home/where-should-we-start/)
 
-[Get started](https://articles.alpha.canada.ca/framework-for-leading-change/navigating-the-world-of-change/)
+[Get started](/framework-for-leading-change/navigating-the-world-of-change/)
 
 * * *
