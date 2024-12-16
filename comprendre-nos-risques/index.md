@@ -43,7 +43,7 @@ Voici un exemple de la façon dont nous pourrions représenter visuellement nos 
 
 <figure>
 
-![](/images/FLC-Heat-map-FR.jpg)
+![](images/FLC-Heat-map-FR.jpg)
 
 <figcaption>
 
