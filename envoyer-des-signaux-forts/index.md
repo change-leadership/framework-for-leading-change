@@ -43,8 +43,8 @@ Une fois notre vision élaborée, nos conditions de réussite cernées et nos si
 
 * * *
 
-[******Prochain : Comprendre notre contexte******](https://articles.alpha.canada.ca/framework-for-leading-change/fr/comprendre-notre-contexte/)
+[******Prochain : Comprendre notre contexte******](/comprendre-notre-contexte/)
 
-[**Retour au début de la section**](https://articles.alpha.canada.ca/framework-for-leading-change/fr/jeter-les-bases-dun-changement-reussi/)
+[**Retour au début de la section**](/jeter-les-bases-dun-changement-reussi/)
 
 * * *
