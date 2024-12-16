@@ -59,7 +59,7 @@ Les étapes de la transition sont les suivantes :
 
 <figure>
 
-![La courbe de changement au fil du temps dans un graphique linéaire. Une ligne et une flèche à l’extrême gauche indique le moral et la compétence. Une ligne en bas indique le temps. Il y a une flèche pointillée montrant les sommets et les creux du moral et de la compétence au fil du temps que nous avançons à travers un changement.](images/The-change-curve-FR-2.png)
+![La courbe de changement au fil du temps dans un graphique linéaire. Une ligne et une flèche à l’extrême gauche indique le moral et la compétence. Une ligne en bas indique le temps. Il y a une flèche pointillée montrant les sommets et les creux du moral et de la compétence au fil du temps que nous avançons à travers un changement.](images/FLC-The-change-curve-FR-2.png)
 
 <figcaption>
 
@@ -101,7 +101,7 @@ Ultimement, nous voulons être conscients du fait que les gens traverseront une 
 
 <figure>
 
-![la courbe d’adoption du changement. Comprend le niveau d’effort/d’engagement sur l’axe y. Indique le temps le long de l’axe x. Les points de la courbe d’adoption du changement sont les suivants : Contact (communiquer / informer) Sensibilisation (communiquer/impliquer) Compréhension (compréhension des besoins / formation) Acceptation (où le changement de comportement commence) Adoption individuelle (soutien/encadrement, rétroaction/renforcement) Institutionnalisation (mesure, rétroaction, internalisation) Le long de l’axe des X, il y a les conséquences de ne pas comprendre/s’adapter à la courbe d’adoption du changement. Il s’agit notamment du manque de sensibilisation, de la confusion, du déni/de la perception négative, de la décision de ne pas appuyer, du succès mitigé et de la récidive.](images/Change-adoption-curve-FR-1024x565.png)
+![la courbe d’adoption du changement. Comprend le niveau d’effort/d’engagement sur l’axe y. Indique le temps le long de l’axe x. Les points de la courbe d’adoption du changement sont les suivants : Contact (communiquer / informer) Sensibilisation (communiquer/impliquer) Compréhension (compréhension des besoins / formation) Acceptation (où le changement de comportement commence) Adoption individuelle (soutien/encadrement, rétroaction/renforcement) Institutionnalisation (mesure, rétroaction, internalisation) Le long de l’axe des X, il y a les conséquences de ne pas comprendre/s’adapter à la courbe d’adoption du changement. Il s’agit notamment du manque de sensibilisation, de la confusion, du déni/de la perception négative, de la décision de ne pas appuyer, du succès mitigé et de la récidive.](images/FLC-Change-adoption-curve-FR-1024x565.png)
 
 <figcaption>
 
@@ -115,7 +115,7 @@ La courbe d’adoption montre la progression des niveaux d’adoption du changem
 
 Ici, un élément clé concerne la position de l’étoile, qui marque le premier signal de l’acceptation. Une erreur courante consiste à supposer que, parce qu’il y a une certaine adoption ou un changement des comportements dès cette étape précoce, le changement est prêt à prendre racine. En fait, à cette étape, nous approchons plutôt d’un point crucial où, si nous ne donnons pas suite à nos actions de manière durable, notre changement sera probablement voué à l’échec.
 
-Nous continuerons de devoir amener le plus de personnes et de groupes possible à adopter le changement dans le but de l’institutionnaliser après nos activités de pérennité  et nos efforts de consolidation (voir [la section 6 – Élaborer nos plans : Plan de consolidation/pérennité](https://articles.alpha.canada.ca/framework-for-leading-change/fr/plan-de-consolidation-perennite/)).
+Nous continuerons de devoir amener le plus de personnes et de groupes possible à adopter le changement dans le but de l’institutionnaliser après nos activités de pérennité  et nos efforts de consolidation (voir [la section 6 – Élaborer nos plans : Plan de consolidation/pérennité](/plan-de-consolidation-perennite/)).
 
 **Prochaines étapes**
 
@@ -125,8 +125,8 @@ Cela s’inscrit dans la promotion du dialogue, qui nous aidera à prendre le po
 
 * * *
 
-[****Prochain : Établir des mécanismes de rétroaction et mesurer les progrès****](https://articles.alpha.canada.ca/framework-for-leading-change/fr/etablir-des-mecanismes-de-retroaction-et-mesurer-les-progres/)
+[****Prochain : Établir des mécanismes de rétroaction et mesurer les progrès****](/etablir-des-mecanismes-de-retroaction-et-mesurer-les-progres/)
 
-[**Retour au début de la section**](https://articles.alpha.canada.ca/framework-for-leading-change/fr/mise-en-oeuvre-du-changement/)
+[**Retour au début de la section**](/mise-en-oeuvre-du-changement/)
 
 * * *
