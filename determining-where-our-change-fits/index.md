@@ -58,8 +58,8 @@ With a better understanding of the system we are introducing a change into, we c
 
 * * *
 
-[******Next: Understanding our interdependencies******](https://articles.alpha.canada.ca/framework-for-leading-change/understanding-our-interdependencies/)
+[******Next: Understanding our interdependencies******](/understanding-our-interdependencies/)
 
-[Back to beginning of section](https://articles.alpha.canada.ca/framework-for-leading-change/understanding-our-context/)
+[Back to beginning of section](/understanding-our-context/)
 
 * * *
