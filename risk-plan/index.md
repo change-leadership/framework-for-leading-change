@@ -21,8 +21,8 @@ There are a variety of templates we can use if we choose to do so. One example i
 
 * * *
 
-[Next: Communications plan](https://articles.alpha.canada.ca/framework-for-leading-change/communications-plan/)
+[Next: Communications plan](/communications-plan/)
 
-[Back to beginning of section](https://articles.alpha.canada.ca/framework-for-leading-change/developing-our-plans/)
+[Back to beginning of section](/developing-our-plans/)
 
 * * *
