@@ -3,7 +3,7 @@ title: "Engagement plan"
 date: "2023-02-01"
 ---
 
-Our engagement plan can include (we can refer back to _[Section 4: Capacity, readiness and impact / Stakeholder impact assessment](https://articles.alpha.canada.ca/framework-for-leading-change/?page_id=311)_ and _[Section 5: Getting people on board / Engaging with key stakeholders](https://articles.alpha.canada.ca/framework-for-leading-change/?page_id=339)_):
+Our engagement plan can include (we can refer back to _[Section 4: Capacity, readiness and impact / Stakeholder impact assessment](/stakeholder-impact-assessment)_ and _[Section 5: Getting people on board / Engaging with key stakeholders](/engaging-with-key-stakeholders)_):
 
 - The analysis of our stakeholders
 
@@ -23,8 +23,8 @@ A second example is the [engagement plan template](https://wiki.gccollab.ca/imag
 
 * * *
 
-[Next: Risk management plan](https://articles.alpha.canada.ca/framework-for-leading-change/risk-plan/)
+[Next: Risk management plan](/risk-plan/)
 
-[Back to beginning of section](https://articles.alpha.canada.ca/framework-for-leading-change/developing-our-plans/)
+[Back to beginning of section](/developing-our-plans/)
 
 * * *
