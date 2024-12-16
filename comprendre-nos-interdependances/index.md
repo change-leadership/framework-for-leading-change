@@ -29,8 +29,8 @@ Maintenant que nous comprenons mieux le système et certains de nos points de le
 
 * * *
 
-[****Prochain : Capacité, état de préparation et incidence****](https://articles.alpha.canada.ca/framework-for-leading-change/fr/capacite-etat-de-preparation-et-incidence/)
+[****Prochain : Capacité, état de préparation et incidence****](/capacite-etat-de-preparation-et-incidence/)
 
-[**Retour au début de la section**](https://articles.alpha.canada.ca/framework-for-leading-change/fr/comprendre-notre-contexte/)
+[**Retour au début de la section**](/comprendre-notre-contexte/)
 
 * * *
