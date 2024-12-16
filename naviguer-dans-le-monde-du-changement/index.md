@@ -13,28 +13,28 @@ La section suivante nous aidera à développer des mentalités propices au chang
 
 Dans le cadre de cette section, nous allons :
 
-- [Déterminer le type de changement que nous dirigeons afin de cerner la meilleure approche pour le soutenir](https://articles.alpha.canada.ca/framework-for-leading-change/fr/?page_id=451)
+- [Déterminer le type de changement que nous dirigeons afin de cerner la meilleure approche pour le soutenir](/le-type-de-changement-que-nous-dirigeons/)
 
-- [Comprendre comment appliquer la gestion du changement et le leadership du changement](https://articles.alpha.canada.ca/framework-for-leading-change/fr/?page_id=586)
+- [Comprendre comment appliquer la gestion du changement et le leadership du changement](/la-gestion-du-changement-et-le-leadership-du-changement/)
 
-- [Améliorer notre compréhension des modèles et des méthodes de changement](https://articles.alpha.canada.ca/framework-for-leading-change/fr/?page_id=455)
+- [Améliorer notre compréhension des modèles et des méthodes de changement](/les-modeles-et-les-methodes-de-changement/)
 
-- [Apprendre à diriger le changement au sein du gouvernement](https://articles.alpha.canada.ca/framework-for-leading-change/fr/?page_id=457)
+- [Apprendre à diriger le changement au sein du gouvernement](/la-direction-du-changement-au-sein-du-gouvernement/)
 
-- [Rôles liés au changement](https://articles.alpha.canada.ca/framework-for-leading-change/fr/?page_id=445)
+- [Rôles liés au changement](/roles-lies-au-changement/)
 
-- [Gouvernance du changement](https://articles.alpha.canada.ca/framework-for-leading-change/fr/un-cadre-pour-diriger-le-changement/gouvernance-du-changement/)
+- [Gouvernance du changement](/gouvernance-du-changement/)
 
-- [Apprendre à diriger le changement dans un environnement de travail virtuel](https://articles.alpha.canada.ca/framework-for-leading-change/fr/?page_id=461)
+- [Apprendre à diriger le changement dans un environnement de travail virtuel](/diriger-le-changement-dans-un-environnement-virtuel-hybridge/)
 
-- [Bâtir la confiance entre l’équipe de leadership et le personnel](https://articles.alpha.canada.ca/framework-for-leading-change/fr/?page_id=463)
+- [Bâtir la confiance entre l’équipe de leadership et le personnel](/batir-la-confiance-et-adopter-un-comportement-exemplaire/)
 
-- [Commencer à favoriser un dialogue productif sur le changement](https://articles.alpha.canada.ca/framework-for-leading-change/fr/?page_id=465)
+- [Commencer à favoriser un dialogue productif sur le changement](/promouvoir-le-dialogue/)
 
 * * *
 
-[**Prochain : Déterminer le type de changement que nous dirigeons**](https://articles.alpha.canada.ca/framework-for-leading-change/fr/naviguer-dans-le-monde-du-changement/le-type-de-changement-que-nous-dirigeons/)
+[**Prochain : Déterminer le type de changement que nous dirigeons**](/naviguer-dans-le-monde-du-changement/le-type-de-changement-que-nous-dirigeons/)
 
-[**Retour à l’aperçu du cadre**](https://articles.alpha.canada.ca/framework-for-leading-change/navigating-the-world-of-change/)
+[**Retour à l’aperçu du cadre**](/navigating-the-world-of-change/)
 
 * * *
