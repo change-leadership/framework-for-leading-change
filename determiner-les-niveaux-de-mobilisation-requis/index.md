@@ -35,7 +35,7 @@ Haut à droite - influence élevée, intérêt élevé - collaboration. Les inte
 <div></div>
 En bas à gauche - faible influence, faible intérêt - informer. Intervenants qui doivent être au courant de notre travail et tenu au courant des principaux développements. Viser à accroître leur niveau d’intérêt. Faible investissement des ressources / faible niveau d’effort.
 <div></div>
-En bas à droite - intérêt élevé, faible influence - impliquer. Les intervenants que nous devons considérer/impliquer pour des domaines particuliers de notre travail. Cultiver leur intérêt pour nous. établir des relations. Investissement sélectif de ressources / niveau d’effort modéré.](/images/FLC-Determining-the-level-of-mobilization-needed-FR.png)
+En bas à droite - intérêt élevé, faible influence - impliquer. Les intervenants que nous devons considérer/impliquer pour des domaines particuliers de notre travail. Cultiver leur intérêt pour nous. établir des relations. Investissement sélectif de ressources / niveau d’effort modéré.](images/FLC-Determining-the-level-of-mobilization-needed-FR.png)
 
 **Prochaines étapes**
 
