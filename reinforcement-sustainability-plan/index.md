@@ -31,8 +31,8 @@ With our plans prepared, we’re ready to implement our change. That’s what we
 
 * * *
 
-[Next: Implementing the change](https://articles.alpha.canada.ca/framework-for-leading-change/implementing-the-change/)
+[Next: Implementing the change](/implementing-the-change/)
 
-[Back to beginning of section](https://articles.alpha.canada.ca/framework-for-leading-change/developing-our-plans/)
+[Back to beginning of section](e/developing-our-plans/)
 
 * * *
