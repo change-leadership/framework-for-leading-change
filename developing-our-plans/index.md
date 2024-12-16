@@ -3,7 +3,7 @@ title: "Developing our plans"
 date: "2023-02-01"
 ---
 
-![](images/Strategizing.png)
+![](images/FLC-Strategizing.png)
 
 Our plans are essentially our game plan, populated with the qualitative and quantitative knowledge we have gained from discussions with stakeholders. They guide how we are implementing the change in a concrete way. This is contrasted with our change strategy, which is more about the broad strokes approach to the change and will guide the drafting of our plans.
 
@@ -13,24 +13,24 @@ Other organizational cultures may favour different labels, such as putting forwa
 
 Here we will develop our:
 
-- [Change plan](https://articles.alpha.canada.ca/framework-for-leading-change/change-plan/)
+- [Change plan](/change-plan/)
 
-- [Engagement plan](https://articles.alpha.canada.ca/framework-for-leading-change/engagement-plan/)
+- [Engagement plan](/engagement-plan/)
 
-- [Risk management plan](https://articles.alpha.canada.ca/framework-for-leading-change/risk-plan/)
+- [Risk management plan](/risk-plan/)
 
-- [Communications plan](https://articles.alpha.canada.ca/framework-for-leading-change/communications-plan/)
+- [Communications plan](/communications-plan/)
 
-- [Human resources plan](https://articles.alpha.canada.ca/framework-for-leading-change/human-resources-plan/)
+- [Human resources plan](/human-resources-plan/)
 
-- [Training/](https://articles.alpha.canada.ca/tpsgc-pwgsc-framework-for-leading-change/?page_id=375)[learnin](https://articles.alpha.canada.ca/framework-for-leading-change/training-learning-plan/)[g](https://articles.alpha.canada.ca/tpsgc-pwgsc-framework-for-leading-change/training-learning-plan/) [plan](https://articles.alpha.canada.ca/tpsgc-pwgsc-framework-for-leading-change/?page_id=375)
+- [Training/](https://articles.alpha.canada.ca/tpsgc-pwgsc-framework-for-leading-change/?page_id=375)[learnin](/training-learning-plan/)[g](/training-learning-plan/) [plan](https://articles.alpha.canada.ca/tpsgc-pwgsc-framework-for-leading-change/?page_id=375)
 
-- [Reinforcement/sustainability plan](https://articles.alpha.canada.ca/framework-for-leading-change/reinforcement-sustainability-plan/)
+- [Reinforcement/sustainability plan](/reinforcement-sustainability-plan/)
 
 * * *
 
-[Next: Change plan](https://articles.alpha.canada.ca/framework-for-leading-change/change-plan/)
+[Next: Change plan](/change-plan/)
 
-[Back to beginning of framework](https://articles.alpha.canada.ca/framework-for-leading-change/home/)
+[Back to beginning of framework](/home/)
 
 * * *
