@@ -49,8 +49,8 @@ With a deeper sense of our supporting and constraining forces and their potentia
 
 * * *
 
-[******Next: Determining where our change fits******](https://articles.alpha.canada.ca/framework-for-leading-change/determining-where-our-change-fits/)
+[******Next: Determining where our change fits******](/determining-where-our-change-fits/)
 
-[Back to beginning of section](https://articles.alpha.canada.ca/framework-for-leading-change/understanding-our-context/)
+[Back to beginning of section](/understanding-our-context/)
 
 * * *
