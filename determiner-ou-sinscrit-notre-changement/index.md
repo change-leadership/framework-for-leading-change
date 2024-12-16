@@ -21,7 +21,7 @@ Nous pouvons visualiser notre organisation comme un écosystème plutôt que com
 
 **Notre organisation sous l’angle de la pensée systémique**
 
-![Un écosystème complexe d’étangs avec une variété de flore et de faune qui dépendent les uns des autres pour survivre.](images/Ecosystem.jpg)
+![Un écosystème complexe d’étangs avec une variété de flore et de faune qui dépendent les uns des autres pour survivre.](images/FLC-Ecosystem.jpg)
 
 _Droit d’auteur_ [_istockphoto.com_](/Users/ferrarar/AppData/Roaming/OpenText/OTEdit/EC_TPSGC-PWGSC/c304185844/istockphoto.com)
 
