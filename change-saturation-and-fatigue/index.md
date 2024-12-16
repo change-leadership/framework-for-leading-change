@@ -99,8 +99,8 @@ Now that we have a better appreciation of how much the organization is able to a
 
 * * *
 
-[Next: Assess how ready we are to implement the change](https://articles.alpha.canada.ca/framework-for-leading-change/assess-how-ready-we-are-to-implement-the-change/)
+[Next: Assess how ready we are to implement the change](/assess-how-ready-we-are-to-implement-the-change/)
 
-[Back to beginning of section](https://articles.alpha.canada.ca/framework-for-leading-change/capacity-readiness-and-impact/)
+[Back to beginning of section](/capacity-readiness-and-impact/)
 
 * * *
