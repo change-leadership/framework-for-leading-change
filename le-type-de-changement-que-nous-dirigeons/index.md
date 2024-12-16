@@ -60,8 +60,8 @@ Il est important de comprendre comment nous pouvons tirer parti de ces deux aspe
 
 * * *
 
-[Prochain : La gestion du changement et le leadership du changement](https://articles.alpha.canada.ca/framework-for-leading-change/fr/la-gestion-du-changement-et-le-leadership-du-changement/)
+[Prochain : La gestion du changement et le leadership du changement](/la-gestion-du-changement-et-le-leadership-du-changement/)
 
-[**Retour au début de la section**](https://articles.alpha.canada.ca/framework-for-leading-change/fr/naviguer-dans-le-monde-du-changement/)
+[**Retour au début de la section**](/naviguer-dans-le-monde-du-changement/)
 
 * * *
