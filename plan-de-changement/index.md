@@ -39,8 +39,8 @@ Chacun de ces éléments pourrait devoir être mis à jour au fur et à mesure d
 
 * * *
 
-[****Prochain **: Plan de mobilisation******](https://articles.alpha.canada.ca/framework-for-leading-change/fr/plan-de-mobilisation/)
+[****Prochain **: Plan de mobilisation******](/plan-de-mobilisation/)
 
-[**Retour au début de la section**](https://articles.alpha.canada.ca/framework-for-leading-change/fr/elaborer-nos-plans/)
+[**Retour au début de la section**](/elaborer-nos-plans/)
 
 * * *
