@@ -45,8 +45,8 @@ Maintenant que nous avons une bonne idée de nos moteurs et de nos arguments en 
 
 * * *
 
-[******Prochain : Définir notre vision de l’avenir******](https://articles.alpha.canada.ca/framework-for-leading-change/fr/definir-notre-vision-de-lavenir/)
+[******Prochain : Définir notre vision de l’avenir******](/definir-notre-vision-de-lavenir/)
 
-[**Retour au début de la section**](https://articles.alpha.canada.ca/framework-for-leading-change/fr/jeter-les-bases-dun-changement-reussi/)
+[**Retour au début de la section**](/jeter-les-bases-dun-changement-reussi/)
 
 * * *
