@@ -23,7 +23,7 @@ This greatly increases the chances of a successful outcome no matter the directi
 
 * * *
 
-[Next: Reaching our waypoint](/framework-for-leading-change/reaching-our-waypoint/)
+[Next: Reaching our waypoint](/reaching-our-waypoint/)
 
 [Back to beginning of section](/implementing-the-change/)
 
