@@ -31,8 +31,8 @@ It is important that the streams of the Human Resources plan be integrated into 
 
 * * *
 
-[Next: Training/learning plan](https://articles.alpha.canada.ca/framework-for-leading-change/training-learning-plan/)
+[Next: Training/learning plan](/training-learning-plan/)
 
-[Back to beginning of section](https://articles.alpha.canada.ca/framework-for-leading-change/developing-our-plans/)
+[Back to beginning of section](/developing-our-plans/)
 
 * * *
