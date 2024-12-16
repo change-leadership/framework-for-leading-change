@@ -3,7 +3,7 @@ title: "Implementing the change"
 date: "2023-02-01"
 ---
 
-![](images/Navigating.png)
+![](images/FLC-Navigating.png)
 
 If we have been lucky and had a preparation phase for our change initiative, we may have most or all of our elements already in place. Yet, as is sometimes the case, we may be building the plane as we fly it. For this, it’s important that we have a solid _change shepherd_ (and a plan for ensuring continuity if the _change shepherd_ leaves and a new one comes in) and that the senior change leadership group is committed to listening, fostering dialogue and generating trust as we build that plane.
 
