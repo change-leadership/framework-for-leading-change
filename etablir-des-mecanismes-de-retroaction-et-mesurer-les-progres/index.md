@@ -45,7 +45,7 @@ Pour mesurer les progrès, nous aurons besoin de certains indicateurs qui nous p
 
 - Fatigue liée au changement (p. ex. les gens sont-ils engagés ou désengagés?)
 
-Nous pouvons centrer nos thèmes sur les conditions de réussite que nous avons établies plus tôt dans le processus (voir [la section 2 – Jeter les bases d’un changement réussi : Définir nos conditions de réussite](https://articles.alpha.canada.ca/framework-for-leading-change/fr/definir-nos-conditions-de-reussite/)).
+Nous pouvons centrer nos thèmes sur les conditions de réussite que nous avons établies plus tôt dans le processus (voir [la section 2 – Jeter les bases d’un changement réussi : Définir nos conditions de réussite](/definir-nos-conditions-de-reussite/)).
 
 Le fait d’avoir défini le plus clairement possible ce que doit être la réussite de notre changement nous aidera à définir nos indicateurs et nos mesures. Nous avons avantage à utiliser des données qualitatives et quantitatives.
 
@@ -59,8 +59,8 @@ Tandis que nous progressons dans la phase de mise en œuvre du changement, nous 
 
 * * *
 
-[****Prochain : Rajuster nos plans****](https://articles.alpha.canada.ca/framework-for-leading-change/fr/rajuster-nos-plans/)
+[****Prochain : Rajuster nos plans****](/rajuster-nos-plans/)
 
-[**Retour au début de la section**](https://articles.alpha.canada.ca/framework-for-leading-change/fr/mise-en-oeuvre-du-changement/)
+[**Retour au début de la section**](/mise-en-oeuvre-du-changement/)
 
 * * *
