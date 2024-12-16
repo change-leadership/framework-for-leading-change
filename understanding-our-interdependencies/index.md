@@ -29,8 +29,8 @@ With our understanding of the system, and some of our leverage points, we can as
 
 * * *
 
-[******Next: Capacity, readiness and impact******](https://articles.alpha.canada.ca/framework-for-leading-change/capacity-readiness-and-impact/)
+[******Next: Capacity, readiness and impact******](/capacity-readiness-and-impact/)
 
-[Back to beginning of section](https://articles.alpha.canada.ca/framework-for-leading-change/understanding-our-context/)
+[Back to beginning of section](/understanding-our-context/)
 
 * * *
