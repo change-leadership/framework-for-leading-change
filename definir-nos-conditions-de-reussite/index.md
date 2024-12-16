@@ -33,8 +33,8 @@ C’est ici que nous pouvons réfléchir aux leviers stratégiques que nous pour
 
 * * *
 
-[******Prochain : Envoyer des signaux forts******](https://articles.alpha.canada.ca/framework-for-leading-change/fr/envoyer-des-signaux-forts/)
+[******Prochain : Envoyer des signaux forts******](/envoyer-des-signaux-forts/)
 
-[**Retour au début de la section**](https://articles.alpha.canada.ca/framework-for-leading-change/fr/jeter-les-bases-dun-changement-reussi/)
+[**Retour au début de la section**](/jeter-les-bases-dun-changement-reussi/)
 
 * * *
