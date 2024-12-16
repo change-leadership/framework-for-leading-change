@@ -11,16 +11,16 @@ In this section we’ll implement our change activities, and determine how we ar
 
 Here we will:
 
-- [Implement our change activities](https://articles.alpha.canada.ca/framework-for-leading-change/implementing-our-change-activities/)
+- [Implement our change activities](/implementing-our-change-activities/)
 
-- [Set up feedback mechanisms and measure progress](https://articles.alpha.canada.ca/framework-for-leading-change/setting-up-feedback-mechanisms-and-measuring-progress/)
+- [Set up feedback mechanisms and measure progress](/setting-up-feedback-mechanisms-and-measuring-progress/)
 
-- [Adjust our plans, as necessary](https://articles.alpha.canada.ca/framework-for-leading-change/?page_id=409)
+- [Adjust our plans, as necessary](/adjusting-our-plans)
 
 * * *
 
-[Next: Implementing our change activities](https://articles.alpha.canada.ca/framework-for-leading-change/implementing-our-change-activities/)
+[Next: Implementing our change activities](/implementing-our-change-activities/)
 
-[Back to beginning of framework](https://articles.alpha.canada.ca/framework-for-leading-change/home/)
+[Back to beginning of framework](/home/)
 
 * * *
