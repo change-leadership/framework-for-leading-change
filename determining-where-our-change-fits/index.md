@@ -17,7 +17,7 @@ We may need to use both of these feedback loops in our change effort, but for a 
 
 <figure>
 
-![A complex pond ecosystem with a variety of flora and fauna that rely on each other for survival.](images/Ecosystem.jpg)
+![A complex pond ecosystem with a variety of flora and fauna that rely on each other for survival.](images/FLC-Ecosystem.jpg)
 
 <figcaption>
 
@@ -29,7 +29,7 @@ _Copyright_ [_istockphoto.com_](/Users/ferrarar/AppData/Roaming/OpenText/OTEdit/
 
 **Our organization through a traditional lens**
 
-![a general organizational chart including Deputy Minister at the top, through assistant deputy minister, directors general, directors, managers, and positions at the staff level.](images/organigramme-traditionelle-1024x426.png)
+![a general organizational chart including Deputy Minister at the top, through assistant deputy minister, directors general, directors, managers, and positions at the staff level.](images/FLC-organigramme-traditionelle-1024x426.png)
 
   
   
