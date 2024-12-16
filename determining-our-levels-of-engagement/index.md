@@ -21,7 +21,7 @@ To help us decide the level of engagement we can look back to our stakeholder im
 
 We can plot our stakeholders on a chart, such as the one below. These types of visuals are often helpful in briefing senior leaders. In the chart below we’ll notice that there is no quadrant for “co-create”. When we choose to co-create we go deeper than collaboration. The relationship among co-creators is regular, consistent and deep. It requires going beyond traditional engagement and forming an interconnected relationship (at least for the duration of the change).
 
-To get to this level of cooperation, trust needs to be high and dialogue needs to be frequent. For more on generating trust and fostering dialogue, see _[Section 1: Deepening our understanding of how to navigate change / Building trust and modelling behaviour and Fostering a dialogue](https://articles.alpha.canada.ca/framework-for-leading-change/?page_id=171)_.
+To get to this level of cooperation, trust needs to be high and dialogue needs to be frequent. For more on generating trust and fostering dialogue, see _[Section 1: Deepening our understanding of how to navigate change / Building trust and modelling behaviour and Fostering a dialogue](/building-trust-and-modelling-behaviour/)_.
 
 ![the level of potential interest and influence in four categories. There is an arrow on the left side (y axis) pointing up indicating the potential level of influence. There is an arrow on the bottom (x axis) indicating the potential level of interest. Our stakeholders are plotted in one of four quadrants.
 <div></div>
@@ -39,8 +39,8 @@ At this point we have a deep understanding of our stakeholders and the level at 
 
 * * *
 
-[Next: Engaging with key stakeholders](https://articles.alpha.canada.ca/framework-for-leading-change/engaging-with-key-stakeholders/)
+[Next: Engaging with key stakeholders](/engaging-with-key-stakeholders/)
 
-[Back to beginning of section](https://articles.alpha.canada.ca/framework-for-leading-change/getting-people-on-board/)
+[Back to beginning of section](/getting-people-on-board/)
 
 * * *
