@@ -41,8 +41,8 @@ With our vision developed, our conditions of success identified and our strong s
 
 * * *
 
-[******Next: Understanding our context******](https://articles.alpha.canada.ca/framework-for-leading-change/understanding-our-context/)
+[******Next: Understanding our context******](/understanding-our-context/)
 
-[Back to beginning of section](https://articles.alpha.canada.ca/framework-for-leading-change/laying-our-foundation-for-successful-change/)
+[Back to beginning of section](/laying-our-foundation-for-successful-change/)
 
 * * *
