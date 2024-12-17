@@ -31,7 +31,7 @@ Top right - high influence, high interest - collaborate. Stakeholders we need to
 <div></div>
 Bottom left - low influence, low interest - inform. Stakeholders who need to be aware of our work and kept informed of the main developments. Aim to increase their level of interest. Low investment of resources / low level of effort.
 <div></div>
-Bottom right - high interest, low influence - involve. Stakeholders we need to consider/involve for particular areas of our work. Nurture their interest in us. build relationships. Selective investment of resources / moderate level of effort.](images/image-1.png)
+Bottom right - high interest, low influence - involve. Stakeholders we need to consider/involve for particular areas of our work. Nurture their interest in us. build relationships. Selective investment of resources / moderate level of effort.] <img src="framework-for-leading-change/images/image-1.png">
 
 **Next steps**
 
@@ -39,8 +39,8 @@ At this point we have a deep understanding of our stakeholders and the level at 
 
 * * *
 
-[Next: Engaging with key stakeholders](/engaging-with-key-stakeholders/)
+[Next: Engaging with key stakeholders](/framework-for-leading-change/engaging-with-key-stakeholders/)
 
-[Back to beginning of section](/getting-people-on-board/)
+[Back to beginning of section](/framework-for-leading-change/getting-people-on-board/)
 
 * * *
