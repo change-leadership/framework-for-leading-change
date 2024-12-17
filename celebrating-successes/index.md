@@ -51,8 +51,8 @@ Celebrating our successes is an important part of keeping momentum going with ou
 
 * * *
 
-[Next: Setting the stage for our next change](/setting-the-stage-for-our-next-change/)
+[Next: Setting the stage for our next change](/framework-for-leading-change/setting-the-stage-for-our-next-change/)
 
-[Back to beginning of section](https://articles.alpha.canada.ca/framework-for-leading-change/implementing-the-change/)
+[Back to beginning of section](/framework-for-leading-change/implementing-the-change/)
 
 * * *
