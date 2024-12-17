@@ -77,8 +77,8 @@ Based on what we have discovered is driving the change, we now have a better und
 
 * * *
 
-[****Next: Building our case for change****](/building-our-case-for-change/)
+[****Next: Building our case for change****](/framework-for-leading-change/building-our-case-for-change/)
 
-[Back to beginning of section](/laying-our-foundation-for-successful-change/)
+[Back to beginning of section](/framework-for-leading-change/laying-our-foundation-for-successful-change/)
 
 * * *
