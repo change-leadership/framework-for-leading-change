@@ -31,8 +31,8 @@ En appliquant ce que nous savons pour donner l’exemple des comportements voulu
 
 * * *
 
-[****Prochain :** Promouvoir le dialogue**](promouvoir-le-dialogue/)
+[****Prochain :** Promouvoir le dialogue**](framework-for-leading-change/promouvoir-le-dialogue/)
 
-[**Retour au début de la section**](naviguer-dans-le-monde-du-changement/)
+[**Retour au début de la section**](framework-for-leading-change/naviguer-dans-le-monde-du-changement/)
 
 * * *
