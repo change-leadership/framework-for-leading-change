@@ -13,7 +13,7 @@ As important as the feedback mechanisms themselves is our credibility. Adapting 
 
 Building trust allows us to take actions we otherwise would not be able to, especially when it comes to breaking with old mindsets and behaviours. Without trust, our chances of success are much lower.
 
-For more on how to build trust, see _[Section 1: Navigating the world of change / Building trust and modelling behaviour](building-trust-and-modelling-behaviour/)_ of this Framework.
+For more on how to build trust, see _[Section 1: Navigating the world of change / Building trust and modelling behaviour](/building-trust-and-modelling-behaviour/)_ of this Framework.
 
 **A change leadership mindset**
 
