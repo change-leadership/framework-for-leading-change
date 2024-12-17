@@ -23,7 +23,7 @@ There are four parts to the framework. Divided among the four parts are eight se
 
 <img src="images/FLC-Deepening.png" width="150">
 
-**1.** [Navigating the world of change](/navigating-the-world-of-change/) provides us with essential concepts that will help us to develop our strategy and implement our plan.
+**1.** [Navigating the world of change](navigating-the-world-of-change/) provides us with essential concepts that will help us to develop our strategy and implement our plan.
 
 **2.** [Laying our foundation for successful change](/laying-our-foundation-for-successful-change/) covers the “why” of the change, the conditions that need to be fulfilled for us to succeed, and some of the ways we can bring it about. In this phase we set the stage for the strategy we will use to navigate our change.
 
