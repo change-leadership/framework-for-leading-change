@@ -19,7 +19,7 @@ En gardant cela à l’esprit, nous éviterons de présumer que tous les princip
 
 ![la courbe de mobilisation. Sur l’axe des y se trouve une flèche pointant vers le haut, qui indique le niveau d’effort/de mobilisation (du début à la fin). Sur l’axe des y se trouve la progression du temps par année (jusqu’à 3 ans). Le graphique comprend trois courbes de changement simplifiées. La première représente les principaux décideurs, la deuxième la haute direction et la troisième, tous les autres. L’objectif est de montrer que les différentes parties prenantes commencent leur parcours de changement à des moments différents des autres, et cela doit être pris en compte dans la mise en œuvre de notre changement.](images/FLC-Commitment-curve-FR-1024x561.png)
 
-À ce stade-ci, la courbe de mobilisation est quelque chose que nous pouvons utiliser pour nous guider dans la détermination des auditoires et du calendrier de nos communications et d’autres activités connexes. Nous y reviendrons à [la section 6 – Élaborer nos plans : Plan de communication](/plan-de-communication/).
+À ce stade-ci, la courbe de mobilisation est quelque chose que nous pouvons utiliser pour nous guider dans la détermination des auditoires et du calendrier de nos communications et d’autres activités connexes. Nous y reviendrons à [la section 6 – Élaborer nos plans : Plan de communication](/framework-for-leading-change/plan-de-communication/).
 
 **Comment pouvons-nous mobiliser nos intervenants?**
 
@@ -33,7 +33,7 @@ Nous pouvons mener diverses activités en fonction de notre analyse des interven
 
 Le type d’activités que nous choisissons sera propre à notre changement, aux intervenants et aux niveaux de soutien que nous souhaitons atteindre. Nous utiliserons probablement une combinaison d’outils et de tactiques. Fait important, lorsque nous menons nos activités de mobilisation, nous pouvons garder à l’esprit que ce n’est, bien souvent, pas l’activité elle-même qui détermine le succès, mais plutôt les mentalités et l’approche.
 
-Pour en savoir plus sur les mentalités, consultez [la section 1 – Naviguer dans le monde du changement : Comment adopter une mentalité de leadership du changement](/la-gestion-du-changement-et-le-leadership-du-changement/).
+Pour en savoir plus sur les mentalités, consultez [la section 1 – Naviguer dans le monde du changement : Comment adopter une mentalité de leadership du changement](/framework-for-leading-change/la-gestion-du-changement-et-le-leadership-du-changement/).
 
 Par exemple, une assemblée publique pourrait être bien planifiée et ordonnée et le contenu peut être approprié et opportun pour l’auditoire, mais son succès dépendra ultimement de la façon dont nous aurons mené la conversation avant, pendant et après l’activité.
 
@@ -281,8 +281,8 @@ Il existe diverses façons de réduire au minimum la perception d’une menace e
 
 * * *
 
-[****Prochain **: Élaborer nos plans******](/elaborer-nos-plans/)
+[****Prochain **: Élaborer nos plans******](/framework-for-leading-change/elaborer-nos-plans/)
 
-[**Retour au début de la section**](/rallier-les-gens-au-changement/)
+[**Retour au début de la section**](/framework-for-leading-change/rallier-les-gens-au-changement/)
 
 * * *
