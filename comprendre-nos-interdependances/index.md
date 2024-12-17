@@ -29,8 +29,8 @@ Maintenant que nous comprenons mieux le système et certains de nos points de le
 
 * * *
 
-[****Prochain : Capacité, état de préparation et incidence****](/capacite-etat-de-preparation-et-incidence/)
+[****Prochain : Capacité, état de préparation et incidence****](/framework-for-leading-change/capacite-etat-de-preparation-et-incidence/)
 
-[**Retour au début de la section**](/comprendre-notre-contexte/)
+[**Retour au début de la section**](/framework-for-leading-change/comprendre-notre-contexte/)
 
 * * *
