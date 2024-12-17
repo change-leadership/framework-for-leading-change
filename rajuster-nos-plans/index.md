@@ -17,7 +17,7 @@ Si nous établissons la confiance pendant le processus et favorisons un dialogue
 
 Le renforcement de la confiance nous permettra de prendre des mesures que nous ne serions pas en mesure de prendre autrement, surtout lorsqu’il s’agit de rompre avec d’anciennes mentalités et d’anciens comportements. En l’absence d’une telle confiance, nos chances de réussite sont beaucoup plus faibles.
 
-Pour en savoir plus sur la façon de bâtir la confiance, voir [la section 1 – Naviguer dans le monde du changement : Bâtir la confiance et adopter un comportement exemplaire](/batir-la-confiance-et-adopter-un-comportement-exemplaire/)**.**
+Pour en savoir plus sur la façon de bâtir la confiance, voir [la section 1 – Naviguer dans le monde du changement : Bâtir la confiance et adopter un comportement exemplaire](/framework-for-leading-change/batir-la-confiance-et-adopter-un-comportement-exemplaire/)**.**
 
 **Une mentalité de leadership du changement**
 
@@ -25,12 +25,12 @@ Il n’existe pas de formule précise pour changer efficacement l’orientation 
 
 Ensuite, grâce à la confiance et à la crédibilité que nous avons bâties, nous serons en mesure d’apporter des ajustements à nos plans, y compris avec la participation des intervenants, au besoin. Cette façon de faire augmente considérablement les chances de réussite, quelle que soit l’orientation du changement.
 
-Pour en savoir plus sur les mentalités en matière de leadership du changement, voir [la section 1 – Naviguer dans le monde du changement : Bâtir la confiance et adopter un comportement exemplaire](/batir-la-confiance-et-adopter-un-comportement-exemplaire/)**.**
+Pour en savoir plus sur les mentalités en matière de leadership du changement, voir [la section 1 – Naviguer dans le monde du changement : Bâtir la confiance et adopter un comportement exemplaire](/framework-for-leading-change/batir-la-confiance-et-adopter-un-comportement-exemplaire/)**.**
 
 * * *
 
-[****Prochain : Atteindre notre point de cheminement****](/atteindre-notre-point-de-cheminement/)
+[****Prochain : Atteindre notre point de cheminement****](/framework-for-leading-change/atteindre-notre-point-de-cheminement/)
 
-[**Retour au début de la section**](/mise-en-oeuvre-du-changement/)
+[**Retour au début de la section**](/framework-for-leading-change/mise-en-oeuvre-du-changement/)
 
 * * *
