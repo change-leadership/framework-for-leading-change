@@ -3,8 +3,6 @@ title: "Framework for Leading Change"
 date: "2022-10-20"
 ---
 
-<header>
-
 <head>
     <style>
         * {
@@ -81,7 +79,7 @@ date: "2022-10-20"
             color: #ffd700;
         }
     </style>
-</head>
+
 
     <nav class="navbar">
         <ul class="nav-list">
@@ -96,7 +94,7 @@ date: "2022-10-20"
     </nav>
   
   
- </header>
+</head>
 
   
 This framework is designed to strengthen our ability to lead different types of change in the public service, from incremental to transformational. It offers a flexible approach that can be adapted depending on the context, and introduces concepts and methods that guide us in planning and implementing our activities. Using the framework to lead change can increase both the chances of success for a particular initiative and also offers a path to build on our success to support future change.
