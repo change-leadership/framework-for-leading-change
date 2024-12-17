@@ -23,7 +23,7 @@ Here we will develop our:
 
 - [Human resources plan](/framework-for-leading-change/human-resources-plan/)
 
-- [Training/][learnin][plan](/framework-for-leading-change/training-learning-plan)
+- [Training/learning plan](/framework-for-leading-change/training-learning-plan)
 
 - [Reinforcement/sustainability plan](/framework-for-leading-change/reinforcement-sustainability-plan/)
 
