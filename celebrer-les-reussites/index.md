@@ -55,8 +55,8 @@ La célébration de nos réussites joue un rôle important pour nous aider à ga
 
 * * *
 
-[****Prochain: Préparer le terrain pour notre prochain changement****](/preparer-le-terrain-pour-notre-prochain-changement/)
+[****Prochain: Préparer le terrain pour notre prochain changement****](/framework-for-leading-change/preparer-le-terrain-pour-notre-prochain-changement/)
 
-[**Retour au début de la section**](/atteindre-notre-point-de-cheminement/)
+[**Retour au début de la section**](/framework-for-leading-change/atteindre-notre-point-de-cheminement/)
 
 * * *
