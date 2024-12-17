@@ -3,7 +3,7 @@ title: "Plan de mobilisation"
 date: "2023-02-01"
 ---
 
-Notre plan de mobilisation peut comprendre les éléments suivants (voir [la section 4 – Capacité, état de préparation et incidence : Évaluation de l’incidence sur les intervenants](/evaluation-de-lincidence-sur-les-intervenants/), et [la section 5 – Rallier les gens au changement : Mobiliser les principaux intervenants](/mobiliser-les-principaux-intervenants/)) :
+Notre plan de mobilisation peut comprendre les éléments suivants (voir [la section 4 – Capacité, état de préparation et incidence : Évaluation de l’incidence sur les intervenants](/framework-for-leading-change/evaluation-de-lincidence-sur-les-intervenants/), et [la section 5 – Rallier les gens au changement : Mobiliser les principaux intervenants](/framework-for-leading-change/mobiliser-les-principaux-intervenants/)) :
 
 - L’analyse de nos intervenants
 
@@ -23,8 +23,8 @@ Un deuxième exemple est le [modèle de plan de mobilisation](https://wiki.gccol
 
 * * *
 
-[****Prochain : Plan de gestion des risques****](/plan-de-gestion-des-risques/)
+[****Prochain : Plan de gestion des risques****](/framework-for-leading-change/plan-de-gestion-des-risques/)
 
-[**Retour au début de la section**](/elaborer-nos-plans/)
+[**Retour au début de la section**](/framework-for-leading-change/elaborer-nos-plans/)
 
 * * *
