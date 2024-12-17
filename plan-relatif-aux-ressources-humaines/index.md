@@ -34,8 +34,8 @@ Il est important que les volets du plan relatif aux ressources humaines soient i
 
 * * *
 
-[****Prochain : Plan de formation / d’apprentissage****](/plan-de-formation-dapprentissage/)
+[****Prochain : Plan de formation / d’apprentissage****](/framework-for-leading-change/plan-de-formation-dapprentissage/)
 
-[**Retour au début de la section**](/elaborer-nos-plans/)
+[**Retour au début de la section**](/framework-for-leading-change/elaborer-nos-plans/)
 
 * * *
