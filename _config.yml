@@ -1,3 +1,95 @@
 theme: jekyll-theme-cayman
 title: Framework for Leading Change
-description: Bookmark this to keep an eye on my project updates!
+description: <head>
+    <style>
+        * {
+            margin: 10;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+        }
+
+        .navbar {
+            display: flex;
+            position: sticky;
+            align-items: center;
+            justify-content: space-between;
+            top: 0px;
+            background: rgb(13, 152, 186);
+            background-blend-mode: darken;
+            background-size: cover;
+            color: white;
+            padding: 10px 20px;
+        }
+
+        .nav-list {
+            display: flex;
+            list-style: none;
+        }
+
+        .nav-list li {
+            margin-right: 20px;
+        }
+
+        .nav-list li:last-child {
+            margin-right: 0;
+        }
+
+        .nav-list li a {
+            text-decoration: none;
+            color: white;
+            font-size: 18px;
+            transition: color 0.3s ease-in-out;
+        }
+
+        .nav-list li a:hover {
+            color: #ffd700;
+            /* Change the color on hover */
+        }
+
+        .rightNav {
+            text-align: right;
+        }
+
+        #search {
+            padding: 8px;
+            font-size: 16px;
+            border: 2px solid #fff;
+            border-radius: 5px;
+        }
+
+        .btn {
+            background-color: #ffd700;
+            color: #000;
+            border: none;
+            padding: 8px 12px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease-in-out;
+        }
+
+        .btn:hover {
+            background-color: #000;
+            /* Change the background color on hover */
+            color: #ffd700;
+        }
+    </style>
+
+
+    <nav class="navbar">
+        <ul class="nav-list">
+            <li><a href="/framework-for-leading-change/where-should-we-start/">Where should we start?</a></li>
+            <li><a href="/framework-for-leading-change/navigating-the-world-of-change">Deepening our understanding</a></li>
+            <li><a href="/framework-for-leading-change/understanding-our-context/">Strategizing and planning</a></li>
+            <li><a href="/framework-for-leading-change/navigating-our-change/">Navigating our change</a></li>
+            <li><a href="/framework-for-leading-change/reaching-our-waypoint/">Reaching our waypoint</a></li>
+            <li><a href="/framework-for-leading-change/contact-us/">Contact us</a></li>
+        </ul>
+        
+    </nav>
+  
+  
+</head>
+
