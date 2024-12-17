@@ -9,26 +9,26 @@ Dans la section suivante, nous jetons les bases du changement précis que nous s
 
 Dans le cadre de cette section, nous allons :
 
-- [Élaborer l'ébauche d'une liste des intervenants](/les-intervenants-et-le-changement/)
+- [Élaborer l'ébauche d'une liste des intervenants](/framework-for-leading-change/les-intervenants-et-le-changement/)
 
-- [Mettre sur pied notre équipe du changement](/mettre-sur-pied-notre-equipe-du-changement/)
+- [Mettre sur pied notre équipe du changement](/framework-for-leading-change/mettre-sur-pied-notre-equipe-du-changement/)
 
-- [Apprendre à appliquer la formule pour un changement réussi](/la-formule-pour-un-changement-reussi/)
+- [Apprendre à appliquer la formule pour un changement réussi](/framework-for-leading-change/la-formule-pour-un-changement-reussi/)
 
-- [Examiner ce qu’est le moteur de notre changement](/nos-moteurs-et-obstacles-du-changement/)
+- [Examiner ce qu’est le moteur de notre changement](/framework-for-leading-change/nos-moteurs-et-obstacles-du-changement/)
 
-- [Développer notre argumentaire en faveur du changement](/developper-notre-argumentaire-en-faveur-du-changement/)
+- [Développer notre argumentaire en faveur du changement](/framework-for-leading-change/developper-notre-argumentaire-en-faveur-du-changement/)
 
-- [Élaborer notre vision](/definir-notre-vision-de-lavenir/)
+- [Élaborer notre vision](/framework-for-leading-change/definir-notre-vision-de-lavenir/)
 
-- [Définir nos conditions de réussite](/definir-nos-conditions-de-reussite/)
+- [Définir nos conditions de réussite](/framework-for-leading-change/definir-nos-conditions-de-reussite/)
 
-- [Réfléchir aux signaux et aux leviers stratégiques que nous pourrions devoir utiliser](/envoyer-des-signaux-forts/)
+- [Réfléchir aux signaux et aux leviers stratégiques que nous pourrions devoir utiliser](/framework-for-leading-change/envoyer-des-signaux-forts/)
 
 * * *
 
-[**Prochain :** Élaborer l'ébauche d'une liste des intervenants](/les-intervenants-et-le-changement/)
+[**Prochain :** Élaborer l'ébauche d'une liste des intervenants](/framework-for-leading-change/les-intervenants-et-le-changement/)
 
-[**Retour à l’aperçu du cadre**](/un-cadre-pour-diriger-le-changement/)
+[**Retour à l’aperçu du cadre**](/framework-for-leading-change/un-cadre-pour-diriger-le-changement/)
 
 * * *
