@@ -45,8 +45,8 @@ Maintenant que nous comprenons mieux les incidences du changement sur notre orga
 
 * * *
 
-[****Prochain : **Évaluation de l’incidence sur les intervenants******](/evaluation-de-lincidence-sur-les-intervenants/)
+[****Prochain : **Évaluation de l’incidence sur les intervenants******](/framework-for-leading-change/evaluation-de-lincidence-sur-les-intervenants/)
 
-[**Retour au début de la section**](/capacite-etat-de-preparation-et-incidence/)
+[**Retour au début de la section**](/framework-for-leading-change/capacite-etat-de-preparation-et-incidence/)
 
 * * *
