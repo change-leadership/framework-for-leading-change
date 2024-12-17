@@ -92,8 +92,8 @@ Now that we understand our level of change maturity we can begin assessing in mo
 
 * * *
 
-[******Next: Change saturation and fatigue******](/change-saturation-and-fatigue/)
+[******Next: Change saturation and fatigue******](/framework-for-leading-change/change-saturation-and-fatigue/)
 
-[Back to beginning of section](/capacity-readiness-and-impact/)
+[Back to beginning of section](/framework-for-leading-change/capacity-readiness-and-impact/)
 
 * * *
