@@ -39,8 +39,8 @@ A second example is the [communications plan template](https://wiki.gccollab.ca/
 
 * * *
 
-[Next: Human resources plan](/human-resources-plan/)
+[Next: Human resources plan](/framework-for-leading-change/human-resources-plan/)
 
-[Back to beginning of section](/developing-our-plans/)
+[Back to beginning of section](/framework-for-leading-change/developing-our-plans/)
 
 * * *
