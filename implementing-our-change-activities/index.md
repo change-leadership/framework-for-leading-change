@@ -102,7 +102,7 @@ Ultimately, we want to be aware that people will be going through a period of tr
 
 **Change adoption**
 
-![the change adoption curve. Includes level of effort / commitment on the y axis. Indicates time along the x axis.
+![the change adoption curve.] Includes level of effort / commitment on the y axis. Indicates time along the x axis.
 <div></div>
 The points along the change adoption curve are:
 Contact (communicate / inform)
