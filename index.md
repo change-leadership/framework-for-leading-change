@@ -2,7 +2,7 @@
 title: "Framework for Leading Change"
 date: "2022-10-20"
 ---
-  
+
 This framework is designed to strengthen our ability to lead different types of change in the public service, from incremental to transformational. It offers a flexible approach that can be adapted depending on the context, and introduces concepts and methods that guide us in planning and implementing our activities. Using the framework to lead change can increase both the chances of success for a particular initiative and also offers a path to build on our success to support future change.
 
 Working under the premise that no single change methodology provides solutions to every challenge, this framework pulls from a range of different models throughout. It follows the major phases of recognized best practices in leading change.
