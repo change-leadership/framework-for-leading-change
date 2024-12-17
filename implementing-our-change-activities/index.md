@@ -28,7 +28,7 @@ Using a change leadership mindset, there are a number of behaviours and activiti
 
 - **Be clear on what isn’t changing** so that people have more certainty, an anchor to hold onto and can better discern what is actually changing
 
-- **Keep our understanding of the system and its interdependencies in our minds** as we navigate the change (for more on this, see _[Section 3: Understanding our context / Determining where our change fits / Systems Thinking](/determining-where-our-change-fits/)_ of the framework)
+- **Keep our understanding of the system and its interdependencies in our minds** as we navigate the change (for more on this, see _[Section 3: Understanding our context / Determining where our change fits / Systems Thinking](/framework-for-leading-change/determining-where-our-change-fits/)_ of the framework)
 
 - **Approach the change with a growth mindset**, seeing it as an opportunity to grow and experiment professionally (for more on this, see Carol Dweck)
 
@@ -120,7 +120,7 @@ The consequences indicated at the bottom of the graph show potential reactions w
 
 A common mistake here is to assume that, because there is some adoption/behaviour change at this early stage, that the change is ready to take root. Rather, at this point we are just reaching a crucial tipping point. If we do not follow through on our actions in a sustainable manner the change is likely fail.
 
-We still need to get as many individuals and groups as possible to adopt the change, with the aim to institutionalize it after our sustainability activities and reinforcement efforts (see _[Section 6: Developing our plans / Reinforcement/sustainability plan](/reinforcement-sustainability-plan)_).
+We still need to get as many individuals and groups as possible to adopt the change, with the aim to institutionalize it after our sustainability activities and reinforcement efforts (see _[Section 6: Developing our plans / Reinforcement/sustainability plan](/framework-for-leading-change/reinforcement-sustainability-plan)_).
 
 **Next steps**
 
@@ -128,8 +128,8 @@ As we move through implementation, we can prepare our feedback mechanisms in ord
 
 * * *
 
-[Next: Feedback mechanisms and measurement](/setting-up-feedback-mechanisms-and-measuring-progress/)
+[Next: Feedback mechanisms and measurement](/framework-for-leading-change/setting-up-feedback-mechanisms-and-measuring-progress/)
 
-[Back to beginning of section](/implementing-the-change/)
+[Back to beginning of section](/framework-for-leading-change/implementing-the-change/)
 
 * * *
