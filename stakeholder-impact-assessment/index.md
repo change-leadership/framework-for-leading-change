@@ -69,8 +69,8 @@ At this point we have a good understanding of our change and the impact on our o
 
 * * *
 
-[Next: Understanding our risks](/understanding-our-risks/)
+[Next: Understanding our risks](/framework-for-leading-change/understanding-our-risks/)
 
-[Back to beginning of section](/capacity-readiness-and-impact/)
+[Back to beginning of section](/framework-for-leading-change/capacity-readiness-and-impact/)
 
 * * *
