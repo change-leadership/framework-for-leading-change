@@ -9,7 +9,7 @@ Pour nous aider à cet égard, nous pouvons notamment utiliser le modèle ADKAR 
 
 Plus nous élaborons tôt dans le processus des plans concrets sur les possibilités de recyclage professionnel et de perfectionnement pour nos employés, plus nous serons en mesure de réduire la crainte et l’incertitude au sujet du changement.
 
-Le modèle SCARF (voir [la section 5 – Rallier les gens au changement : Mobiliser les principaux intervenants : SCARF](/mobiliser-les-principaux-intervenants/)) est un bon outil pour valider la façon dont nous répondons aux divers besoins des gens grâce à la formation (p. ex. personnaliser notre formation en fonction des besoins individuels).
+Le modèle SCARF (voir [la section 5 – Rallier les gens au changement : Mobiliser les principaux intervenants : SCARF](/framework-for-leading-change/mobiliser-les-principaux-intervenants/)) est un bon outil pour valider la façon dont nous répondons aux divers besoins des gens grâce à la formation (p. ex. personnaliser notre formation en fonction des besoins individuels).
 
 Les besoins en formation seront propres à notre changement et à chaque intervenant/groupe. Cela dit, une combinaison de possibilités de perfectionnement conceptuel plus nombreuses, comme l’encadrement, le leadership du changement, la transition et la formation sur la résilience à l’intention des gestionnaires et du personnel, ainsi que toute formation technique requise, offre une approche holistique.
 
@@ -21,8 +21,8 @@ Un deuxieme exemple est le [modèle de plan de formation](https://wiki.gccollab.
 
 * * *
 
-[****Prochain : Plan de consolidation / pérennité****](/plan-de-consolidation-perennite/)
+[****Prochain : Plan de consolidation / pérennité****](/framework-for-leading-change/plan-de-consolidation-perennite/)
 
-[**Retour au début de la section**](/elaborer-nos-plans/)
+[**Retour au début de la section**](/framework-for-leading-change/elaborer-nos-plans/)
 
 * * *
