@@ -27,7 +27,7 @@ By applying what we know about modelling behaviours, we can continue to build tr
 
 * * *
 
-[Next: Foster productive dialogue about the change](/fostering-a-dialogue)
+[Next: Foster productive dialogue about the change](/framework-for-leading-change-fostering-a-dialogue)
 
 [Back to beginning of section](/navigating-the-world-of-change/)
 
