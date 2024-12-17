@@ -51,8 +51,8 @@ With our understanding of how to lead change in the public service and in a virt
 
 * * *
 
-[Next: Build trust among the leadership team and staff](/building-trust-and-modelling-behaviour/)
+[Next: Build trust among the leadership team and staff](/framework-for-leading-change/building-trust-and-modelling-behaviour/)
 
-[Back to beginning of section](/navigating-the-world-of-change/)
+[Back to beginning of section](/framework-for-leading-change/navigating-the-world-of-change/)
 
 * * *
