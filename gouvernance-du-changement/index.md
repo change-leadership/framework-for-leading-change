@@ -23,7 +23,7 @@ Au moment d’établir notre gouvernance du changement, plusieurs aspects se doi
 
 Au moment de déterminer les rôles de notre structure de gouvernance, une pratique exemplaire consiste à s’assurer de son intégration verticale, horizontale et diagonale. En créant une structure intégrée comme celle-ci, nous sommes bien placés pour assurer une pollinisation croisée entre les disciplines et les échelons, sans devoir engager trop de ressources, et ainsi permettre d’optimiser le flux d’information, la génération d’idées, la prise de mesures et la prise de décisions. Un avantage supplémentaire de ce type de structure est qu’elle nous permet d’élargir ou de réduire notre gouvernance au besoin, tout en assurant la continuité du processus, en fonction des étapes de l’initiative de changement.
 
-Notre liste des intervenants (voir la section [2 – Jeter les bases d’un changement réussi : Intervenants et changement](/les-intervenants-et-le-changement/), et [la section 4 – Capacité, état de préparation et incidence : Évaluation de l’incidence sur les intervenants](/evaluation-de-lincidence-sur-les-intervenants/)) peut servir de source d’inspiration pour déterminer qui (p. ex. quelle discipline ou quel groupe d’intervenants) devrait participer à notre gouvernance du changement et à quel échelon (p. ex. cadre, gestionnaire, employé ou autres intervenants).
+Notre liste des intervenants (voir la section [2 – Jeter les bases d’un changement réussi : Intervenants et changement](/framework-for-leading-change/les-intervenants-et-le-changement/), et [la section 4 – Capacité, état de préparation et incidence : Évaluation de l’incidence sur les intervenants](/framework-for-leading-change/evaluation-de-lincidence-sur-les-intervenants/)) peut servir de source d’inspiration pour déterminer qui (p. ex. quelle discipline ou quel groupe d’intervenants) devrait participer à notre gouvernance du changement et à quel échelon (p. ex. cadre, gestionnaire, employé ou autres intervenants).
 
 Si une liste des intervenants n’a pas été dressée avant que nous commencions à définir notre gouvernance du changement, nous pouvons envisager d’inclure les intervenants mentionnés dans les paragraphes ci-après, le cas échéant. De plus, nous pourrons toujours peaufiner la gouvernance une fois que nous aurons établi la liste exhaustive de nos intervenants, et au cours du processus, au fur et à mesure de l’évolution du projet.
 
@@ -71,8 +71,8 @@ Nous pouvons également chercher à limiter le temps que doivent allouer les mem
 
 * * *
 
-[****Prochain : **Diriger le changement dans un environnement virtuel/hybride******](/diriger-le-changement-dans-un-environnement-virtuel-hybride/)
+[****Prochain : **Diriger le changement dans un environnement virtuel/hybride******](/framework-for-leading-change/diriger-le-changement-dans-un-environnement-virtuel-hybride/)
 
-[**Retour au début de la section**](/naviguer-dans-le-monde-du-changement/)
+[**Retour au début de la section**](/framework-for-leading-change/naviguer-dans-le-monde-du-changement/)
 
 * * *
