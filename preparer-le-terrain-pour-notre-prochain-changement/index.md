@@ -7,13 +7,13 @@ Bien que l’élaboration des stratégies visant à préparer le terrain pour le
 
 Nous pouvons apprendre de notre dialogue continu avec les intervenants et de notre renforcement des capacités afin d’évaluer notre changement et de mettre à profit nos apprentissages en vue des changements futurs. Nous améliorons ainsi la capacité de notre organisation à s’adapter, à diriger le changement et à réussir à moyen et à long terme. La façon dont nous menons ce changement met la barre pour les prochains changements.
 
-Nous pouvons commencer par revoir les étapes pertinentes de [la section 4 – Capacité, état de préparation et incidence : Examiner la maturité de l’organisation en matière de changement par rapport à son état de préparation](/capacite-etat-de-preparation-et-incidence/maturite-de-lorganisation-a-legard-du-changement/); [Saturation au changement](/saturation-au-changement-et-fatigue/); [Évaluer dans quelle mesure nous sommes prêts à mettre en œuvre le changement sur le plan organisationnel et individuel](/evaluer-dans-quelle-mesure-nous-sommes-prets-a-mettre-en-oeuvre-le-changement/); [Évaluer la capacité de la direction à adopter le changement](/evaluer-la-capacite-de-la-direction-a-adopter-le-changement/).
+Nous pouvons commencer par revoir les étapes pertinentes de [la section 4 – Capacité, état de préparation et incidence : Examiner la maturité de l’organisation en matière de changement par rapport à son état de préparation](/framework-for-leading-change/maturite-de-lorganisation-a-legard-du-changement/); [Saturation au changement](/framework-for-leading-change/saturation-au-changement-et-fatigue/); [Évaluer dans quelle mesure nous sommes prêts à mettre en œuvre le changement sur le plan organisationnel et individuel](/framework-for-leading-change/evaluer-dans-quelle-mesure-nous-sommes-prets-a-mettre-en-oeuvre-le-changement/); [Évaluer la capacité de la direction à adopter le changement](/framework-for-leading-change/evaluer-la-capacite-de-la-direction-a-adopter-le-changement/).
 
 Un élément clé de la section 4 porte sur l’évaluation de la maturité de notre organisation en matière de changement. La maturité de l’organisation à l’égard du changement nous aide à comprendre dans quelle mesure notre organisation est prête et apte au changement, en tenant compte de facteurs comme le leadership, la technologie, la capacité et la culture du milieu de travail.
 
 Des activités permanentes peuvent être menées pour renforcer notre capacité à long terme en matière de changement, y compris un certain nombre de ces activités tout au long de notre processus de changement.
 
-Nous pouvons évaluer notre capacité au moyen d’une évaluation de la maturité organisationnelle. Pour en savoir plus sur la façon de procéder à une évaluation de la maturité organisationnelle en matière de changement, voir [la section 4 – Capacité, état de préparation et incidence : Maturité de l’organisation en matière de changement : Comment pouvons-nous mieux comprendre notre maturité organisationnelle en matière de changement?](/capacite-etat-de-preparation-et-incidence/maturite-de-lorganisation-a-legard-du-changement/)
+Nous pouvons évaluer notre capacité au moyen d’une évaluation de la maturité organisationnelle. Pour en savoir plus sur la façon de procéder à une évaluation de la maturité organisationnelle en matière de changement, voir [la section 4 – Capacité, état de préparation et incidence : Maturité de l’organisation en matière de changement : Comment pouvons-nous mieux comprendre notre maturité organisationnelle en matière de changement?](/framework-for-leading-change/maturite-de-lorganisation-a-legard-du-changement/)
 
 En  suivant un processus de renforcement de la capacité de changement de notre organisation, nous serons bien placés pour diriger d’autres changements au fur et à mesure qu’ils se présenteront. Si nous sommes en mesure d’améliorer de façon proactive nos résultats dans le cadre de notre effort de changement actuel, nous pourrons faire la même chose pour tous nos changements futurs dans les années à venir.
 
@@ -101,4 +101,4 @@ Pour maximiser nos chances de réussite, nous devons adopter une mentalité de l
 
 * * *
 
-[**Retour à l’aperçu du cadre**](/un-cadre-pour-diriger-le-changement/)
+[**Retour à l’aperçu du cadre**](/framework-for-leading-change/un-cadre-pour-diriger-le-changement/)
