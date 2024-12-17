@@ -85,12 +85,12 @@ date: "2022-10-20"
 
     <nav class="navbar">
         <ul class="nav-list">
-            <li><a href="#home">Where should we start?</a></li>
-            <li><a href="#about">Deepening our understanding</a></li>
-            <li><a href="#services">Strategizing and planning</a></li>
-            <li><a href="#contact">Navigating our change</a></li>
-            <li><a href="#contact">Reaching our waypoint</a></li>
-            <li><a href="#contact">Contact us</a></li>
+            <li><a href="/framework-for-leading-change/where-should-we-start/">Where should we start?</a></li>
+            <li><a href="/framework-for-leading-change/navigating-the-world-of-change">Deepening our understanding</a></li>
+            <li><a href="/framework-for-leading-change/understanding-our-context/">Strategizing and planning</a></li>
+            <li><a href="/framework-for-leading-change/navigating-our-change/">Navigating our change</a></li>
+            <li><a href="/framework-for-leading-change/reaching-our-waypoint/">Reaching our waypoint</a></li>
+            <li><a href="/framework-for-leading-change/contact-us/">Contact us</a></li>
         </ul>
         <div class="rightNav">
             <input type="text" name="search" id="search" placeholder="Search">
