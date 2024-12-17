@@ -37,8 +37,8 @@ These characteristics are important to the proper functioning of a flexible team
 
 * * *
 
-[Next: Apply the formula for successful change](the-formula-for-successful-change/)
+[Next: Apply the formula for successful change](/framework-for-leading-change/the-formula-for-successful-change/)
 
-[Back to beginning of section](laying-our-foundation-for-successful-change/)
+[Back to beginning of section](/framework-for-leading-change/laying-our-foundation-for-successful-change/)
 
 * * *
