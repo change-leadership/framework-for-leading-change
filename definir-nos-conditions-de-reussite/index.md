@@ -33,8 +33,8 @@ C’est ici que nous pouvons réfléchir aux leviers stratégiques que nous pour
 
 * * *
 
-[******Prochain : Envoyer des signaux forts******](/envoyer-des-signaux-forts/)
+[******Prochain : Envoyer des signaux forts******](/framework-for-leading-change/envoyer-des-signaux-forts/)
 
-[**Retour au début de la section**](/jeter-les-bases-dun-changement-reussi/)
+[**Retour au début de la section**](/framework-for-leading-change/jeter-les-bases-dun-changement-reussi/)
 
 * * *
