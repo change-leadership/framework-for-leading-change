@@ -33,8 +33,8 @@ At this point we’ve developed a sense of our type of change (incremental, tran
 
 * * *
 
-[Next: Leading change in government](/leading-change-in-government)
+[Next: Leading change in government](/framework-for-leading-change/leading-change-in-government)
 
-[Back to beginning of section](/navigating-the-world-of-change/)
+[Back to beginning of section](/framework-for-leading-change/navigating-the-world-of-change/)
 
 * * *
