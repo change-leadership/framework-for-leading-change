@@ -75,8 +75,8 @@ Grâce à ce que nous avons découvert concernant ce qui alimentait le changemen
 
 * * *
 
-[******Prochain : Développer notre argumentaire en faveur du changement******](/developper-notre-argumentaire-en-faveur-du-changement/)
+[******Prochain : Développer notre argumentaire en faveur du changement******](/framework-for-leading-change/developper-notre-argumentaire-en-faveur-du-changement/)
 
-[**Retour au début de la section**](/jeter-les-bases-dun-changement-reussi/)
+[**Retour au début de la section**](/framework-for-leading-change/jeter-les-bases-dun-changement-reussi/)
 
 * * *
