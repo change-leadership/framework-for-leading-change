@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: Framework for Leading Change
-description: <head>
+<head>
     <style>
         * {
             margin: 10;
