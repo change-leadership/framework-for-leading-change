@@ -6,7 +6,6 @@ date: "2022-10-20"
 <header>
 
 <head>
-    <title>Building a Horizontal Navigation Bar</title>
     <style>
         * {
             margin: 0;
@@ -23,7 +22,7 @@ date: "2022-10-20"
             align-items: center;
             justify-content: space-between;
             top: 0px;
-            background: rgb(255 127 39);
+            background: rgb(255 87 51);
             background-blend-mode: darken;
             background-size: cover;
             color: white;
@@ -84,7 +83,6 @@ date: "2022-10-20"
     </style>
 </head>
 
-<body>
     <nav class="navbar">
         <ul class="nav-list">
             <li><a href="#home">Home</a></li>
