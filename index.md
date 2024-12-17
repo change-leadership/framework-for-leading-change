@@ -26,14 +26,14 @@ date: "2022-10-20"
       <section id="wb-srch" class="col-lg-offset-4 col-md-offset-4 col-sm-offset-2 col-xs-12 col-sm-5 col-md-4">
         <h2>Search</h2>
         <form id="site-search"
-              action="https://articles.alpha.canada.ca/framework-for-leading-change"
+              action="https://change-leadership.github.io/framework-for-leading-change/"
               method="GET"
               name="cse-search-box"
               role="search">
           <div class="form-group wb-srch-qry">
             <label for="wb-srch-q" class="wb-inv">Search</label>
                         <input name="s" id="wb-srch-q" list="wb-srch-q-ac" class="wb-srch-q form-control" name="q" type="search"
-                   value="" size="34" maxlength="170" placeholder="Search Framework for leading change ">
+                   value="" size="34" maxlength="170" placeholder="Search Framework for Leading Change">
             <datalist id="wb-srch-q-ac">
             </datalist>
           </div>
