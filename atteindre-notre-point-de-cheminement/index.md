@@ -9,7 +9,7 @@ date: "2023-02-01"
 
 Ici, nous allons :
 
-- [Célébrer les réussites](celebrer-les-reussites/)
+- [Célébrer les réussites](framework-for-leading-change/celebrer-les-reussites/)
 
 - [Préparer le terrain pour le prochain changement](preparer-le-terrain-pour-notre-prochain-changement/)
 
