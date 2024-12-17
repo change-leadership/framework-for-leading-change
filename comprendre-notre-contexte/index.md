@@ -11,16 +11,16 @@ Cela nous permettra de mieux comprendre certains des facteurs qui peuvent influe
 
 Dans le cadre de cette section, nous allons :
 
-- [Analyser l’environnement dans lequel le changement se produit](/analyser-lenvironnement/)
+- [Analyser l’environnement dans lequel le changement se produit](/framework-for-leading-change/analyser-lenvironnement/)
 
-- [Déterminer où notre changement s’inscrit au sein de l’organisation dans son ensemble](/determiner-ou-sinscrit-notre-changement/)
+- [Déterminer où notre changement s’inscrit au sein de l’organisation dans son ensemble](/framework-for-leading-change/determiner-ou-sinscrit-notre-changement/)
 
-- [Examiner les interdépendances en regard des autres programmes et initiatives de changement en cours](/comprendre-nos-interdependances/)
+- [Examiner les interdépendances en regard des autres programmes et initiatives de changement en cours](/framework-for-leading-change/comprendre-nos-interdependances/)
 
 * * *
 
-[**Prochain : Analyser l’environnement**](/analyser-lenvironnement/)
+[**Prochain : Analyser l’environnement**](/framework-for-leading-change/analyser-lenvironnement/)
 
-[**Retour à l’aperçu du cadre**](/un-cadre-pour-diriger-le-changement/)
+[**Retour à l’aperçu du cadre**](/framework-for-leading-change/un-cadre-pour-diriger-le-changement/)
 
 * * *
