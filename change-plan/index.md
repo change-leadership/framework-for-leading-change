@@ -39,8 +39,8 @@ Each of these elements may need to be updated as the initiative progress. It is 
 
 * * *
 
-[Next: Engagement plan](/engagement-plan/)
+[Next: Engagement plan](/framework-for-leading-change/engagement-plan/)
 
-[Back to beginning of section](/developing-our-plans/)
+[Back to beginning of section](/framework-for-leading-change/developing-our-plans/)
 
 * * *
