@@ -7,7 +7,7 @@ date: "2022-10-20"
     <style>
         * {
             margin: 10;
-            padding: 10;
+            padding: 0;
         }
 
         body {
