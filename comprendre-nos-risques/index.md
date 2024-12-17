@@ -106,8 +106,8 @@ Les risques sont susceptibles d’évoluer au fil du temps. Il est donc importan
 
 * * *
 
-[****Prochain : **Rallier les gens au changement******](/rallier-les-gens-au-changement/)
+[****Prochain : **Rallier les gens au changement******](/framework-for-leading-change/rallier-les-gens-au-changement/)
 
-[**Retour au début de la section**](/capacite-etat-de-preparation-et-incidence/)
+[**Retour au début de la section**](/framework-for-leading-change/capacite-etat-de-preparation-et-incidence/)
 
 * * *
