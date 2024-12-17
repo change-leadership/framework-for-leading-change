@@ -13,24 +13,24 @@ Other organizational cultures may favour different labels, such as putting forwa
 
 Here we will develop our:
 
-- [Change plan](/change-plan/)
+- [Change plan](/framework-for-leading-change/change-plan/)
 
-- [Engagement plan](/engagement-plan/)
+- [Engagement plan](/framework-for-leading-change/engagement-plan/)
 
-- [Risk management plan](/risk-plan/)
+- [Risk management plan](/framework-for-leading-change/risk-plan/)
 
-- [Communications plan](/communications-plan/)
+- [Communications plan](/framework-for-leading-change/communications-plan/)
 
-- [Human resources plan](/human-resources-plan/)
+- [Human resources plan](/framework-for-leading-change/human-resources-plan/)
 
-- [Training/](https://articles.alpha.canada.ca/tpsgc-pwgsc-framework-for-leading-change/?page_id=375)[learnin](/training-learning-plan/)[g](/training-learning-plan/) [plan](https://articles.alpha.canada.ca/tpsgc-pwgsc-framework-for-leading-change/?page_id=375)
+- [Training/][learnin][plan](/framework-for-leading-change/training-learning-plan)
 
-- [Reinforcement/sustainability plan](/reinforcement-sustainability-plan/)
+- [Reinforcement/sustainability plan](/framework-for-leading-change/reinforcement-sustainability-plan/)
 
 * * *
 
-[Next: Change plan](/change-plan/)
+[Next: Change plan](/framework-for-leading-change/change-plan/)
 
-[Back to beginning of framework](/home/)
+[Back to beginning of framework](/framework-for-leading-change/)
 
 * * *
