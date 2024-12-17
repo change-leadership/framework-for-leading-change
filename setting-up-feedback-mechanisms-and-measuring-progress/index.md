@@ -45,7 +45,7 @@ If we want to measure progress we’ll need some indicators to keep track of. Ma
 
 - Change fatigue (e.g., are people engaged or disengaged?)
 
-We can center our themes around the conditions for success we developed earlier in the process (_[Section 2: Laying our foundation for successful change / Setting out our conditions for success](/setting-out-our-conditions-for-success/))_. Having as clear as possible an idea of what success will look like will help us identify our indicators and define our measures.
+We can center our themes around the conditions for success we developed earlier in the process (_[Section 2: Laying our foundation for successful change / Setting out our conditions for success](/framework-for-leading-change/setting-out-our-conditions-for-success/))_. Having as clear as possible an idea of what success will look like will help us identify our indicators and define our measures.
 
 We gain by utilizing both qualitative and quantitative data. This gives us breadth and depth when assessing the progress of our change. One tool we can use to track progress and brief stakeholders is a dashboard that shows trends over time.
 
@@ -57,8 +57,8 @@ As we move through the implementation phase we continue to gather data from feed
 
 * * *
 
-[Next: Adjusting our plans](/adjusting-our-plans/)
+[Next: Adjusting our plans](/framework-for-leading-change/adjusting-our-plans/)
 
-[Back to beginning of section](/implementing-the-change/)
+[Back to beginning of section](/framework-for-leading-change/implementing-the-change/)
 
 * * *
