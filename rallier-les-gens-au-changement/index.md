@@ -11,14 +11,14 @@ Dans la section suivante, nous aborderons plus en détails les concepts et les t
 
 Dans le cadre de cette section, nous allons :
 
-- [Déterminer les niveaux de mobilisation requis](/determiner-les-niveaux-de-mobilisation-requis/)
+- [Déterminer les niveaux de mobilisation requis](/framework-for-leading-change/determiner-les-niveaux-de-mobilisation-requis/)
 
-- [Mobiliser les principaux intervenants](/mobiliser-les-principaux-intervenants/)
+- [Mobiliser les principaux intervenants](/framework-for-leading-change/mobiliser-les-principaux-intervenants/)
 
 * * *
 
-[**Prochain : Déterminer les niveaux de mobilisation requis**](/determiner-les-niveaux-de-mobilisation-requis/)
+[**Prochain : Déterminer les niveaux de mobilisation requis**](/framework-for-leading-change/determiner-les-niveaux-de-mobilisation-requis/)
 
-[**Retour à l’aperçu du cadre**](/un-cadre-pour-diriger-le-changement/)
+[**Retour à l’aperçu du cadre**](/framework-for-leading-change/un-cadre-pour-diriger-le-changement/)
 
 * * *
