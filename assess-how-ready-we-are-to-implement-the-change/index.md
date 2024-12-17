@@ -69,7 +69,7 @@ The following chart offers a visual of how much overall risk for our organizatio
 
 ![Change readiness and risk. The y axis depicts the organizational attributes them from change ready to change resistant. The x axis depicts the characteristics of the change, from small/incremental to large/disruptive.
 <div></div>
-There are four quadrants in the centre. The bottom left is low risk. The top left and bottom right are medium risk. The top right is high risk.(images/FLC-Org-attributes.jpg)]
+There are four quadrants in the centre. The bottom left is low risk. The top left and bottom right are medium risk. The top right is high risk.(/images/FLC-Org-attributes.jpg)]
 
 <figcaption>
 
