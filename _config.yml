@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 title: Framework for Leading Change
-html: <head>
+html: 
+{{{ <head>
     <style>
         * {
             margin: 10;
@@ -91,5 +92,5 @@ html: <head>
     </nav>
   
 
-</head>
+</head> }}}
 
