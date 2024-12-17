@@ -17,6 +17,6 @@ Here we will conduct:
 
 [Next: Organizational impact assessment](organizational-impact-assessment/)
 
-[Back to beginning of section](capacity-readiness-and-impact/)
+[Back to beginning of section](framework-for-leading-change/capacity-readiness-and-impact/)
 
 * * *
