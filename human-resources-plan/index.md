@@ -31,8 +31,8 @@ It is important that the streams of the Human Resources plan be integrated into 
 
 * * *
 
-[Next: Training/learning plan](/training-learning-plan/)
+[Next: Training/learning plan](/framework-for-leading-change/training-learning-plan/)
 
-[Back to beginning of section](/developing-our-plans/)
+[Back to beginning of section](/framework-for-leading-change/developing-our-plans/)
 
 * * *
