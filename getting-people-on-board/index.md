@@ -9,14 +9,14 @@ People support what they help develop. This truism is the driving force behind t
 
 Here we will:
 
-- [Determine our levels of engagement](/determining-our-levels-of-engagement/)
+- [Determine our levels of engagement](/framework-for-leading-change/determining-our-levels-of-engagement/)
 
-- [Engage with key stakeholders](/engaging-with-key-stakeholders/)
+- [Engage with key stakeholders](/framework-for-leading-change/engaging-with-key-stakeholders/)
 
 * * *
 
-[Next: Determining our levels of engagement](/determining-our-levels-of-engagement/)
+[Next: Determining our levels of engagement](/framework-for-leading-change/determining-our-levels-of-engagement/)
 
-[Back to beginning of framework](/home/)
+[Back to beginning of framework](/framework-for-leading-change/)
 
 * * *
