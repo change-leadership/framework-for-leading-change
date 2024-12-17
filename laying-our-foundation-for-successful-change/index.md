@@ -9,26 +9,26 @@ In this section we lay the foundation for the particular change that is being in
 
 Here we will:
 
-- [Develop a draft stakeholder list](/stakeholders-and-change/)
+- [Develop a draft stakeholder list](/framework-for-leading-change/stakeholders-and-change/)
 
-- [Building our change team](/building-our-change-team/)
+- [Building our change team](/framework-for-leading-change/building-our-change-team/)
 
-- [Learn how to apply the formula for successful change](/the-formula-for-successful-change/)
+- [Learn how to apply the formula for successful change](/framework-for-leading-change/the-formula-for-successful-change/)
 
-- [Determine what is driving our change](/our-drivers-and-barriers-of-change/)
+- [Determine what is driving our change](/framework-for-leading-change/our-drivers-and-barriers-of-change/)
 
-- [Develop our case for the change](/building-our-case-for-change/)
+- [Develop our case for the change](/framework-for-leading-change/building-our-case-for-change/)
 
-- [Develop our vision](/creating-our-vision-of-the-future/)
+- [Develop our vision](/framework-for-leading-change/creating-our-vision-of-the-future/)
 
-- [Set out our conditions for success](/setting-out-our-conditions-for-success/)
+- [Set out our conditions for success](/framework-for-leading-change/setting-out-our-conditions-for-success/)
 
-- [Think about the signals and strategic levers we may need to employ](/sending-strong-signals/)
+- [Think about the signals and strategic levers we may need to employ](/framework-for-leading-change/sending-strong-signals/)
 
 * * *
 
-[Next: Develop a draft stakeholder list](/stakeholders-and-change/)
+[Next: Develop a draft stakeholder list](/framework-for-leading-change/stakeholders-and-change/)
 
-[Back to beginning of framework](/home/)
+[Back to beginning of framework](/framework-for-leading-change/)
 
 * * *
