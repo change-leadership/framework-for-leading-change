@@ -45,8 +45,8 @@ Maintenant que nous avons une bonne idée de nos moteurs et de nos arguments en 
 
 * * *
 
-[******Prochain : Définir notre vision de l’avenir******](/definir-notre-vision-de-lavenir/)
+[******Prochain : Définir notre vision de l’avenir******](/framework-for-leading-change/definir-notre-vision-de-lavenir/)
 
-[**Retour au début de la section**](/jeter-les-bases-dun-changement-reussi/)
+[**Retour au début de la section**](/framework-for-leading-change/jeter-les-bases-dun-changement-reussi/)
 
 * * *
