@@ -33,8 +33,8 @@ With our vision and conditions of success in hand, we have one more strategic el
 
 * * *
 
-[******Next: Sending strong signals******](/sending-strong-signals/)
+[******Next: Sending strong signals******](/framework-for-leading-change/sending-strong-signals/)
 
-[Back to beginning of section](/laying-our-foundation-for-successful-change/)
+[Back to beginning of section](/framework-for-leading-change/laying-our-foundation-for-successful-change/)
 
 * * *
