@@ -9,16 +9,16 @@ In this section we delve more into the specifics of where our change fits within
 
 Here we will:
 
-- [Analyze the environment in which the change is taking place](/analyzing-the-environment/)
+- [Analyze the environment in which the change is taking place](/framework-for-leading-change/analyzing-the-environment/)
 
-- [Determine where our change fits in the broader organization](/determining-where-our-change-fits/)
+- [Determine where our change fits in the broader organization](/framework-for-leading-change/determining-where-our-change-fits/)
 
-- [Look at interdependencies with other change initiatives and programs currently underway](/understanding-our-interdependencies/)
+- [Look at interdependencies with other change initiatives and programs currently underway](/framework-for-leading-change/understanding-our-interdependencies/)
 
 * * *
 
-[Next: Analyzing our environment](/analyzing-the-environment/)
+[Next: Analyzing our environment](/framework-for-leading-change/analyzing-the-environment/)
 
-[Back to beginning of framework](/home/)
+[Back to beginning of framework](/framework-for-leading-change/)
 
 * * *
