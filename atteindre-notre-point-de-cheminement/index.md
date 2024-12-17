@@ -9,14 +9,14 @@ date: "2023-02-01"
 
 Ici, nous allons :
 
-- [Célébrer les réussites](/celebrer-les-reussites/)
+- [Célébrer les réussites](celebrer-les-reussites/)
 
-- [Préparer le terrain pour le prochain changement](/preparer-le-terrain-pour-notre-prochain-changement/)
+- [Préparer le terrain pour le prochain changement](preparer-le-terrain-pour-notre-prochain-changement/)
 
 * * *
 
-[**Prochain : Célébrer les réussites**](/celebrer-les-reussites/)
+[**Prochain : Célébrer les réussites**](celebrer-les-reussites/)
 
-[**Retour à l’aperçu du cadre**](/un-cadre-pour-diriger-le-changement/)
+[**Retour à l’aperçu du cadre**](un-cadre-pour-diriger-le-changement/)
 
 * * *
