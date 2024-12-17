@@ -78,7 +78,7 @@ Adapted from _Prosci_, [_Before You Act, Consider These Keys to Preparing for Ch
 
 </figure>
 
-Many assessments assign a number to various aspects of change readiness. One way we can do this is to give more weight to particular aspects of readiness than others (e.g., using a scale from 1 to 5). For more information on this, see _[S](/framework-for-leading-change/our-drivers-and-barriers-of-change/)[ection 2: Drivers and barriers / Determine the overall impact of each force](framework-for-leading-change//risk-plan/)_.
+Many assessments assign a number to various aspects of change readiness. One way we can do this is to give more weight to particular aspects of readiness than others (e.g., using a scale from 1 to 5). For more information on this, see _[S](/framework-for-leading-change/our-drivers-and-barriers-of-change/)[ection 2: Drivers and barriers / Determine the overall impact of each force](framework-for-leading-change/risk-plan/)_.
 
 Ultimately, a scale can help us get some precision on areas to focus on. That being said, it is really both the qualitative data we receive and the discussions themselves that help us to understand our change readiness.
 
