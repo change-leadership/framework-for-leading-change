@@ -13,28 +13,28 @@ La section suivante nous aidera à développer des mentalités propices au chang
 
 Dans le cadre de cette section, nous allons :
 
-- [Déterminer le type de changement que nous dirigeons afin de cerner la meilleure approche pour le soutenir](/le-type-de-changement-que-nous-dirigeons/)
+- [Déterminer le type de changement que nous dirigeons afin de cerner la meilleure approche pour le soutenir](/framework-for-leading-change/le-type-de-changement-que-nous-dirigeons/)
 
-- [Comprendre comment appliquer la gestion du changement et le leadership du changement](/la-gestion-du-changement-et-le-leadership-du-changement/)
+- [Comprendre comment appliquer la gestion du changement et le leadership du changement](/framework-for-leading-change/la-gestion-du-changement-et-le-leadership-du-changement/)
 
-- [Améliorer notre compréhension des modèles et des méthodes de changement](/les-modeles-et-les-methodes-de-changement/)
+- [Améliorer notre compréhension des modèles et des méthodes de changement](/framework-for-leading-change/les-modeles-et-les-methodes-de-changement/)
 
-- [Apprendre à diriger le changement au sein du gouvernement](/la-direction-du-changement-au-sein-du-gouvernement/)
+- [Apprendre à diriger le changement au sein du gouvernement](/framework-for-leading-change/la-direction-du-changement-au-sein-du-gouvernement/)
 
-- [Rôles liés au changement](/roles-lies-au-changement/)
+- [Rôles liés au changement](/framework-for-leading-change/roles-lies-au-changement/)
 
-- [Gouvernance du changement](/gouvernance-du-changement/)
+- [Gouvernance du changement](/framework-for-leading-change/gouvernance-du-changement/)
 
-- [Apprendre à diriger le changement dans un environnement de travail virtuel](/diriger-le-changement-dans-un-environnement-virtuel-hybridge/)
+- [Apprendre à diriger le changement dans un environnement de travail virtuel](/framework-for-leading-change/diriger-le-changement-dans-un-environnement-virtuel-hybridge/)
 
-- [Bâtir la confiance entre l’équipe de leadership et le personnel](/batir-la-confiance-et-adopter-un-comportement-exemplaire/)
+- [Bâtir la confiance entre l’équipe de leadership et le personnel](/framework-for-leading-change/batir-la-confiance-et-adopter-un-comportement-exemplaire/)
 
-- [Commencer à favoriser un dialogue productif sur le changement](/promouvoir-le-dialogue/)
+- [Commencer à favoriser un dialogue productif sur le changement](/framework-for-leading-change/promouvoir-le-dialogue/)
 
 * * *
 
-[**Prochain : Déterminer le type de changement que nous dirigeons**](/naviguer-dans-le-monde-du-changement/le-type-de-changement-que-nous-dirigeons/)
+[**Prochain : Déterminer le type de changement que nous dirigeons**](/framework-for-leading-change/le-type-de-changement-que-nous-dirigeons/)
 
-[**Retour à l’aperçu du cadre**](/navigating-the-world-of-change/)
+[**Retour à l’aperçu du cadre**](/framework-for-leading-change/navigating-the-world-of-change/)
 
 * * *
