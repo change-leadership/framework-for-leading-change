@@ -53,8 +53,8 @@ Grâce à notre compréhension de la façon de diriger le changement au sein de 
 
 * * *
 
-[****Prochain :** Bâtir la confiance et adopter un comportement exemplaire**](/batir-la-confiance-et-adopter-un-comportement-exemplaire/)
+[****Prochain :** Bâtir la confiance et adopter un comportement exemplaire**](/framework-for-leading-change/batir-la-confiance-et-adopter-un-comportement-exemplaire/)
 
-[**Retour au début de la section**](/naviguer-dans-le-monde-du-changement/)
+[**Retour au début de la section**](/framework-for-leading-change/naviguer-dans-le-monde-du-changement/)
 
 * * *
