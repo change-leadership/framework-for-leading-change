@@ -45,8 +45,8 @@ Now that we have a good sense of our drivers and our case for change, we can beg
 
 * * *
 
-[****Next: Developing our vision****](creating-our-vision-of-the-future/)
+[****Next: Developing our vision****](framework-for-leading-change/creating-our-vision-of-the-future/)
 
-[Back to beginning of section](laying-our-foundation-for-successful-change/)
+[Back to beginning of section](framework-for-leading-change/laying-our-foundation-for-successful-change/)
 
 * * *
