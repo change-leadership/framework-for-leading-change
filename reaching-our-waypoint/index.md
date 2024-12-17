@@ -9,14 +9,14 @@ At this point we have implemented our change and are continuing to engage with s
 
 Here we will:
 
-- [Celebrate successes](/celebrating-successes/)
+- [Celebrate successes](/framework-for-leading-change/celebrating-successes/)
 
-- [Set the stage for the next change](/setting-the-stage-for-our-next-change/)
+- [Set the stage for the next change](/framework-for-leading-change/setting-the-stage-for-our-next-change/)
 
 * * *
 
-[Next: Celebrate successes](/celebrating-successes/)
+[Next: Celebrate successes](/framework-for-leading-change/celebrating-successes/)
 
-[Back to beginning of framework](/home/)
+[Back to beginning of framework](/framework-for-leading-change/)
 
 * * *
