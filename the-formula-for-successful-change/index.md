@@ -54,8 +54,8 @@ Equipped with our formula for change, next we’ll look at identifying what is d
 
 * * *
 
-[**Next: Our drivers (and barriers) of change**](/our-drivers-and-barriers-of-change/)
+[**Next: Our drivers (and barriers) of change**](/framework-for-leading-change/our-drivers-and-barriers-of-change/)
 
-[Back to beginning of section](/laying-our-foundation-for-successful-change/)
+[Back to beginning of section](/framework-for-leading-change/laying-our-foundation-for-successful-change/)
 
 * * *
