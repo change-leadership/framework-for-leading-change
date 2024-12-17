@@ -92,10 +92,7 @@ date: "2022-10-20"
             <li><a href="/framework-for-leading-change/reaching-our-waypoint/">Reaching our waypoint</a></li>
             <li><a href="/framework-for-leading-change/contact-us/">Contact us</a></li>
         </ul>
-        <div class="rightNav">
-            <input type="text" name="search" id="search" placeholder="Search">
-            <button class="btn btn-sm">Search</button>
-        </div>
+        
     </nav>
   
   
