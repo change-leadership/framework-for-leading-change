@@ -19,7 +19,7 @@ _Questions relatives aux éléments fondamentaux et à l’approche_
 
 - Les comportements de notre équipe de leadership et des intervenants indiquent‑ils que les mentalités sont favorables à la mise en œuvre du changement (y compris la volonté de mener par l’exemple, d’établir des relations et de favoriser un dialogue continu)?
 
-Si vous avez répondu oui à ces trois questions, nous pouvons passer à [la section 2 – jeter les bases d’un changement réussi](/jeter-les-bases-dun-changement-reussi). Si ce n’est pas le cas, nous devrions commencer à [la section 1 – naviguer dans le monde du changement](/naviguer-dans-le-monde-du-changement/). Les connaissances acquises dans le cadre de la section 1 sont essentielles pour élaborer notre stratégie.
+Si vous avez répondu oui à ces trois questions, nous pouvons passer à [la section 2 – jeter les bases d’un changement réussi](/framework-for-leading-change/jeter-les-bases-dun-changement-reussi). Si ce n’est pas le cas, nous devrions commencer à [la section 1 – naviguer dans le monde du changement](/framework-for-leading-change/naviguer-dans-le-monde-du-changement/). Les connaissances acquises dans le cadre de la section 1 sont essentielles pour élaborer notre stratégie.
 
 _Questions relatives aux moteurs et à la vision_
 
@@ -71,4 +71,4 @@ Si la réponse à l’une de ces questions est négative ou imprécise, il est i
 
 * * *
 
-[Retour à l’aperçu du cadre](/home/)
+[Retour à l’aperçu du cadre](/framework-for-leading-change)
