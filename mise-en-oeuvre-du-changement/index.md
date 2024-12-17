@@ -13,16 +13,16 @@ Dans cette section, nous mettrons en œuvre nos activités de changement et dét
 
 Pour ce faire, nous allons :
 
-- [Mettre en œuvre nos activités de changement](/mettre-en-oeuvre-nos-activites-de-changement/)
+- [Mettre en œuvre nos activités de changement](/framework-for-leading-change/mettre-en-oeuvre-nos-activites-de-changement/)
 
-- [Établir des mécanismes de rétroaction](/etablir-des-mecanismes-de-retroaction-et-mesurer-les-progres/)
+- [Établir des mécanismes de rétroaction](/framework-for-leading-change/etablir-des-mecanismes-de-retroaction-et-mesurer-les-progres/)
 
-- [Ajuster nos plans au besoin](/rajuster-nos-plans/)
+- [Ajuster nos plans au besoin](/framework-for-leading-change/rajuster-nos-plans/)
 
 * * *
 
-[**Prochain : Mettre en œuvre nos activités de changement**](/mettre-en-oeuvre-nos-activites-de-changement/)
+[**Prochain : Mettre en œuvre nos activités de changement**](/framework-for-leading-change/mettre-en-oeuvre-nos-activites-de-changement/)
 
-[**Retour à l’aperçu du cadre**](/un-cadre-pour-diriger-le-changement/)
+[**Retour à l’aperçu du cadre**](/framework-for-leading-change/un-cadre-pour-diriger-le-changement/)
 
 * * *
