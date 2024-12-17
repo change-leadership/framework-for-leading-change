@@ -4,6 +4,100 @@ date: "2022-10-20"
 ---
 
 <header>
+
+<head>
+    <title>Building a Horizontal Navigation Bar</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+        }
+
+        .navbar {
+            display: flex;
+            position: sticky;
+            align-items: center;
+            justify-content: space-between;
+            top: 0px;
+            background: rgb(255 127 39);
+            background-blend-mode: darken;
+            background-size: cover;
+            color: white;
+            padding: 10px 20px;
+        }
+
+        .nav-list {
+            display: flex;
+            list-style: none;
+        }
+
+        .nav-list li {
+            margin-right: 20px;
+        }
+
+        .nav-list li:last-child {
+            margin-right: 0;
+        }
+
+        .nav-list li a {
+            text-decoration: none;
+            color: white;
+            font-size: 18px;
+            transition: color 0.3s ease-in-out;
+        }
+
+        .nav-list li a:hover {
+            color: #ffd700;
+            /* Change the color on hover */
+        }
+
+        .rightNav {
+            text-align: right;
+        }
+
+        #search {
+            padding: 8px;
+            font-size: 16px;
+            border: 2px solid #fff;
+            border-radius: 5px;
+        }
+
+        .btn {
+            background-color: #ffd700;
+            color: #000;
+            border: none;
+            padding: 8px 12px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease-in-out;
+        }
+
+        .btn:hover {
+            background-color: #000;
+            /* Change the background color on hover */
+            color: #ffd700;
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="navbar">
+        <ul class="nav-list">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About Us</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+        <div class="rightNav">
+            <input type="text" name="search" id="search" placeholder="Search">
+            <button class="btn btn-sm">Search</button>
+        </div>
+    </nav>
+  
   <nav class="nav--primary__container" aria-label="Top menu"><div class="container"><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#nav--primary" aria-controls="nav--primary" aria-expanded="false">Menu</button></div><ul id="nav--primary" class="nav nav--primary container"><li id="menu-item-864" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-3 current_page_item menu-item-has-children menu-item-864"><a href="https://articles.alpha.canada.ca/framework-for-leading-change/" aria-current="page">Framework for Leading Change</a> <button aria-expanded="false" class="sub-menu--button" aria-controls="sub-menu-1"><span class="sr-only">Toggle submenu for Framework for Leading Change</span></button><ul class="sub-menu" aria-label="submenu" id="sub-menu-1"> <li id="menu-item-863" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-863"><a href="https://articles.alpha.canada.ca/framework-for-leading-change/where-should-we-start/">Where should we start?</a></li> </ul> </li> <li id="menu-item-1451" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1451"><a href="https://articles.alpha.canada.ca/framework-for-leading-change/navigating-the-world-of-change/">Deepening our understanding</a> <button aria-expanded="false" class="sub-menu--button" aria-controls="sub-menu-2"><span class="sr-only">Toggle submenu for Deepening our understanding</span></button><ul class="sub-menu" aria-label="submenu" id="sub-menu-2"> <li id="menu-item-875" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-875"><a href="https://articles.alpha.canada.ca/framework-for-leading-change/navigating-the-world-of-change/">Navigating the world of change</a></li> <li id="menu-item-1005" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1005"><a href="https://articles.alpha.canada.ca/framework-for-leading-change/laying-our-foundation-for-successful-change/">Laying our foundation for successful change</a></li> </ul> </li> <li id="menu-item-1452" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1452"><a href="https://articles.alpha.canada.ca/framework-for-leading-change/understanding-our-context/">Strategizing and planning</a> <button aria-expanded="false" class="sub-menu--button" aria-controls="sub-menu-3"><span class="sr-only">Toggle submenu for Strategizing and planning</span></button><ul class="sub-menu" aria-label="submenu" id="sub-menu-3"> <li id="menu-item-1035" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1035"><a href="https://articles.alpha.canada.ca/framework-for-leading-change/understanding-our-context/">Understanding our context</a></li> <li id="menu-item-780" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-780"><a href="https://articles.alpha.canada.ca/framework-for-leading-change/capacity-readiness-and-impact/">Capacity, readiness and impact</a></li> <li id="menu-item-1318" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1318"><a href="https://articles.alpha.canada.ca/framework-for-leading-change/getting-people-on-board/">Getting people on board</a></li> <li id="menu-item-1335" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1335"><a href="https://articles.alpha.canada.ca/framework-for-leading-change/developing-our-plans/">Developing our plans</a></li> </ul> </li> <li id="menu-item-1453" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1453"><a href="https://articles.alpha.canada.ca/framework-for-leading-change/implementing-the-change/">Navigating our change</a> <button aria-expanded="false" class="sub-menu--button" aria-controls="sub-menu-4"><span class="sr-only">Toggle submenu for Navigating our change</span></button><ul class="sub-menu" aria-label="submenu" id="sub-menu-4"> <li id="menu-item-1389" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1389"><a href="https://articles.alpha.canada.ca/framework-for-leading-change/implementing-the-change/">Implementing the change</a></li> </ul> </li> <li id="menu-item-1454" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1454"><a href="https://articles.alpha.canada.ca/framework-for-leading-change/reaching-our-waypoint/">Reaching our waypoint</a> <button aria-expanded="false" class="sub-menu--button" aria-controls="sub-menu-5"><span class="sr-only">Toggle submenu for Reaching our waypoint</span></button><ul class="sub-menu" aria-label="submenu" id="sub-menu-5"> <li id="menu-item-1408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1408"><a href="https://articles.alpha.canada.ca/framework-for-leading-change/reaching-our-waypoint/">Living with the change</a></li> </ul> </li> <li id="menu-item-1514" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1514"><a href="https://articles.alpha.canada.ca/framework-for-leading-change/contact-us/">Contact us</a></li> </ul></nav>
  </header>
 
