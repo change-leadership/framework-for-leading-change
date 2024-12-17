@@ -19,24 +19,24 @@ Le point à retenir est qu’il est possible d’adapter nos différents plans e
 
 À cette étape, nous allons élaborer les plans suivants :
 
-- [Plan de changement](/plan-de-changement/)
+- [Plan de changement](/framework-for-leading-change/plan-de-changement/)
 
-- [Plan de mobilisation](/plan-de-mobilisation/)
+- [Plan de mobilisation](/framework-for-leading-change/plan-de-mobilisation/)
 
-- [Plan de gestion des risques](/plan-de-gestion-des-risques/)
+- [Plan de gestion des risques](/framework-for-leading-change/plan-de-gestion-des-risques/)
 
-- [Plan de communications](/plan-de-communication/)
+- [Plan de communications](/framework-for-leading-change/plan-de-communication/)
 
-- [Plan relatif aux ressources humaines](/plan-relatif-aux-ressources-humaines/)
+- [Plan relatif aux ressources humaines](/framework-for-leading-change/plan-relatif-aux-ressources-humaines/)
 
-- [Plan de formation/d’apprentissage](/plan-de-formation-dapprentissage/)
+- [Plan de formation/d’apprentissage](/framework-for-leading-change/plan-de-formation-dapprentissage/)
 
-- [Plan de consolidation / pérennité](/plan-de-consolidation-perennite/)
+- [Plan de consolidation / pérennité](/framework-for-leading-change/plan-de-consolidation-perennite/)
 
 * * *
 
-[**Prochain : Plan de changement**](/plan-de-changement/)
+[**Prochain : Plan de changement**](/framework-for-leading-change/plan-de-changement/)
 
-[**Retour à l’aperçu du cadre**](/un-cadre-pour-diriger-le-changement/)
+[**Retour à l’aperçu du cadre**](/framework-for-leading-change/un-cadre-pour-diriger-le-changement/)
 
 * * *
