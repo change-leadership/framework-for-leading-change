@@ -9,22 +9,22 @@ In this section we get a better sense of how solid the foundation for change is 
 
 Here we will:
 
-- [Examine organizational change maturity](/capacity-readiness-and-impact/organizational-change-maturity/)
+- [Examine organizational change maturity](/framework-for-leading-change/organizational-change-maturity/)
 
-- [Analyze our change saturation and fatigue](/change-saturation-and-fatigue/)
+- [Analyze our change saturation and fatigue](/framework-for-leading-change/change-saturation-and-fatigue/)
 
-- [Assess how ready we are to implement the change](/assess-how-ready-we-are-to-implement-the-change/)
+- [Assess how ready we are to implement the change](/framework-for-leading-change/assess-how-ready-we-are-to-implement-the-change/)
 
-- [Assess leadership capacity for change](/assess-our-leaderships-capacity-for-change/)
+- [Assess leadership capacity for change](/framework-for-leading-change/assess-our-leaderships-capacity-for-change/)
 
-- [Assess the impact of the change](/assessing-the-impact/)
+- [Assess the impact of the change](/framework-for-leading-change/assessing-the-impact/)
 
-- [Conduct a risk assessment](/understanding-our-risks/)
+- [Conduct a risk assessment](/framework-for-leading-change/understanding-our-risks/)
 
 * * *
 
-[Next: Organizational change maturity](/capacity-readiness-and-impact/organizational-change-maturity/)
+[Next: Organizational change maturity](/framework-for-leading-change/organizational-change-maturity/)
 
-[Back to beginning of framework](/home/)
+[Back to beginning of framework](/framework-for-leading-change/)
 
 * * *
