@@ -29,7 +29,7 @@ Bien qu’il existe diverses façons d’évaluer la capacité de nos dirigeants
 
 - Niveau de compréhension de l’histoire de l’organisation et compréhension des leçons tirées des changements apportés par le passé.
 
-Pour en savoir plus sur les mentalités et les comportements en matière de leadership du changement, consultez [la section 1 – Gestion du changement et leadership en matière de changement](/la-gestion-du-changement-et-le-leadership-du-changement/).
+Pour en savoir plus sur les mentalités et les comportements en matière de leadership du changement, consultez [la section 1 – Gestion du changement et leadership en matière de changement](/framework-for-leading-change/la-gestion-du-changement-et-le-leadership-du-changement/).
 
 Pour effectuer une analyse plus approfondie, nous pouvons recourir au modèle d’évaluation du leadership de [Human Systems Dynamics](https://www.hsdinstitute.org/resources/leadership-as-fit-a-tool-to-assess-leadership-capacity.html) (**_\*Remarque_** _: il est nécessaire de fournir une adresse courriel pour télécharger cet outil, en anglais seulement_).
 
@@ -39,8 +39,8 @@ Maintenant que nous comprenons mieux notre capacité à diriger le changement et
 
 * * *
 
-[****Prochain :** Évaluation de l’incidence du changement**](/evaluation-de-lincidence-du-changement/)
+[****Prochain :** Évaluation de l’incidence du changement**](/framework-for-leading-change/evaluation-de-lincidence-du-changement/)
 
-[**Retour au début de la section**](/capacite-etat-de-preparation-et-incidence/)
+[**Retour au début de la section**](/framework-for-leading-change/capacite-etat-de-preparation-et-incidence/)
 
 * * *
