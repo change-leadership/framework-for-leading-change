@@ -55,8 +55,8 @@ Maintenant que nous avons une meilleure compréhension du système au sein duque
 
 * * *
 
-[****Prochain: Comprendre nos interdépendances****](/comprendre-nos-interdependances/)
+[****Prochain: Comprendre nos interdépendances****](/framework-for-leading-change/comprendre-nos-interdependances/)
 
-[**Retour au début de la section**](/comprendre-notre-contexte/)
+[**Retour au début de la section**](/framework-for-leading-change/comprendre-notre-contexte/)
 
 * * *
