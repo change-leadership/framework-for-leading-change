@@ -89,8 +89,8 @@ At this point we have a deep understanding of our change, our stakeholders, and 
 
 * * *
 
-[Next: Getting people on board](/getting-people-on-board/)
+[Next: Getting people on board](/framework-for-leading-change/getting-people-on-board/)
 
-[Back to beginning of section](/capacity-readiness-and-impact/)
+[Back to beginning of section](/framework-for-leading-change/capacity-readiness-and-impact/)
 
 * * *
