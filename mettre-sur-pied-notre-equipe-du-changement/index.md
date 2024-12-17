@@ -39,8 +39,8 @@ Ces caractéristiques sont importantes pour le bon fonctionnement d’une équip
 
 * * *
 
-[******Prochain : Apprendre à appliquer la formule pour un changement réussi******](/la-formule-pour-un-changement-reussi/)
+[******Prochain : Apprendre à appliquer la formule pour un changement réussi******](/framework-for-leading-change/la-formule-pour-un-changement-reussi/)
 
-[**Retour au début de la section**](/jeter-les-bases-dun-changement-reussi/)
+[**Retour au début de la section**](/framework-for-leading-change/jeter-les-bases-dun-changement-reussi/)
 
 * * *
