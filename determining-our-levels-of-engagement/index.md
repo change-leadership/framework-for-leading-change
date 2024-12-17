@@ -31,7 +31,7 @@ Top right - high influence, high interest - collaborate. Stakeholders we need to
 <div></div>
 Bottom left - low influence, low interest - inform. Stakeholders who need to be aware of our work and kept informed of the main developments. Aim to increase their level of interest. Low investment of resources / low level of effort.
 <div></div>
-Bottom right - high interest, low influence - involve. Stakeholders we need to consider/involve for particular areas of our work. Nurture their interest in us. build relationships. Selective investment of resources / moderate level of effort.] <img src="images/image-1.png">
+Bottom right - high interest, low influence - involve. Stakeholders we need to consider/involve for particular areas of our work. Nurture their interest in us. build relationships. Selective investment of resources / moderate level of effort.] <img src="/images/image-1.png">
 
 **Next steps**
 
