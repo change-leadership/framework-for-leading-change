@@ -59,8 +59,8 @@ Il est essentiel de comprendre les défis particuliers liés à la direction du 
 
 * * *
 
-[****Prochain : Rôles liés au changement****](/roles-lies-au-changement/)
+[****Prochain : Rôles liés au changement****](/framework-for-leading-change/roles-lies-au-changement/)
 
-[**Retour au début de la section**](/naviguer-dans-le-monde-du-changement/)
+[**Retour au début de la section**](/framework-for-leading-change/naviguer-dans-le-monde-du-changement/)
 
 * * *
