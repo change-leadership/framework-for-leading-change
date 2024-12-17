@@ -47,8 +47,8 @@ Cela dit, il est utile d’en connaître plus d’une, car on peut les utiliser 
 
 * * *
 
-[**Prochain : Les modèles et les méthodes de changement**](/les-modeles-et-les-methodes-de-changement/)
+[**Prochain : Les modèles et les méthodes de changement**](/framework-for-leading-change/les-modeles-et-les-methodes-de-changement/)
 
-[**Retour au début de la section**](/naviguer-dans-le-monde-du-changement/)
+[**Retour au début de la section**](/framework-for-leading-change/naviguer-dans-le-monde-du-changement/)
 
 * * *
