@@ -8,8 +8,8 @@ date: "2022-10-20"
 <head>
     <style>
         * {
-            margin: 0;
-            padding: 0;
+            margin: 10;
+            padding: 10;
         }
 
         body {
@@ -22,7 +22,7 @@ date: "2022-10-20"
             align-items: center;
             justify-content: space-between;
             top: 0px;
-            background: rgb(255 87 51);
+            background: rgb(13, 152, 186);
             background-blend-mode: darken;
             background-size: cover;
             color: white;
