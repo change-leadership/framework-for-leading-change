@@ -9,22 +9,22 @@ Dans la section suivante, nous nous ferons une meilleure idée de la solidité d
 
 Dans le cadre de cette section, nous allons :
 
-- [Examiner la maturité de l’organisation à l’égard du changement](/capacite-etat-de-preparation-et-incidence/maturite-de-lorganisation-a-legard-du-changement/)
+- [Examiner la maturité de l’organisation à l’égard du changement](/framework-for-leading-change/maturite-de-lorganisation-a-legard-du-changement/)
 
-- [Analyser notre saturation au changement et notre fatigue](/saturation-au-changement-et-fatigue/)
+- [Analyser notre saturation au changement et notre fatigue](/framework-for-leading-change/saturation-au-changement-et-fatigue/)
 
-- [Évaluer dans quelle mesure nous sommes prêts à mettre en œuvre le changement](/evaluer-dans-quelle-mesure-nous-sommes-prets-a-mettre-en-oeuvre-le-changement/)
+- [Évaluer dans quelle mesure nous sommes prêts à mettre en œuvre le changement](/framework-for-leading-change/evaluer-dans-quelle-mesure-nous-sommes-prets-a-mettre-en-oeuvre-le-changement/)
 
-- [Évaluer la capacité de la direction à adopter le changement](/evaluer-la-capacite-de-la-direction-a-adopter-le-changement/)
+- [Évaluer la capacité de la direction à adopter le changement](/framework-for-leading-change/evaluer-la-capacite-de-la-direction-a-adopter-le-changement/)
 
-- [Évaluation de l’incidence du changement](/evaluation-de-lincidence-du-changement/)
+- [Évaluation de l’incidence du changement](/framework-for-leading-change/evaluation-de-lincidence-du-changement/)
 
-- [Effectuer une évaluation des risques](/comprendre-nos-risques/)
+- [Effectuer une évaluation des risques](/framework-for-leading-change/comprendre-nos-risques/)
 
 * * *
 
-[**Prochain : Examiner la maturité de l’organisation à l’égard du changement**](/capacite-etat-de-preparation-et-incidence/maturite-de-lorganisation-a-legard-du-changement/)
+[**Prochain : Examiner la maturité de l’organisation à l’égard du changement**](/framework-for-leading-change/maturite-de-lorganisation-a-legard-du-changement/)
 
-[**Retour à l’aperçu du cadre**](/un-cadre-pour-diriger-le-changement/)
+[**Retour à l’aperçu du cadre**](/framework-for-leading-change/un-cadre-pour-diriger-le-changement/)
 
 * * *
