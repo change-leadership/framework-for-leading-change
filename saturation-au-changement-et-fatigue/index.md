@@ -103,8 +103,8 @@ Maintenant que nous comprenons mieux jusqu’à quel point l’organisation est 
 
 * * *
 
-[****Prochain : Évaluer dans quelle mesure nous sommes prêts à mettre en œuvre le changement****](/evaluer-dans-quelle-mesure-nous-sommes-prets-a-mettre-en-oeuvre-le-changement/)
+[****Prochain : Évaluer dans quelle mesure nous sommes prêts à mettre en œuvre le changement****](/framework-for-leading-change/evaluer-dans-quelle-mesure-nous-sommes-prets-a-mettre-en-oeuvre-le-changement/)
 
-[**Retour au début de la section**](/capacite-etat-de-preparation-et-incidence/)
+[**Retour au début de la section**](/framework-for-leading-change/capacite-etat-de-preparation-et-incidence/)
 
 * * *
