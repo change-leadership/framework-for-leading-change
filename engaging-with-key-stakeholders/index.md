@@ -33,7 +33,7 @@ Based on work by William Bridges
 
 </figure>
 
-At this point the commitment curve is something we can use to guide us when determining the audiences and timing of our communications and other activities. We’ll touch on this in _[Section 6: Developing our plans / Communications plan](/communications-plan/)_.
+At this point the commitment curve is something we can use to guide us when determining the audiences and timing of our communications and other activities. We’ll touch on this in _[Section 6: Developing our plans / Communications plan](/framework-for-leading-change/communications-plan/)_.
 
 **How can we engage our stakeholders?**
 
@@ -277,8 +277,8 @@ At this point we understand our change well and have engaged with stakeholders e
 
 * * *
 
-[Next: Developing our plans](/developing-our-plans/)
+[Next: Developing our plans](/framework-for-leading-change/developing-our-plans/)
 
-[Back to beginning of section](/getting-people-on-board/)
+[Back to beginning of section](/framework-for-leading-change/getting-people-on-board/)
 
 * * *
