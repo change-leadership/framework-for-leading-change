@@ -87,8 +87,8 @@ Nous pouvons commencer par appliquer la formule pour un changement réussi et d�
 
 * * *
 
-[******Prochain : Mettre sur pied notre équipe du changement******](/mettre-sur-pied-notre-equipe-du-changement/)
+[******Prochain : Mettre sur pied notre équipe du changement******](/framework-for-leading-change/mettre-sur-pied-notre-equipe-du-changement/)
 
-[**Retour au début de la section**](/jeter-les-bases-dun-changement-reussi/)
+[**Retour au début de la section**](/framework-for-leading-change/jeter-les-bases-dun-changement-reussi/)
 
 * * *
