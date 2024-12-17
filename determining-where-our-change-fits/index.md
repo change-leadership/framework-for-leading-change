@@ -21,7 +21,7 @@ We may need to use both of these feedback loops in our change effort, but for a 
 
 <figcaption>
 
-_Copyright_ [_istockphoto.com_](/Users/ferrarar/AppData/Roaming/OpenText/OTEdit/EC_TPSGC-PWGSC/c304185844/istockphoto.com)
+_Copyright_ [_istockphoto.com_]
 
 </figcaption>
 
@@ -58,8 +58,8 @@ With a better understanding of the system we are introducing a change into, we c
 
 * * *
 
-[******Next: Understanding our interdependencies******](/understanding-our-interdependencies/)
+[******Next: Understanding our interdependencies******](/framework-for-leading-change/understanding-our-interdependencies/)
 
-[Back to beginning of section](/understanding-our-context/)
+[Back to beginning of section](/framework-for-leading-change/understanding-our-context/)
 
 * * *
