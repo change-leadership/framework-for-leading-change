@@ -7,13 +7,13 @@ While strategizing how to set the stage for the next change often comes at the e
 
 We can learn from this capacity-building, and from our ongoing dialogue with stakeholders, to evaluate and build on our change. This allows us to elevate our organization’s capacity to adapt, lead change and be successful over the medium- and long- terms.  How we lead this change sets the bar for the next ones.
 
-We can start by revisiting _[Section 4: Capacity, readiness and impact](/capacity-readiness-and-impact/)_ (some relevant sections may be: Examine organizational change maturity versus readiness, Change saturation, Assess how ready we are organizationally and individually to implement the change, Assess leadership capacity for change)_._
+We can start by revisiting _[Section 4: Capacity, readiness and impact](/framework-for-leading-change/capacity-readiness-and-impact/)_ (some relevant sections may be: Examine organizational change maturity versus readiness, Change saturation, Assess how ready we are organizationally and individually to implement the change, Assess leadership capacity for change)_._
 
 A key element of section 4 is assessing our organizational change maturity. Organizational change maturity helps us understand how ready and capable our organization is for change by considering factors such as leadership, technology, capacity, and workplace culture.
 
 There are ongoing activities that can be done to reinforce our long-term change capability and capacity and we will have been doing a number of these throughout our change process.
 
-We can assess our capacity/capability through an organizational maturity assessment. For more on how to conduct an organizational change maturity assessment, see _[Section 4: Capacity, readiness and impact / Organizational change maturity / How can we better understand our organizational change maturity](/organizational-change-maturity/)_.
+We can assess our capacity/capability through an organizational maturity assessment. For more on how to conduct an organizational change maturity assessment, see _[Section 4: Capacity, readiness and impact / Organizational change maturity / How can we better understand our organizational change maturity](/framework-for-leading-change/organizational-change-maturity/)_.
 
 By following a path to build change capacity in our organization we will be well-placed to lead other changes as they emerge. If we can proactively improve our results in this change effort using a variety approaches, then we can do so for all our changes in the years to come.
 
@@ -86,4 +86,4 @@ Yet, these approaches are just one part of the puzzle, albeit a major one. Ultim
 
 * * *
 
-[Back to main menu](https://articles.alpha.canada.ca/framework-for-leading-change/home/)
+[Back to main menu](/framework-for-leading-change/)
