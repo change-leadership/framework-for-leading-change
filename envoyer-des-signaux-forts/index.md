@@ -43,8 +43,8 @@ Une fois notre vision élaborée, nos conditions de réussite cernées et nos si
 
 * * *
 
-[******Prochain : Comprendre notre contexte******](/comprendre-notre-contexte/)
+[******Prochain : Comprendre notre contexte******](/framework-for-leading-change/comprendre-notre-contexte/)
 
-[**Retour au début de la section**](/jeter-les-bases-dun-changement-reussi/)
+[**Retour au début de la section**](/framework-for-leading-change/jeter-les-bases-dun-changement-reussi/)
 
 * * *
