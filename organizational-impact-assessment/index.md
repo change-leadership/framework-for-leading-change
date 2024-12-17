@@ -45,8 +45,8 @@ Now that we better understand the impacts of the change on our organization, we 
 
 * * *
 
-[Next: Stakeholder impact assessment](/stakeholder-impact-assessment/)
+[Next: Stakeholder impact assessment](/framework-for-leading-change/stakeholder-impact-assessment/)
 
-[Back to beginning of section](/capacity-readiness-and-impact/)
+[Back to beginning of section](/framework-for-leading-change/capacity-readiness-and-impact/)
 
 * * *
