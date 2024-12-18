@@ -9,7 +9,7 @@ date: "2022-10-20"
         <!--Nav Logo-->
         <!--Logo is turned white in the css with a filter on dark mode-->
         <a href="" class="cs-logo" aria-label="back to home">
-            <img src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Images/Graphics/day-care.svg" alt="logo" width="210" height="29" aria-hidden="true" decoding="async">
+            <img src="https://avatars2.githubusercontent.com/u/20973642?s=280&v=4" alt="logo" width="210" height="29" aria-hidden="true" decoding="async">
         </a>
         <!--Navigation List-->
         <nav class="cs-nav" role="navigation">
