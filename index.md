@@ -6,6 +6,7 @@ date: "2022-10-20"
 
        
 <head>
+       <img src="https://www.canada.ca/etc/designs/canada/wet-boew/assets/sig-blk-en.svg" alt="Government of Canada / gouvernement du canada">
 <style>
         * {
             margin: 0;
@@ -22,7 +23,7 @@ date: "2022-10-20"
             align-items: center;
             justify-content: space-between;
             top: 0px;
-            background: #e3e5e6;
+            background: #ea940c;
             background-blend-mode: darken;
             background-size: cover;
             color: white;
