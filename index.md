@@ -4,9 +4,6 @@ author: "Centre for Strategic Change | Government of Canada | www.canada.ca | ww
 date: "2022-10-20"
 ---
 
-
-
-            <img src="https://www.canada.ca/etc/designs/canada/wet-boew/assets/sig-blk-en.svg" alt="logo" aria-hidden="true" decoding="async">
        
 
 <style>
