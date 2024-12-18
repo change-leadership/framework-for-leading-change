@@ -31,22 +31,22 @@ date: "2022-10-20"
                             Home
                         </a>
                     </li>
-                    <li class="cs-li">
+                    <li style="float:right" class="cs-li">
                         <a href="" class="cs-li-link">
                             About
                         </a>
                     </li>
-                    <li class="cs-li">
+                    <li style="float:right" class="cs-li">
                         <a href="" class="cs-li-link">
                             Services
                         </a>
                     </li>
-                    <li class="cs-li">
+                    <li style="float:right" class="cs-li">
                         <a href="" class="cs-li-link">
                             About Us
                         </a>
                     </li>
-                    <li class="cs-li">
+                    <li style="float:right" class="cs-li">
                         <a href="" class="cs-li-link">
                             FAQ
                         </a>
