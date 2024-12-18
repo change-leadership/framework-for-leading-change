@@ -1,5 +1,6 @@
 ---
 title: "Framework for Leading Change"
+author: "Centre for Strategic Change - Government of Canada - www.canada.ca - www.canada.ca/en/public-services-procurement - all rights reserved"
 date: "2022-10-20"
 ---
 
