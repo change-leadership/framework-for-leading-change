@@ -21,13 +21,16 @@ date: "2022-10-20"
             align-items: center;
             justify-content: space-between;
             top: 0px;
-            background: rgb(13, 152, 186);
+            background: #2980b9;
             background-blend-mode: darken;
             background-size: cover;
             color: white;
             padding: 10px 20px;
             border-top: 4px solid black;
             border-bottom: 4px solid black;
+             height: 100%;
+ max-width: 90%;
+ 
         }
 
         .nav-list {
