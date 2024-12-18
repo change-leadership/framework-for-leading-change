@@ -28,11 +28,7 @@ date: "2022-10-20"
             background-size: cover;
             color: black;
             padding: 5px 10px;
-            border-top: 1px solid black;
-            border-bottom: 1px solid black;
-              height: 100%;
-               
- 
+            
  
         }
 
