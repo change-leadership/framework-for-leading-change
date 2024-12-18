@@ -4,7 +4,6 @@ author: "Centre for Strategic Change | Government of Canada | www.canada.ca | ww
 date: "2022-10-20"
 ---
 
-<header id="cs-navigation">
     <div class="cs-container">
         <!--Nav Logo-->
         <!--Logo is turned white in the css with a filter on dark mode-->
@@ -63,106 +62,7 @@ date: "2022-10-20"
             </div>
         </nav>
 
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-        }
-
-        body {
-            font-family: 'Arial', sans-serif;
-        }
-
-        .navbar {
-            display: flex;
-            position: sticky;
-            align-items: center;
-            justify-content: space-between;
-            top: 0px;
-            background: #2980b9;
-            background-blend-mode: darken;
-            background-size: cover;
-            color: white;
-            padding: 10px 20px;
-            border-top: 4px solid black;
-            border-bottom: 4px solid black;
-             height: 100%;
- max-width: 300%;
- box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
- 
-        }
-
-        .nav-list {
-            display: flex;
-            list-style: none;
-        }
-
-        .nav-list li {
-            margin-right: 20px;
-        }
-
-        .nav-list li:last-child {
-            margin-right: 0;
-        }
-
-        .nav-list li a {
-            text-decoration: none;
-            color: white;
-            font-size: 18px;
-            transition: color 0.3s ease-in-out;
-        }
-
-        .nav-list li a:hover {
-            color: #ffd700;
-            /* Change the color on hover */
-        }
-
-        .rightNav {
-            text-align: right;
-        }
-
-        #search {
-            padding: 8px;
-            font-size: 16px;
-            border: 2px solid #fff;
-            border-radius: 5px;
-        }
-
-        .btn {
-            background-color: #ffd700;
-            color: #000;
-            border: none;
-            padding: 8px 12px;
-            border-radius: 5px;
-            cursor: pointer;
-            transition: background-color 0.3s ease-in-out;
-        }
-
-        .btn:hover {
-            background-color: #000;
-            /* Change the background color on hover */
-            color: #ffd700;
-        }
-nav:after {
-    content: "";
-    display: block;
-    clear: both;
-}
-        
-    </style>
-
-
-    <nav class="navbar">
-        <ul class="nav-list">
-            <li><a href="/framework-for-leading-change/where-should-we-start/">Where should we start?</a></li>
-            <li><a href="/framework-for-leading-change/navigating-the-world-of-change">Deepening our understanding</a></li>
-            <li><a href="/framework-for-leading-change/understanding-our-context/">Strategizing and planning</a></li>
-            <li><a href="/framework-for-leading-change/navigating-our-change/">Navigating our change</a></li>
-            <li><a href="/framework-for-leading-change/reaching-our-waypoint/">Reaching the waypoint</a></li>
-            <li><a href="/framework-for-leading-change/contact-us/">Contact us</a></li>
-        </ul>
-        
-    </nav>
+   
   
 <br>
 
