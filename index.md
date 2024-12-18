@@ -24,6 +24,7 @@ date: "2022-10-20"
             background: rgb(13, 152, 186);
             background-blend-mode: darken;
             background-size: cover;
+            border-color: black;
             color: white;
             padding: 10px 20px;
         }
