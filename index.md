@@ -3,13 +3,15 @@ title: "Framework for Leading Change"
 author: "Centre for Strategic Change | Government of Canada | www.canada.ca | www.canada.ca/en/public-services-procurement | all rights reserved"
 date: "2022-10-20"
 ---
+<!-- ============================================ -->
+<!--                 Navigation                   -->
+<!-- ============================================ -->
 
 <header id="cs-navigation">
     <div class="cs-container">
         <!--Nav Logo-->
-        <!--Logo is turned white in the css with a filter on dark mode-->
         <a href="" class="cs-logo" aria-label="back to home">
-            <img src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Images/Graphics/day-care.svg" alt="logo" width="210" height="29" aria-hidden="true" decoding="async">
+            <img src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Icons%2Flogo-black.svg" alt="logo" width="210" height="29" aria-hidden="true" decoding="async">
         </a>
         <!--Navigation List-->
         <nav class="cs-nav" role="navigation">
@@ -34,44 +36,32 @@ date: "2022-10-20"
                             About
                         </a>
                     </li>
-                    <!--Copy and paste this cs-dropdown list item and replace any .cs-li with this cs-dropdown group to make a new dropdown and it will work-->
-                    <li class="cs-li cs-dropdown" tabindex="0">
-                        <span class="cs-li-link">
-                            Services
-                            <img class="cs-drop-icon" src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Icons/down-gold.svg" alt="dropdown icon" width="15" height="15" decoding="async" aria-hidden="true">
-                        </span>
-                        <ul class="cs-drop-ul">
-                            <li class="cs-drop-li">
-                                <a href="" class="cs-li-link cs-drop-link">Registration</a>
-                            </li>
-                            <li class="cs-drop-li">
-                                <a href="" class="cs-li-link cs-drop-link">Our Classes</a>
-                            </li>
-                        </ul>
-                    </li>
                     <li class="cs-li">
-                        <a href="" class="pull-left">
-                            Blog
+                        <a href="" class="cs-li-link">
+                            Services
                         </a>
                     </li>
-                    <li class="cs-li" class="pull-left">
+                    <li class="cs-li">
                         <a href="" class="cs-li-link">
-                            Contact
+                            About Us
+                        </a>
+                    </li>
+                    <li class="cs-li">
+                        <a href="" class="cs-li-link">
+                            FAQ
                         </a>
                     </li>
                 </ul>
             </div>
         </nav>
-        <div class="cs-contact-group">
-            <a href="tel:+84 1985 33 999" class="cs-phone">
-                <img class="cs-phone-icon" src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Icons/phone-1a.svg" alt="logo" width="24" height="24" aria-hidden="true" decoding="async">
-                +84 1985 33 999
-            </a>
-        
-        </div>
-       
+        <a href="" class="cs-button-solid cs-nav-button">Contact Us</a>
+        <!--Dark Mode toggle, uncomment button code if you want to enable a dark mode toggle-->
+        <!-- <button id="dark-mode-toggle" aria-label="dark mode toggle">
+            <svg class="cs-moon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480" style="enable-background:new 0 0 480 480" xml:space="preserve"><path d="M459.782 347.328c-4.288-5.28-11.488-7.232-17.824-4.96-17.76 6.368-37.024 9.632-57.312 9.632-97.056 0-176-78.976-176-176 0-58.4 28.832-112.768 77.12-145.472 5.472-3.712 8.096-10.4 6.624-16.832S285.638 2.4 279.078 1.44C271.59.352 264.134 0 256.646 0c-132.352 0-240 107.648-240 240s107.648 240 240 240c84 0 160.416-42.688 204.352-114.176 3.552-5.792 3.04-13.184-1.216-18.496z"/></svg>
+            <img class="cs-sun" aria-hidden="true" src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Icons%2Fsun.svg" decoding="async" alt="moon" width="15" height="15">
+        </button> -->
+    </div>
 </header>
-  
 <br>
 
 This framework is designed to strengthen our ability to lead different types of change in the public service, from incremental to transformational. It offers a flexible approach that can be adapted depending on the context, and introduces concepts and methods that guide us in planning and implementing our activities. Using the framework to lead change can increase both the chances of success for a particular initiative and also offers a path to build on our success to support future change.
