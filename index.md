@@ -6,7 +6,7 @@ date: "2022-10-20"
 
        
 <head>
-       <img src="https://www.canada.ca/etc/designs/canada/wet-boew/assets/sig-blk-en.svg" alt="Government of Canada / gouvernement du canada">
+       
 <style>
         * {
             margin: 0;
@@ -98,6 +98,7 @@ nav:after {
 
     <nav class="navbar">
         <ul class="nav-list">
+        <img src="https://logowik.com/government-of-canada-logo-vector-png-svg-free-download-28501.html" alt="Government of Canada / gouvernement du canada">
             <li><a href="/framework-for-leading-change/where-should-we-start/">Where should we start?</a></li>
             <li><a href="/framework-for-leading-change/navigating-the-world-of-change">Deepening our understanding</a></li>
             <li><a href="/framework-for-leading-change/understanding-our-context/">Strategizing and planning</a></li>
