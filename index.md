@@ -41,12 +41,12 @@ date: "2022-10-20"
                             Services
                         </a>
                     </li>
-                    <li style="float:left" class="cs-li">
+                    <li style="text-align:left" class="cs-li">
                         <a href="" class="cs-li-link">
                             About Us
                         </a>
                     </li>
-                    <li style="float:left" class="cs-li">
+                    <li style="text-align:left" class="cs-li">
                         <a href="" class="cs-li-link">
                             FAQ
                         </a>
