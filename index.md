@@ -26,6 +26,8 @@ date: "2022-10-20"
             background-size: cover;
             color: white;
             padding: 10px 20px;
+            border-top: 1px solid blue;
+    border-bottom: 1px solid red;
         }
 
         .nav-list {
