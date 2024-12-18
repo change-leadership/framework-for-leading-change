@@ -52,7 +52,7 @@ date: "2022-10-20"
         .nav-list li a {
             text-decoration: none;
             color: black;
-            font-size: 18px;
+            font-size: 12px;
             transition: color 0.3s ease-in-out;
         }
 
