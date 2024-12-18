@@ -3,65 +3,113 @@ title: "Framework for Leading Change"
 author: "Centre for Strategic Change | Government of Canada | www.canada.ca | www.canada.ca/en/public-services-procurement | all rights reserved"
 date: "2022-10-20"
 ---
-<!-- ============================================ -->
-<!--                 Navigation                   -->
-<!-- ============================================ -->
 
-<header id="cs-navigation">
-    <div class="cs-container">
-        <!--Nav Logo-->
-        <a href="" class="cs-logo" aria-label="back to home">
+
+
             <img src="https://www.canada.ca/etc/designs/canada/wet-boew/assets/sig-blk-en.svg" alt="logo" aria-hidden="true" decoding="async">
-        </a>
-        <!--Navigation List-->
-        <nav class="cs-nav" role="navigation">
-            <!--Mobile Nav Toggle-->
-            <button class="cs-toggle" aria-label="mobile menu toggle">
-                <div class="cs-box" aria-hidden="true">
-                    <span class="cs-line cs-line1" aria-hidden="true"></span>
-                    <span class="cs-line cs-line2" aria-hidden="true"></span>
-                    <span class="cs-line cs-line3" aria-hidden="true"></span>
-                </div>
-            </button>
-            <!-- We need a wrapper div so we can set a fixed height on the cs-ul in case the nav list gets too long from too many dropdowns being opened and needs to have an overflow scroll. This wrapper acts as the background so it can go the full height of the screen and not cut off any overflowing nav items while the cs-ul stops short of the bottom of the screen, which keeps all nav items in view no matter how mnay there are-->
-            <div class="cs-ul-wrapper">
-                <ul id="cs-expanded" class="cs-ul" aria-expanded="false">
-                    <li class="cs-li">
-                        <a href="" class="cs-li-link cs-active">
-                            Home
-                        </a>
-                    </li>
-                    <li style="float:left" class="cs-li">
-                        <a href="" class="cs-li-link">
-                            About
-                        </a>
-                    </li>
-                    <li style="float:left" class="cs-li">
-                        <a href="" class="cs-li-link">
-                            Services
-                        </a>
-                    </li>
-                    <li style="text-align:left" class="cs-li">
-                        <a href="" class="cs-li-link">
-                            About Us
-                        </a>
-                    </li>
-                    <li style="text-align:left" class="cs-li">
-                        <a href="" class="cs-li-link">
-                            FAQ
-                        </a>
-                    </li>
-                </ul>
-            </div>
-        </nav>
-        <a href="" class="cs-button-solid cs-nav-button">Contact Us</a>
-        <!--Dark Mode toggle, uncomment button code if you want to enable a dark mode toggle-->
-        <!-- <button id="dark-mode-toggle" aria-label="dark mode toggle">
-            <svg class="cs-moon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480" style="enable-background:new 0 0 480 480" xml:space="preserve"><path d="M459.782 347.328c-4.288-5.28-11.488-7.232-17.824-4.96-17.76 6.368-37.024 9.632-57.312 9.632-97.056 0-176-78.976-176-176 0-58.4 28.832-112.768 77.12-145.472 5.472-3.712 8.096-10.4 6.624-16.832S285.638 2.4 279.078 1.44C271.59.352 264.134 0 256.646 0c-132.352 0-240 107.648-240 240s107.648 240 240 240c84 0 160.416-42.688 204.352-114.176 3.552-5.792 3.04-13.184-1.216-18.496z"/></svg>
-            <img class="cs-sun" aria-hidden="true" src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Icons%2Fsun.svg" decoding="async" alt="moon" width="15" height="15">
-        </button> -->
-    </div>
-</header>
+       
+
+<style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+        }
+
+        .navbar {
+            display: flex;
+            position: sticky;
+            align-items: center;
+            justify-content: space-between;
+            top: 0px;
+            background: #2980b9;
+            background-blend-mode: darken;
+            background-size: cover;
+            color: white;
+            padding: 10px 20px;
+            border-top: 4px solid black;
+            border-bottom: 4px solid black;
+             height: 100%;
+ max-width: 300%;
+ box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+ 
+        }
+
+        .nav-list {
+            display: flex;
+            list-style: none;
+        }
+
+        .nav-list li {
+            margin-right: 20px;
+        }
+
+        .nav-list li:last-child {
+            margin-right: 0;
+        }
+
+        .nav-list li a {
+            text-decoration: none;
+            color: white;
+            font-size: 18px;
+            transition: color 0.3s ease-in-out;
+        }
+
+        .nav-list li a:hover {
+            color: #ffd700;
+            /* Change the color on hover */
+        }
+
+        .rightNav {
+            text-align: right;
+        }
+
+        #search {
+            padding: 8px;
+            font-size: 16px;
+            border: 2px solid #fff;
+            border-radius: 5px;
+        }
+
+        .btn {
+            background-color: #ffd700;
+            color: #000;
+            border: none;
+            padding: 8px 12px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease-in-out;
+        }
+
+        .btn:hover {
+            background-color: #000;
+            /* Change the background color on hover */
+            color: #ffd700;
+        }
+nav:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+        
+    </style>
+
+
+    <nav class="navbar">
+        <ul class="nav-list">
+            <li><a href="/framework-for-leading-change/where-should-we-start/">Where should we start?</a></li>
+            <li><a href="/framework-for-leading-change/navigating-the-world-of-change">Deepening our understanding</a></li>
+            <li><a href="/framework-for-leading-change/understanding-our-context/">Strategizing and planning</a></li>
+            <li><a href="/framework-for-leading-change/navigating-our-change/">Navigating our change</a></li>
+            <li><a href="/framework-for-leading-change/reaching-our-waypoint/">Reaching the waypoint</a></li>
+            <li><a href="/framework-for-leading-change/contact-us/">Contact us</a></li>
+        </ul>
+        
+    </nav>
+
 <br>
 
 This framework is designed to strengthen our ability to lead different types of change in the public service, from incremental to transformational. It offers a flexible approach that can be adapted depending on the context, and introduces concepts and methods that guide us in planning and implementing our activities. Using the framework to lead change can increase both the chances of success for a particular initiative and also offers a path to build on our success to support future change.
