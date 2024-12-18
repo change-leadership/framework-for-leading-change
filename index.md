@@ -30,6 +30,7 @@ date: "2022-10-20"
             border-bottom: 4px solid black;
              height: 100%;
  max-width: 150%;
+ box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
  
         }
 
