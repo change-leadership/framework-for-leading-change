@@ -28,10 +28,10 @@ date: "2022-10-20"
             background-size: cover;
             color: black;
             padding: 10px 20px;
-            border-top: 2px solid black;
-            border-bottom: 2px solid black;
+            border-top: 1px solid black;
+            border-bottom: 1px solid black;
               height: 100%;
-               max-width: 300%;
+               
  
  
         }
