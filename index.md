@@ -4,7 +4,7 @@ author: "Centre for Strategic Change | Government of Canada | www.canada.ca | ww
 date: "2022-10-20"
 ---
 
-<header>
+<head>
     <div class="cs-container">
         <!--Nav Logo-->
         <!--Logo is turned white in the css with a filter on dark mode-->
@@ -63,7 +63,7 @@ date: "2022-10-20"
             </div>
         </nav>
 
-   
+   </head>
   
 <br>
 
