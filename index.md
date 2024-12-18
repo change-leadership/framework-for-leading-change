@@ -81,6 +81,12 @@ date: "2022-10-20"
             /* Change the background color on hover */
             color: #ffd700;
         }
+nav:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+        
     </style>
 
 
