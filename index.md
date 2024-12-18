@@ -26,7 +26,7 @@ date: "2022-10-20"
             <!-- We need a wrapper div so we can set a fixed height on the cs-ul in case the nav list gets too long from too many dropdowns being opened and needs to have an overflow scroll. This wrapper acts as the background so it can go the full height of the screen and not cut off any overflowing nav items while the cs-ul stops short of the bottom of the screen, which keeps all nav items in view no matter how mnay there are-->
             <div class="cs-ul-wrapper">
                 <ul id="cs-expanded" class="cs-ul" aria-expanded="false">
-                    <li style="float:left" class="cs-li">
+                    <li class="cs-li">
                         <a href="" class="cs-li-link cs-active">
                             Home
                         </a>
