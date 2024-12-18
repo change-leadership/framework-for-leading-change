@@ -22,16 +22,16 @@ date: "2022-10-20"
             align-items: center;
             justify-content: space-between;
             top: 0px;
-            background: #2980b9;
+            background: #e3e5e6;
             background-blend-mode: darken;
             background-size: cover;
             color: white;
             padding: 10px 20px;
-            border-top: 4px solid black;
-            border-bottom: 4px solid black;
-             height: 100%;
- max-width: 300%;
- box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+            border-top: 2px solid black;
+            border-bottom: 2px solid black;
+              height: 100%;
+               max-width: 300%;
+ 
  
         }
 
@@ -72,7 +72,7 @@ date: "2022-10-20"
         }
 
         .btn {
-            background-color: #ffd700;
+            g
             color: #000;
             border: none;
             padding: 8px 12px;
@@ -107,6 +107,8 @@ nav:after {
         
     </nav>
 </head>
+
+<br>
 
 This framework is designed to strengthen our ability to lead different types of change in the public service, from incremental to transformational. It offers a flexible approach that can be adapted depending on the context, and introduces concepts and methods that guide us in planning and implementing our activities. Using the framework to lead change can increase both the chances of success for a particular initiative and also offers a path to build on our success to support future change.
 
