@@ -94,8 +94,8 @@ nav:after {
 
     <nav class="navbar">
         <ul class="nav-list">
-        <img src="https://intranet.tpsgc-pwgsc.gc.ca/boew-wet/wet4.0/GCWeb/assets/wmms-spl.svg" alt="Government of Canada / gouvernement du canada" width="75px">
-            <li><a href="/framework-for-leading-change/where-should-we-start/">Where should we start?</a></li>
+        <img src="https://intranet.tpsgc-pwgsc.gc.ca/boew-wet/wet4.0/GCWeb/assets/wmms-spl.svg" alt="Government of Canada / gouvernement du canada" width="100px" padding="5px">
+            <li><a href="/framework-for-leading-change/where-should-we-start/">Where to start?</a></li>
             <li><a href="/framework-for-leading-change/navigating-the-world-of-change">Deepening our understanding</a></li>
             <li><a href="/framework-for-leading-change/understanding-our-context/">Strategizing and planning</a></li>
             <li><a href="/framework-for-leading-change/navigating-our-change/">Navigating our change</a></li>
