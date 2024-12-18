@@ -98,7 +98,7 @@ nav:after {
 
     <nav class="navbar">
         <ul class="nav-list">
-        <img src="https://logowik.com/government-of-canada-logo-vector-png-svg-free-download-28501.html" alt="Government of Canada / gouvernement du canada">
+        <img src="https://portal365.org/Uploads/637464304704790946.png" alt="Government of Canada / gouvernement du canada">
             <li><a href="/framework-for-leading-change/where-should-we-start/">Where should we start?</a></li>
             <li><a href="/framework-for-leading-change/navigating-the-world-of-change">Deepening our understanding</a></li>
             <li><a href="/framework-for-leading-change/understanding-our-context/">Strategizing and planning</a></li>
