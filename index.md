@@ -28,8 +28,7 @@ date: "2022-10-20"
             background-size: cover;
             color: black;
             padding: 5px 10px;
-            font-size: 17px;
- 
+             
         }
 
         .nav-list {
@@ -48,7 +47,7 @@ date: "2022-10-20"
         .nav-list li a {
             text-decoration: none;
             color: black;
-            font-size: 12px;
+            font-size: 17px;
             transition: color 0.3s ease-in-out;
         }
 
