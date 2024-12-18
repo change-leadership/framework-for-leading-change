@@ -4,6 +4,100 @@ author: "Centre for Strategic Change | Government of Canada | www.canada.ca | ww
 date: "2022-10-20"
 ---
 
+<head>
+    <style>
+        * {
+            margin: 10;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+        }
+
+        .navbar {
+            display: flex;
+            position: sticky;
+            align-items: center;
+            justify-content: space-between;
+            top: 0px;
+            background: rgb(13, 152, 186);
+            background-blend-mode: darken;
+            background-size: cover;
+            color: white;
+            padding: 10px 20px;
+        }
+
+        .nav-list {
+            display: flex;
+            list-style: none;
+        }
+
+        .nav-list li {
+            margin-right: 20px;
+        }
+
+        .nav-list li:last-child {
+            margin-right: 0;
+        }
+
+        .nav-list li a {
+            text-decoration: none;
+            color: white;
+            font-size: 18px;
+            transition: color 0.3s ease-in-out;
+        }
+
+        .nav-list li a:hover {
+            color: #ffd700;
+            /* Change the color on hover */
+        }
+
+        .rightNav {
+            text-align: right;
+        }
+
+        #search {
+            padding: 8px;
+            font-size: 16px;
+            border: 2px solid #fff;
+            border-radius: 5px;
+        }
+
+        .btn {
+            background-color: #ffd700;
+            color: #000;
+            border: none;
+            padding: 8px 12px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease-in-out;
+        }
+
+        .btn:hover {
+            background-color: #000;
+            /* Change the background color on hover */
+            color: #ffd700;
+        }
+    </style>
+
+
+    <nav class="navbar">
+        <ul class="nav-list">
+            <li><a href="/framework-for-leading-change/where-should-we-start/">Where should we start?</a></li>
+            <li><a href="/framework-for-leading-change/navigating-the-world-of-change">Deepening our understanding</a></li>
+            <li><a href="/framework-for-leading-change/understanding-our-context/">Strategizing and planning</a></li>
+            <li><a href="/framework-for-leading-change/navigating-our-change/">Navigating our change</a></li>
+            <li><a href="/framework-for-leading-change/reaching-our-waypoint/">Reaching the waypoint</a></li>
+            <li><a href="/framework-for-leading-change/contact-us/">Contact us</a></li>
+        </ul>
+        
+    </nav>
+  
+
+</head>
+
+
 This framework is designed to strengthen our ability to lead different types of change in the public service, from incremental to transformational. It offers a flexible approach that can be adapted depending on the context, and introduces concepts and methods that guide us in planning and implementing our activities. Using the framework to lead change can increase both the chances of success for a particular initiative and also offers a path to build on our success to support future change.
 
 Working under the premise that no single change methodology provides solutions to every challenge, this framework pulls from a range of different models throughout. It follows the major phases of recognized best practices in leading change.
