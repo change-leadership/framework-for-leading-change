@@ -24,7 +24,6 @@ date: "2022-10-20"
             background: rgb(13, 152, 186);
             background-blend-mode: darken;
             background-size: cover;
-            border-color: black;
             color: white;
             padding: 10px 20px;
         }
@@ -83,7 +82,7 @@ date: "2022-10-20"
     </style>
 
 
-    <nav class="navbar" border: 1px solid black>
+    <nav class="navbar">
         <ul class="nav-list">
             <li><a href="/framework-for-leading-change/where-should-we-start/">Where should we start?</a></li>
             <li><a href="/framework-for-leading-change/navigating-the-world-of-change">Deepening our understanding</a></li>
