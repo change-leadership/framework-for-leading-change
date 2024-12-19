@@ -97,7 +97,7 @@ nav:after {
             <li><a href="/framework-for-leading-change/where-should-we-start/">Where to start?</a></li>
             <li><a href="/framework-for-leading-change/navigating-the-world-of-change">Deepening our understanding</a></li>
             <li><a href="/framework-for-leading-change/understanding-our-context/">Strategizing and planning</a></li>
-            <li><a href="/framework-for-leading-change/navigating-our-change/">Navigating our change</a></li>
+            <li><a href="/framework-for-leading-change/implementing-the-change/">Navigating our change</a></li>
             <li><a href="/framework-for-leading-change/reaching-our-waypoint/">Reaching the waypoint</a></li>
             <li><a href="/framework-for-leading-change/contact-us/">Contact us</a></li>
         </ul>
