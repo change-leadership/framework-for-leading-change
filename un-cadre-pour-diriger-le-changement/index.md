@@ -92,7 +92,6 @@ nav:after {
 }
         
     </style>
-https://change-leadership.github.io/framework-for-leading-change//
 
     <nav class="navbar">
         <ul class="nav-list">
