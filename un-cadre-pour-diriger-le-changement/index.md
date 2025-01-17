@@ -92,16 +92,16 @@ nav:after {
 }
         
     </style>
-
+https://change-leadership.github.io/framework-for-leading-change//
 
     <nav class="navbar">
         <ul class="nav-list">
-            <li><a href="/framework-for-leading-change/where-should-we-start/">Where to start?</a></li>
-            <li><a href="/framework-for-leading-change/navigating-the-world-of-change">Deepening our understanding</a></li>
-            <li><a href="/framework-for-leading-change/understanding-our-context/">Strategizing and planning</a></li>
-            <li><a href="/framework-for-leading-change/implementing-the-change/">Navigating our change</a></li>
-            <li><a href="/framework-for-leading-change/reaching-our-waypoint/">Reaching the waypoint</a></li>
-            <li><a href="/framework-for-leading-change/contact-us/">Contact us</a></li>
+            <li><a href="/framework-for-leading-change/un-cadre-pour-diriger-le-changement/naviguer-dans-le-monde-du-changement/">Naviguer à travers le monde du changement</a></li>
+            <li><a href="/framework-for-leading-change/jeter-les-bases-dun-changement-reussi/)">Jeter les bases d’un changement réussi</a></li>
+            <li><a href="/framework-for-leading-change/comprendre-notre-contexte/">Comprendre notre contexte</a></li>
+            <li><a href="/framework-for-leading-change/mise-en-oeuvre-nos-activites-de-changement/">Naviguer à travers notre changement</a></li>
+            <li><a href="/framework-for-leading-change/atteindre-notre-point-de-cheminement/">Atteindre notre point de cheminement</a></li>
+            <li><a href="/framework-for-leading-change/contact-us/">Contact</a></li>
         </ul>
         
     </nav>
@@ -152,7 +152,7 @@ Notre connaissance de la façon de naviguer (c’est-à-dire, dans ce cas-ci, no
 
 **5.** [Rallier les gens au changement](/framework-for-leading-change/rallier-les-gens-au-changement/) comprend les activités de mobilisation nécessaires pour assurer la réussite du changement, selon le type de changement que nous dirigeons et les personnes qui y participent.
 
-**6\.** [Élaborer nos plans](/framework-for-leading-change/elaborer-nos-plans/) implique la création et l’intégration des différents plans (p. ex. mobilisation et communications) qui orienteront notre mise en œuvre du changement.
+**6.** [Élaborer nos plans](/framework-for-leading-change/elaborer-nos-plans/) implique la création et l’intégration des différents plans (p. ex. mobilisation et communications) qui orienteront notre mise en œuvre du changement.
 
 ### Elle nous aide également à garder quelques points à l’esprit
 
