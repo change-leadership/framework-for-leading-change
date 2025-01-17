@@ -2,13 +2,113 @@
 title: "Un cadre pour diriger le changement"
 date: "2022-10-20"
 ---
- <br>
+<head>
+       <br>
        <br>
         <img src="https://intranet.tpsgc-pwgsc.gc.ca/boew-wet/wet4.0/GCWeb/assets/wmms-spl.svg" alt="Government of Canada / gouvernement du canada">
        <br>
        <br>
        <br>
        <br>
+<style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+        }
+
+        .navbar {
+            display: flex;
+            position: sticky;
+            align-items: center;
+            justify-content: space-between;
+            top: 0px;
+            background: white;
+            background-blend-mode: darken;
+            background-size: cover;
+            color: black;
+            padding: 5px 10px;
+             
+        }
+
+        .nav-list {
+            display: flex;
+            list-style: none;
+        }
+
+        .nav-list li {
+            margin-right: 20px;
+        }
+
+        .nav-list li:last-child {
+            margin-right: 0;
+        }
+
+        .nav-list li a {
+            text-decoration: none;
+            color: black;
+            font-size: 17px;
+            transition: color 0.3s ease-in-out;
+        }
+
+        .nav-list li a:hover {
+            color: #ffd700;
+            /* Change the color on hover */
+        }
+
+        .rightNav {
+            text-align: right;
+        }
+
+        #search {
+            padding: 8px;
+            font-size: 16px;
+            border: 2px solid #fff;
+            border-radius: 5px;
+        }
+
+        .btn {
+            g
+            color: #000;
+            border: none;
+            padding: 8px 12px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease-in-out;
+        }
+
+        .btn:hover {
+            background-color: #000;
+            /* Change the background color on hover */
+            color: #ffd700;
+        }
+nav:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+        
+    </style>
+
+
+    <nav class="navbar">
+        <ul class="nav-list">
+            <li><a href="/framework-for-leading-change/where-should-we-start/">Where to start?</a></li>
+            <li><a href="/framework-for-leading-change/navigating-the-world-of-change">Deepening our understanding</a></li>
+            <li><a href="/framework-for-leading-change/understanding-our-context/">Strategizing and planning</a></li>
+            <li><a href="/framework-for-leading-change/implementing-the-change/">Navigating our change</a></li>
+            <li><a href="/framework-for-leading-change/reaching-our-waypoint/">Reaching the waypoint</a></li>
+            <li><a href="/framework-for-leading-change/contact-us/">Contact us</a></li>
+        </ul>
+        
+    </nav>
+</head>
+
+<br>
+
        
 Ce cadre est conçu pour renforcer notre capacité à diriger différents types de changement à l’échelle de la fonction publique, allant des changements progressifs aux changements transformationnels. Il est axé sur une approche souple pouvant s’adapter en fonction du contexte, et introduit des concepts et des méthodes qui nous guideront dans la planification et la mise en œuvre de nos activités. L’utilisation de ce cadre pour diriger le changement peut accroître les chances de réussite d’une initiative, et tracer un chemin pour tirer parti de nos réussites afin de soutenir le changement futur.
 
