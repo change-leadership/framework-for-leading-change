@@ -2,7 +2,14 @@
 title: "Un cadre pour diriger le changement"
 date: "2022-10-20"
 ---
-
+ <br>
+       <br>
+        <img src="https://intranet.tpsgc-pwgsc.gc.ca/boew-wet/wet4.0/GCWeb/assets/wmms-spl.svg" alt="Government of Canada / gouvernement du canada">
+       <br>
+       <br>
+       <br>
+       <br>
+       
 Ce cadre est conçu pour renforcer notre capacité à diriger différents types de changement à l’échelle de la fonction publique, allant des changements progressifs aux changements transformationnels. Il est axé sur une approche souple pouvant s’adapter en fonction du contexte, et introduit des concepts et des méthodes qui nous guideront dans la planification et la mise en œuvre de nos activités. L’utilisation de ce cadre pour diriger le changement peut accroître les chances de réussite d’une initiative, et tracer un chemin pour tirer parti de nos réussites afin de soutenir le changement futur.
 
 En partant du principe selon lequel aucune méthode de changement ne permet, à elle seule, de résoudre tous les défis, ce cadre applique un éventail de modèles selon le contexte. Il intègre notamment les principales phases des pratiques exemplaires reconnues pour diriger le changement.
