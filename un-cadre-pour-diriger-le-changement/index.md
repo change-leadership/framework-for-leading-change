@@ -101,7 +101,7 @@ https://change-leadership.github.io/framework-for-leading-change//
             <li><a href="/framework-for-leading-change/comprendre-notre-contexte/">Comprendre notre contexte</a></li>
             <li><a href="/framework-for-leading-change/mise-en-oeuvre-nos-activites-de-changement/">Naviguer à travers notre changement</a></li>
             <li><a href="/framework-for-leading-change/atteindre-notre-point-de-cheminement/">Atteindre notre point de cheminement</a></li>
-            <li><a href="/framework-for-leading-change/contact-us/">Contact</a></li>
+            <li><a href="/framework-for-leading-change/contactez-nous/">Contact</a></li>
         </ul>
         
     </nav>
