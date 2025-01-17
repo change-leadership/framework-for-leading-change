@@ -95,8 +95,8 @@ nav:after {
 
     <nav class="navbar">
         <ul class="nav-list">
-            <li><a href="/framework-for-leading-change/un-cadre-pour-diriger-le-changement/naviguer-dans-le-monde-du-changement/">Naviguer à travers le monde du changement</a></li>
-            <li><a href="/framework-for-leading-change/jeter-les-bases-dun-changement-reussi/)">Jeter les bases d’un changement réussi</a></li>
+            <li><a href="/framework-for-leading-change/naviguer-dans-le-monde-du-changement/">Naviguer à travers le monde du changement</a></li>
+            <li><a href="/framework-for-leading-change/jeter-les-bases-dun-changement-reussi/">Jeter les bases d’un changement réussi</a></li>
             <li><a href="/framework-for-leading-change/comprendre-notre-contexte/">Comprendre notre contexte</a></li>
             <li><a href="/framework-for-leading-change/mise-en-oeuvre-nos-activites-de-changement/">Naviguer à travers notre changement</a></li>
             <li><a href="/framework-for-leading-change/atteindre-notre-point-de-cheminement/">Atteindre notre point de cheminement</a></li>
