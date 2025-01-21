@@ -110,9 +110,7 @@ nav:after {
     </nav>
 </head>
 
-https://change-leadership.github.io/framework-for-leading-change/un-cadre-pour-diriger-le-changement/
-
-[Français]([/change-leadership.github.io/framework-for-leading-change/un-cadre-pour-diriger-le-changement/](https://change-leadership.github.io/framework-for-leading-change/un-cadre-pour-diriger-le-changement/))
+[Français]([/change-leadership.github.io/framework-for-leading-change/un-cadre-pour-diriger-le-changement/])
 
 <br>
 
