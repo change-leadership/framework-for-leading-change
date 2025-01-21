@@ -13,7 +13,7 @@ date: "2022-10-20"
        <br>
        <br>
 
-       
+     [Français]([/change-leadership.github.io/framework-for-leading-change/un-cadre-pour-diriger-le-changement/])  
 <style>
         * {
             margin: 0;
@@ -110,7 +110,7 @@ nav:after {
     </nav>
 </head>
 
-[Français]([/change-leadership.github.io/framework-for-leading-change/un-cadre-pour-diriger-le-changement/])
+
 
 <br>
 
