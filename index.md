@@ -11,6 +11,7 @@ date: "2022-10-20"
         <img src="https://intranet.tpsgc-pwgsc.gc.ca/boew-wet/wet4.0/GCWeb/assets/wmms-spl.svg" alt="Government of Canada / gouvernement du canada">
        <br>
        <br>
+       [Français](https://change-leadership.github.io/framework-for-leading-change/un-cadre-pour-diriger-le-changement/)
        <br>
        <br>
 <style>
