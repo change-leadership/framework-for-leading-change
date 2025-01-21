@@ -104,14 +104,11 @@ nav:after {
         </ul>
         
     </nav>
-
+<br>
 <a href="https://change-leadership.github.io/framework-for-leading-change/index">English</a>
+<br>
 
-    [English]([/change-leadership.github.io/framework-for-leading-change/un-cadre-pour-diriger-le-changement/]) 
 </head>
-
-
-[English]([/change-leadership.github.io/framework-for-leading-change/un-cadre-pour-diriger-le-changement/]) 
 
 <br>
 
