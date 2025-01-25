@@ -67,7 +67,7 @@ En examinant notre état de préparation et le type de changement, nous pouvons 
 
 Le tableau suivant illustre le risque global que représente le changement pour notre organisation. Il peut nous aider à déterminer l’état de préparation global de notre organisation et, par conséquent, à quel point nous devons investir davantage d’efforts pour renforcer notre capacité de changement. Il peut aussi s’avérer utile pour les séances d’information à l’intention des leaders et des intervenants.
 
-<img src="images/FLC-Change-readiness-and-risk-FR.png" alt="Préparation au changement et risque"
+<img src="images/FLC-Change-readiness-and-risk-FR.png" alt="Préparation au changement et risque">
 Préparation au changement et risque. L’axe des y illustre les attributs organisationnels qui les distinguent du changement prêt à changer. L’axe des x illustre les caractéristiques du changement, de petit/progressif à grand/perturbateur. Il y a quatre quadrants au centre. En bas à gauche, le risque est faible. En haut à gauche et en bas à droite, le risque est moyen. En haut à droite, le risque est élevé.
 
 
