@@ -41,17 +41,9 @@ Nous pouvons ensuite déterminer l’exposition au risque (qui est calculée com
 
 Voici un exemple de la façon dont nous pourrions représenter visuellement nos risques.
 
-<figure>
-
-![](images/FLC-Heat-map-FR.jpg)
-
-<figcaption>
+<img src="images/FLC-Heat-map-FR.jpg">
 
 Traduction libre, Centre de changement stratégique, 2022
-
-</figcaption>
-
-</figure>
 
 **_\*Remarque :_** _Certains risques peuvent avoir une faible probabilité d’occurrence, mais avoir une incidence grave sur le projet s’ils devaient survenir. C’est pourquoi nous pourrions devoir faire preuve de jugement pour bien catégoriser les risques de façon à ne pas les perdre de vue._
 
@@ -79,15 +71,16 @@ Nous pouvons ensuite réfléchir à notre intervention pour chaque risque. Les t
 
 Nous pouvons élaborer un tableau pour assurer un suivi de nos risques.
 
-![exemple de tableau des risques.
-<div></div>
+<img src="images/Risks-2-FR-1024x412.png">
+Exemple de tableau des risques.
+
 Comprend les catégories suivantes
-<div></div>
+
 État (Critique/ Prioritaire/ Surveiller)
 Catégorie (Environnement / Aspect juridique / Gouvernance / Changement / Intervenants / Technologie / Rendement / Budget)
-<div></div>
+
 Risques	(Énumérer et définir)
-<div></div>
+
 Cote (Probabilité X incidence - Élevée/ modérée/ faible)
 Fréquence de l’occurrence (1 à 5)
 Importance relative (Comparativement aux autres risques -1 à 5)
@@ -96,7 +89,7 @@ Aversion / intolérance des intervenants (Élevée / modérée / faible)
 Niveau de priorité (Élevé / modéré / faible)
 Intervention relative au risque (Éviter /transférer/ atténuer /accepter + description des mesures)
 Risque résiduel et mesures en cas d’urgence
-BPR de la surveillance / BPR de la mesure d’intervention](images/Risks-2-FR-1024x412.png)
+BPR de la surveillance / BPR de la mesure d’intervention
 
 Les risques sont susceptibles d’évoluer au fil du temps. Il est donc important de les revoir tout au long du processus et d’assigner des personnes ou des groupes pour assurer un suivi de certains risques.
 
