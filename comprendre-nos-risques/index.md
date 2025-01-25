@@ -71,7 +71,7 @@ Nous pouvons ensuite réfléchir à notre intervention pour chaque risque. Les t
 
 Nous pouvons élaborer un tableau pour assurer un suivi de nos risques.
 
-<img src="images/Risks-2-FR-1024x412.png">
+<img src="images/FLC-Risks-2-FR-1024x412.png">
 Exemple de tableau des risques.
 
 Comprend les catégories suivantes
