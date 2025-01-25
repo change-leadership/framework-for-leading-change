@@ -93,7 +93,7 @@ Ultimement, nous voulons être conscients du fait que les gens traverseront une 
 
 **Adoption du changement**
 
-<img src="images/FLC-Change-adoption-curve-FR-1024x565.png"
+<img src="images/FLC-Change-adoption-curve-FR-1024x565.png">
 
 La courbe d’adoption du changement. Comprend le niveau d’effort/d’engagement sur l’axe y. Indique le temps le long de l’axe x. Les points de la courbe d’adoption du changement sont les suivants : Contact (communiquer / informer) Sensibilisation (communiquer/impliquer) Compréhension (compréhension des besoins / formation) Acceptation (où le changement de comportement commence) Adoption individuelle (soutien/encadrement, rétroaction/renforcement) Institutionnalisation (mesure, rétroaction, internalisation) Le long de l’axe des X, il y a les conséquences de ne pas comprendre/s’adapter à la courbe d’adoption du changement. Il s’agit notamment du manque de sensibilisation, de la confusion, du déni/de la perception négative, de la décision de ne pas appuyer, du succès mitigé et de la récidive.
 
