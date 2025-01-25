@@ -98,8 +98,8 @@ Ultimately, we want to be aware that people will be going through a period of tr
 **Change adoption**
 
 <img src="images/change-adoption.png" alt="The change curve process over time in a line graph. A line and arrow on the far left indicates morale and competence. A line on the bottom indicates time. There is a dotted arrow showing peaks and valleys of morale and competence over time as we move through a change">
-![the change adoption curve.] Includes level of effort / commitment on the y axis. Indicates time along the x axis.
-<div></div>
+The change adoption curve. Includes level of effort / commitment on the y axis. Indicates time along the x axis.
+
 The points along the change adoption curve are:
 Contact (communicate / inform)
 Awareness (communicate / involve)
@@ -107,7 +107,7 @@ Understanding (understanding needs / training)
 Acceptance (where behaviour change starts)
 Individual adoption (support/coach, feedback/reinforce)
 Institutionalization (measurement, feedback, internalization)
-<div></div>
+
 Along the X axis are consequences of not understanding/adapting to the change adoption curve. These include: lack of awareness, confusion, denial / negative perception, decision not to support, spotty success, and recidivism.]
 
 The adoption curve shows the progression in levels of adoption of the change (the labels in blue just above the curve), including some of the activities needed to support people through this progression located above each blue label.
