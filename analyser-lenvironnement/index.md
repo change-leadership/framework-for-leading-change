@@ -51,8 +51,8 @@ Maintenant que nous avons une meilleure compréhension des forces qui soutiennen
 
 * * *
 
-[****Prochain : Déterminer où s’inscrit notre changement****](determiner-ou-sinscrit-notre-changement/)
+[****Prochain : Déterminer où s’inscrit notre changement****](/framework-for-leading-change/determiner-ou-sinscrit-notre-changement/)
 
-[**Retour au début de la section**](comprendre-notre-contexte/)
+[**Retour au début de la section**](/framework-for-leading-change/comprendre-notre-contexte/)
 
 * * *
