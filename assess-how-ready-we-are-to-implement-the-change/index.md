@@ -65,18 +65,14 @@ By looking at our readiness and the type of change we can plot the level of risk
 
 The following chart offers a visual of how much overall risk for our organization is represented by the change. It can help us determine how ready our organization is overall, and therefore, how much more we need to invest in building our capacity for change. It can also be helpful for briefing leadership and stakeholders.
 
-<figure>
+
 
 ![Change readiness and risk. The y axis depicts the organizational attributes them from change ready to change resistant. The x axis depicts the characteristics of the change, from small/incremental to large/disruptive.
-<div></div>
+
 There are four quadrants in the centre. The bottom left is low risk. The top left and bottom right are medium risk. The top right is high risk.] <img src="images/FLC-Org-attributes.jpg">
-<figcaption>
 
 Adapted from _Prosci_, [_Before You Act, Consider These Keys to Preparing for Change_](https://www.prosci.com/blog/keys-to-prepare-for-change)
 
-</figcaption>
-
-</figure>
 
 Many assessments assign a number to various aspects of change readiness. One way we can do this is to give more weight to particular aspects of readiness than others (e.g., using a scale from 1 to 5). For more information on this, see _[S](/framework-for-leading-change/our-drivers-and-barriers-of-change/)[ection 2: Drivers and barriers / Determine the overall impact of each force](/framework-for-leading-change/risk-plan/)_.
 
