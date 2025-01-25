@@ -53,7 +53,7 @@ Il est bien de garder à l’esprit que nous pourrions devoir harmoniser nos rô
 
 * * *
 
-[****Prochain : **Gouvernance du changement******](/framework-for-leading-change/naviguer-dans-le-monde-du-changement/gouvernance-du-changement/)
+[****Prochain : **Gouvernance du changement******](/framework-for-leading-change/gouvernance-du-changement/)
 
 [**Retour au début de la section**](/framework-for-leading-change/naviguer-dans-le-monde-du-changement/)
 
