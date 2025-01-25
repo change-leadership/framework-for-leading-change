@@ -67,7 +67,7 @@ This may be a good place for change leadership training and thought-provoking di
 
 * * *
 
-[Next: Leading change in a hybrid environment](/framework-for-leading-change/leading-change-in-a-hybrid-environment/)
+[Next: Leading change in a hybrid environment](/framework-for-leading-change/leading-change-in-a-virtual-hybrid-environment/)
 
 [Back to beginning of section](/framework-for-leading-change/navigating-the-world-of-change/)
 
