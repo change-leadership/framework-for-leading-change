@@ -19,7 +19,7 @@ Here we will:
 
 - [Learn how to lead change in government](/framework-for-leading-change/leading-change-in-government/)
 
-- [Better understand change roles](/framework-for-leading-change/changes-roles/)
+- [Better understand change roles](/framework-for-leading-change/change-roles/)
 
 - [Identify your governance for the change](/framework-for-leading-change/governance-for-change/)
 
