@@ -57,17 +57,11 @@ Les étapes de la transition sont les suivantes :
 
 **La courbe du changement**
 
-<figure>
+<img src="images/FLC-The-change-curve-FR-2.png">
 
-![La courbe de changement au fil du temps dans un graphique linéaire. Une ligne et une flèche à l’extrême gauche indique le moral et la compétence. Une ligne en bas indique le temps. Il y a une flèche pointillée montrant les sommets et les creux du moral et de la compétence au fil du temps que nous avançons à travers un changement.](images/FLC-The-change-curve-FR-2.png)
-
-<figcaption>
+La courbe de changement au fil du temps dans un graphique linéaire. Une ligne et une flèche à l’extrême gauche indique le moral et la compétence. Une ligne en bas indique le temps. Il y a une flèche pointillée montrant les sommets et les creux du moral et de la compétence au fil du temps que nous avançons à travers un changement.
 
 _Tiré de_ [_Leading Effective Change: A Primer for the HR Professional_](https://www.researchgate.net/publication/345819452_Leading_Effective_Change_A_Primer_for_the_HR_Professional) _(en anglais seulement), de John Austin_
-
-</figcaption>
-
-</figure>
 
 Le leadership joue un rôle clé dans la reconnaissance et la prise de conscience de ces phases par le personnel, en comprenant et en validant les pertes réelles que vivent les gens lorsqu’un changement est proposé, et en aidant généralement les employés tout au long de la transition. Une bonne ressource sur les transitions est le livre _Manager les transitions_ de William Bridges.
 
@@ -99,17 +93,11 @@ Ultimement, nous voulons être conscients du fait que les gens traverseront une 
 
 **Adoption du changement**
 
-<figure>
+<img src="images/FLC-Change-adoption-curve-FR-1024x565.png"
 
-![la courbe d’adoption du changement. Comprend le niveau d’effort/d’engagement sur l’axe y. Indique le temps le long de l’axe x. Les points de la courbe d’adoption du changement sont les suivants : Contact (communiquer / informer) Sensibilisation (communiquer/impliquer) Compréhension (compréhension des besoins / formation) Acceptation (où le changement de comportement commence) Adoption individuelle (soutien/encadrement, rétroaction/renforcement) Institutionnalisation (mesure, rétroaction, internalisation) Le long de l’axe des X, il y a les conséquences de ne pas comprendre/s’adapter à la courbe d’adoption du changement. Il s’agit notamment du manque de sensibilisation, de la confusion, du déni/de la perception négative, de la décision de ne pas appuyer, du succès mitigé et de la récidive.](images/FLC-Change-adoption-curve-FR-1024x565.png)
-
-<figcaption>
+La courbe d’adoption du changement. Comprend le niveau d’effort/d’engagement sur l’axe y. Indique le temps le long de l’axe x. Les points de la courbe d’adoption du changement sont les suivants : Contact (communiquer / informer) Sensibilisation (communiquer/impliquer) Compréhension (compréhension des besoins / formation) Acceptation (où le changement de comportement commence) Adoption individuelle (soutien/encadrement, rétroaction/renforcement) Institutionnalisation (mesure, rétroaction, internalisation) Le long de l’axe des X, il y a les conséquences de ne pas comprendre/s’adapter à la courbe d’adoption du changement. Il s’agit notamment du manque de sensibilisation, de la confusion, du déni/de la perception négative, de la décision de ne pas appuyer, du succès mitigé et de la récidive.
 
 Adapté de Connor Partners (formerly ODR Inc.)
-
-</figcaption>
-
-</figure>
 
 La courbe d’adoption montre la progression des niveaux d’adoption du changement (les éléments en bleu, juste au-dessus de la courbe), y compris certaines des activités nécessaires pour soutenir les gens dans cette progression (au-dessus de chacun des éléments en bleu). Les conséquences indiquées au bas du graphique montrent les réactions possibles lorsque ces activités ne sont pas menées ou sont mal exécutées.
 
