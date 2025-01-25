@@ -15,23 +15,20 @@ If we see that support toward the change is lacking, our previous analysis of st
 
 One important concept to keep in mind that can help us better engage with stakeholders is the commitment curve. People learn about and engage with the change at different milestones. Key players, especially senior decision-makers, will have learned about the change before others. Keeping this in mind will help us to avoid making assumptions about the knowledge and commitment of these other key stakeholders and members of our organizations, and help us better guide our commitment-building activities.
 
-<figure>
+
 
 ![the commitment curve. On the y axis is an arrow pointing up, depicting level of effort / commitment (from beginning through optimal).
-<div></div>
+
 On the y axis is the progression of time by year (up to 3 years).
-<div></div>
+
 The chart includes three simplified change curves. The first depicts senior decision-makers, the second senior management, and the third is everyone else.
-<div></div>
+
 The purpose is to show that various stakeholders start on their change journey at different times than others, and this needs to be taken into account as we implement our change.](images/The-commitment-curve.png)
 
-<figcaption>
+
 
 Based on work by William Bridges
 
-</figcaption>
-
-</figure>
 
 At this point the commitment curve is something we can use to guide us when determining the audiences and timing of our communications and other activities. We’ll touch on this in _[Section 6: Developing our plans / Communications plan](/framework-for-leading-change/communications-plan/)_.
 
