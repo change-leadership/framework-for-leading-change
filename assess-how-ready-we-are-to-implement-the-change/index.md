@@ -61,7 +61,7 @@ Once we’ve had discussions with a wide range of stakeholders on readiness, we 
 
 Now that we have a better appreciation of our organizational level of readiness, we can look at it in relation to the type of change we are dealing with (for more information on the types of change, see _[Section 1: The type of change we’re leading](/framework-for-leading-change/the-type-of-change-were-leading/)_).
 
-By looking at our readiness and the type of change we can plot the level of risk for our change (for more information on risks, see _[Section 6: Developing our plans / risk management plan](framework-for-leading-change/risk-plan/)_).
+By looking at our readiness and the type of change we can plot the level of risk for our change (for more information on risks, see _[Section 6: Developing our plans / risk management plan](/framework-for-leading-change/risk-plan/)_).
 
 The following chart offers a visual of how much overall risk for our organization is represented by the change. It can help us determine how ready our organization is overall, and therefore, how much more we need to invest in building our capacity for change. It can also be helpful for briefing leadership and stakeholders.
 
@@ -78,7 +78,7 @@ Adapted from _Prosci_, [_Before You Act, Consider These Keys to Preparing for Ch
 
 </figure>
 
-Many assessments assign a number to various aspects of change readiness. One way we can do this is to give more weight to particular aspects of readiness than others (e.g., using a scale from 1 to 5). For more information on this, see _[S](/framework-for-leading-change/our-drivers-and-barriers-of-change/)[ection 2: Drivers and barriers / Determine the overall impact of each force](framework-for-leading-change/risk-plan/)_.
+Many assessments assign a number to various aspects of change readiness. One way we can do this is to give more weight to particular aspects of readiness than others (e.g., using a scale from 1 to 5). For more information on this, see _[S](/framework-for-leading-change/our-drivers-and-barriers-of-change/)[ection 2: Drivers and barriers / Determine the overall impact of each force](/framework-for-leading-change/risk-plan/)_.
 
 Ultimately, a scale can help us get some precision on areas to focus on. That being said, it is really both the qualitative data we receive and the discussions themselves that help us to understand our change readiness.
 
