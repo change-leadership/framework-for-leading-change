@@ -37,8 +37,8 @@ Now that we better understand our capacity to lead change and our level of readi
 
 * * *
 
-[Next: Assess the impact](assessing-the-impact/)
+[Next: Assess the impact](/framework-for-leading-change/assessing-the-impact/)
 
-[Back to beginning of section](capacity-readiness-and-impact/)
+[Back to beginning of section](/framework-for-leading-change/capacity-readiness-and-impact/)
 
 * * *
