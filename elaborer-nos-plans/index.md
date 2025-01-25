@@ -25,7 +25,7 @@ Le point à retenir est qu’il est possible d’adapter nos différents plans e
 
 - [Plan de gestion des risques](/framework-for-leading-change/plan-de-gestion-des-risques/)
 
-- [Plan de communications](/framework-for-leading-change/plan-de-communication/)
+- [Plan de communication](/framework-for-leading-change/plan-de-communication/)
 
 - [Plan relatif aux ressources humaines](/framework-for-leading-change/plan-relatif-aux-ressources-humaines/)
 
