@@ -23,7 +23,7 @@ On the y axis is the progression of time by year (up to 3 years).
 
 The chart includes three simplified change curves. The first depicts senior decision-makers, the second senior management, and the third is everyone else.
 
-The purpose is to show that various stakeholders start on their change journey at different times than others, and this needs to be taken into account as we implement our change.](images/The-commitment-curve.png)
+The purpose is to show that various stakeholders start on their change journey at different times than others, and this needs to be taken into account as we implement our change.](/framework-for-leading-change/engaging-with-key-stakeholders/images/The-commitment-curve.png)
 
 
 
