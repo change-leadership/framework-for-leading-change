@@ -67,17 +67,11 @@ En examinant notre état de préparation et le type de changement, nous pouvons 
 
 Le tableau suivant illustre le risque global que représente le changement pour notre organisation. Il peut nous aider à déterminer l’état de préparation global de notre organisation et, par conséquent, à quel point nous devons investir davantage d’efforts pour renforcer notre capacité de changement. Il peut aussi s’avérer utile pour les séances d’information à l’intention des leaders et des intervenants.
 
-<figure>
+<img src="images/FLC-Change-readiness-and-risk-FR.png" alt="Préparation au changement et risque"
+Préparation au changement et risque. L’axe des y illustre les attributs organisationnels qui les distinguent du changement prêt à changer. L’axe des x illustre les caractéristiques du changement, de petit/progressif à grand/perturbateur. Il y a quatre quadrants au centre. En bas à gauche, le risque est faible. En haut à gauche et en bas à droite, le risque est moyen. En haut à droite, le risque est élevé.
 
-![Préparation au changement et risque. L’axe des y illustre les attributs organisationnels qui les distinguent du changement prêt à changer. L’axe des x illustre les caractéristiques du changement, de petit/progressif à grand/perturbateur. Il y a quatre quadrants au centre. En bas à gauche, le risque est faible. En haut à gauche et en bas à droite, le risque est moyen. En haut à droite, le risque est élevé.](images/FLC-Change-readiness-and-risk-FR.png)
-
-<figcaption>
 
 Adapté de Prosci, [_Before You Act, Consider These Keys to Preparing for Change_](https://www.prosci.com/blog/keys-to-prepare-for-change)
-
-</figcaption>
-
-</figure>
 
 De nombreuses évaluations attribuent un rang aux divers aspects de l’état de préparation au changement. Par exemple, en utilisant une échelle de 1 à 5, nous pouvons accorder plus de poids à certains aspects de l’état de préparation qu’à d’autres. Pour en savoir plus à ce sujet, reportez-vous à [la section 2 – Moteurs et obstacles : Déterminer l’incidence globale de chaque force](/framework-for-leading-change/nos-moteurs-et-obstacles-du-changement/).
 
