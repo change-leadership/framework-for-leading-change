@@ -167,7 +167,7 @@ La planification est une étape fondamentale de l’exploration, mais nous devon
 
 ![](images/FLC-Navigating.png)
 
-**7.** [La mise en œuvre du changement](/framework-for-leading-change/mise-en-oeuvre-nos-activites-de-changement/) implique la réalisation des activités élaborées dans les premières sections, y compris faire preuve de souplesse, solliciter des commentaires et s’adapter au fur et à mesure.
+**7.** [La mise en œuvre du changement](/framework-for-leading-change/mettre-en-oeuvre-nos-activites-de-changement/) implique la réalisation des activités élaborées dans les premières sections, y compris faire preuve de souplesse, solliciter des commentaires et s’adapter au fur et à mesure.
 
 ### Elle nous aide également à garder quelques points à l’esprit
 
