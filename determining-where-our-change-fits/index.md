@@ -15,17 +15,16 @@ We may need to use both of these feedback loops in our change effort, but for a 
 
 **Our organization through a Systems Thinking lens**
 
-<figure>
+
 
 ![A complex pond ecosystem with a variety of flora and fauna that rely on each other for survival.](images/FLC-Ecosystem.jpg)
 
-<figcaption>
+
 
 _Copyright_ [_istockphoto.com_]
 
-</figcaption>
 
-</figure>
+
 
 **Our organization through a traditional lens**
 
