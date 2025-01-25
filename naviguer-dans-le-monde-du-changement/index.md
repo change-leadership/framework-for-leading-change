@@ -25,7 +25,7 @@ Dans le cadre de cette section, nous allons :
 
 - [Gouvernance du changement](/framework-for-leading-change/gouvernance-du-changement/)
 
-- [Apprendre à diriger le changement dans un environnement de travail virtuel](/framework-for-leading-change/diriger-le-changement-dans-un-environnement-virtuel-hybridge/)
+- [Apprendre à diriger le changement dans un environnement de travail virtuel](/framework-for-leading-change/diriger-le-changement-dans-un-environnement-virtuel-hybride/)
 
 - [Bâtir la confiance entre l’équipe de leadership et le personnel](/framework-for-leading-change/batir-la-confiance-et-adopter-un-comportement-exemplaire/)
 
