@@ -60,17 +60,12 @@ The stages of transition are:
 
 **The Change Curve**
 
-<figure>
+<img src="images/FLC-change-curve.png" alt="The change curve process over time in a line graph. A line and arrow on the far left indicates morale and competence. A line on the bottom indicates time. There is a dotted arrow showing peaks and valleys of morale and competence over time as we move through a change">
 
-![The change curve process over time in a line graph. A line and arrow on the far left indicates morale and competence. A line on the bottom indicates time. There is a dotted arrow showing peaks and valleys of morale and competence over time as we move through a change.](images/FLC-change-curve.png)
 
-<figcaption>
 
 _From_ [_Leading Effective Change: A Primer for the HR Professional_](https://www.researchgate.net/publication/345819452_Leading_Effective_Change_A_Primer_for_the_HR_Professional) _by John Austin_
 
-</figcaption>
-
-</figure>
 
 Leadership has a key role in recognizing and acknowledging these phases with staff, in understanding and validating the real losses people experience when a change is proposed, and generally in helping people through the transition. A good resource on transitions is _Managing Transitions_ by William Bridges.
 
@@ -102,6 +97,7 @@ Ultimately, we want to be aware that people will be going through a period of tr
 
 **Change adoption**
 
+<img src="images/change-adoption.png" alt="The change curve process over time in a line graph. A line and arrow on the far left indicates morale and competence. A line on the bottom indicates time. There is a dotted arrow showing peaks and valleys of morale and competence over time as we move through a change">
 ![the change adoption curve.] Includes level of effort / commitment on the y axis. Indicates time along the x axis.
 <div></div>
 The points along the change adoption curve are:
@@ -112,7 +108,7 @@ Acceptance (where behaviour change starts)
 Individual adoption (support/coach, feedback/reinforce)
 Institutionalization (measurement, feedback, internalization)
 <div></div>
-Along the X axis are consequences of not understanding/adapting to the change adoption curve. These include: lack of awareness, confusion, denial / negative perception, decision not to support, spotty success, and recidivism.](images/change-adoption.png)
+Along the X axis are consequences of not understanding/adapting to the change adoption curve. These include: lack of awareness, confusion, denial / negative perception, decision not to support, spotty success, and recidivism.]
 
 The adoption curve shows the progression in levels of adoption of the change (the labels in blue just above the curve), including some of the activities needed to support people through this progression located above each blue label.
 
