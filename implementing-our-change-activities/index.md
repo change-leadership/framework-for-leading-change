@@ -97,7 +97,7 @@ Ultimately, we want to be aware that people will be going through a period of tr
 
 **Change adoption**
 
-<img src="images/change-adoption.png" alt="The change curve process over time in a line graph. A line and arrow on the far left indicates morale and competence. A line on the bottom indicates time. There is a dotted arrow showing peaks and valleys of morale and competence over time as we move through a change">
+<img src="images/FLC-change-adoption.png" alt="The change adoption curve">
 The change adoption curve. Includes level of effort / commitment on the y axis. Indicates time along the x axis.
 
 The points along the change adoption curve are:
